@@ -1,0 +1,246 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+    <title></title>
+
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+    <META name="description" content="">
+    <META name="keywords" content="">
+
+    <link rel="stylesheet" href="css/openbexi.css" type="text/css">
+    <link rel="stylesheet" href="css/openbexi_icon.css" type="text/css">
+    <link rel="stylesheet" href="dojox/mobile/themes/iphone/iphone.css">
+    <link rel="stylesheet" href="template/ob_calendar/claro.css" type="text/css">
+    <link rel="stylesheet" href="dojox/mobile/themes/common/domButtons/DomButtonBlackRightArrow16.css">
+    <link rel="stylesheet" href="dojox/mobile/themes/common/domButtons/DomButtonWhiteDownArrow16.css">
+    <link rel="stylesheet" href="css/timeline.css" type="text/css">
+
+    <script type="text/javascript">
+        var OPENBEXI_PAGES_DATA_XML = '<?xml version="1.0" encoding="UTF-8"?><openbexiCreative>	<classe name="ob_server">		<object name="connection_0">			<attribute name="port" port="8282"/>			<attribute name="url" url="new OPENBEXI server"/>			<attribute name="user" user=""/>			<attribute name="passwd" passwd=""/>			<attribute name="path" path=""/>			<attribute name="protocole" protocole="http"/>			<attribute name="connected" connected="false"/>		</object>		<object name="connection_1">			<attribute name="port" port="8282"/>			<attribute name="url" url="http://localhost:8282/openbexi.do"/>			<attribute name="user" user=""/>			<attribute name="passwd" passwd=""/>			<attribute name="path" path=""/>			<attribute name="protocole" protocole="http"/>			<attribute name="connected" connected="true"/>		</object>		<object name="connection">			<attribute name="count" count="2"/>		</object>	</classe>	<classe name="ob_database">		<object name="databaseAdmin">			<attribute name="driver" driver="org.hsqldb.jdbcDriver"/>			<attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/bexi_admin"/>			<attribute name="user" user="sa"/>			<attribute name="passwd" passwd=""/>			<attribute name="connected" connected="false"/>		</object>		<object name="database_0">			<attribute name="driver" driver="org.hsqldb.jdbcDriver"/>			<attribute name="url" url="new database"/>			<attribute name="user" user="root"/>			<attribute name="passwd" passwd=""/>			<attribute name="connected" connected="false"/>		</object>		<object name="connection">			<attribute name="connected" connected="false"/><attribute name="count" count="4"/><attribute name="number" number="3"/></object><object name="databaseCurrent">			<attribute name="connected" connected="false"/>			<attribute name="myName" myName="test"/><attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/test"/><attribute name="user" user="sa"/><attribute name="passwd" passwd=""/><attribute name="driver" driver="org.hsqldb.jdbcDriver"/></object><object name="database_1">			<attribute name="connected" connected="false"/>			<attribute name="myName" myName="fr"/>			<attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/bexi_fr"/>			<attribute name="user" user="sa"/>			<attribute name="driver" driver="org.hsqldb.jdbcDriver"/>			<attribute name="passwd" passwd=""/></object><object name="database_2">			<attribute name="connected" connected="false"/>			<attribute name="myName" myName="en"/>			<attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/bexi_en"/>			<attribute name="user" user="sa"/>			<attribute name="driver" driver="org.hsqldb.jdbcDriver"/>			<attribute name="passwd" passwd=""/></object><object name="database_3">			<attribute name="connected" connected="false"/>			<attribute name="myName" myName="test"/><attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/test"/><attribute name="user" user="sa"/><attribute name="driver" driver="org.hsqldb.jdbcDriver"/><attribute name="passwd" passwd=""/></object></classe><classe name="bexicontext">		<object name="browser">			<attribute name=""/>		</object>		<object name="os">			<attribute name=""/>		</object>		<object name="connection">			<attribute name="url" url="http://localhost:8282/openbexi.do"/>			<attribute name="port" port="80"/>			<attribute name="asynchron" asynchron="true"/>			<attribute name="synchron" synchron="false"/>			<attribute name="post" post="true"/>			<attribute name="get" get="false"/>			<attribute name="user" user="root"/>			<attribute name="passwd" passwd=""/>		</object>		<object name="mode">			<attribute name="getJavascripts"/></object><object name="language">			<attribute name="en"/></object><object name="project">			<attribute name="openbexi_timeline"/></object><object name="page_draft">			<attribute name="openbexi_timeline_draft.html"/></object><object name="page">			<attribute name="openbexi_timeline.html"/></object></classe><classe name="urls"><object name="BODY"><attribute name="index" index="0"/></object><object name="div0"><attribute name="index" index="0"/></object></classe><classe name="url_0"><object name="BODY"><attribute name="functionName" functionName="ob_attach_web_socket"/><attribute name="scriptName" scriptName="project/openbexi_timeline/js/ob_attach_web_socket.js"/><attribute name="protocole" protocole="javascript"/><attribute name="trigger" trigger="onload"/><attribute name="specification" specification=""/><attribute name="parameterCount" parameterCount="10"/><attribute name="parameterName_0" parameterName_0="widget_id"/><attribute name="parameterType_0" parameterType_0="string"/><attribute name="parameterSpecification0" parameterSpecification0="TBD"/><attribute name="parameterName_1" parameterName_1="widget_type"/><attribute name="parameterType_1" parameterType_1="string"/><attribute name="parameterSpecification1" parameterSpecification1="TBD"/><attribute name="parameterName_2" parameterName_2="URL"/><attribute name="parameterType_2" parameterType_2="string"/><attribute name="parameterSpecification2" parameterSpecification2="Ex: ws://localhost:8080/OPENBEXI_Creative/openbexi_RealTime.do"/><attribute name="parameterName_3" parameterName_3="username"/><attribute name="parameterType_3" parameterType_3="string"/><attribute name="parameterSpecification3" parameterSpecification3="TBD"/><attribute name="parameterName_4" parameterName_4="passwd"/><attribute name="parameterType_4" parameterType_4="string"/><attribute name="parameterSpecification4" parameterSpecification4=""/><attribute name="parameterName_5" parameterName_5="jws_request_type"/><attribute name="parameterType_5" parameterType_5="string"/><attribute name="parameterSpecification5" parameterSpecification5=""/><attribute name="parameterName_6" parameterName_6="retriever_host"/><attribute name="parameterType_6" parameterType_6="string"/><attribute name="parameterSpecification6" parameterSpecification6="Ex: 7777"/><attribute name="parameterName_7" parameterName_7="retriever_port"/><attribute name="parameterType_7" parameterType_7="string"/><attribute name="parameterSpecification7" parameterSpecification7="Ex: 7777"/><attribute name="parameterName_8" parameterName_8="retriever_object"/><attribute name="parameterType_8" parameterType_8="string"/><attribute name="parameterSpecification8" parameterSpecification8="TBD"/><attribute name="parameterName_9" parameterName_9="retriever_polling"/><attribute name="parameterType_9" parameterType_9="string"/><attribute name="parameterSpecification9" parameterSpecification9=""/><attribute name="widget_id" widget_id="BODY"/></object><object name="div0"><attribute name="functionName" functionName="ob_attach_web_socket"/><attribute name="scriptName" scriptName="project/openbexi_timeline/js/ob_attach_web_socket.js"/><attribute name="protocole" protocole="javascript"/><attribute name="specification" specification=""/><attribute name="parameterCount" parameterCount="10"/><attribute name="parameterName_0" parameterName_0="widget_id"/><attribute name="parameterType_0" parameterType_0="string"/><attribute name="parameterSpecification0" parameterSpecification0="TBD"/><attribute name="parameterName_1" parameterName_1="widget_type"/><attribute name="parameterType_1" parameterType_1="string"/><attribute name="parameterSpecification1" parameterSpecification1="TBD"/><attribute name="parameterName_2" parameterName_2="URL"/><attribute name="parameterType_2" parameterType_2="string"/><attribute name="parameterSpecification2" parameterSpecification2="Ex: ws://localhost:8080/OPENBEXI_Creative/openbexi_RealTime.do"/><attribute name="parameterName_3" parameterName_3="username"/><attribute name="parameterType_3" parameterType_3="string"/><attribute name="parameterSpecification3" parameterSpecification3="TBD"/><attribute name="parameterName_4" parameterName_4="passwd"/><attribute name="parameterType_4" parameterType_4="string"/><attribute name="parameterSpecification4" parameterSpecification4=""/><attribute name="parameterName_5" parameterName_5="jws_request_type"/><attribute name="parameterType_5" parameterType_5="string"/><attribute name="parameterSpecification5" parameterSpecification5=""/><attribute name="parameterName_6" parameterName_6="retriever_host"/><attribute name="parameterType_6" parameterType_6="string"/><attribute name="parameterSpecification6" parameterSpecification6="Ex: 7777"/><attribute name="parameterName_7" parameterName_7="retriever_port"/><attribute name="parameterType_7" parameterType_7="string"/><attribute name="parameterSpecification7" parameterSpecification7="Ex: 7777"/><attribute name="parameterName_8" parameterName_8="retriever_object"/><attribute name="parameterType_8" parameterType_8="string"/><attribute name="parameterSpecification8" parameterSpecification8="TBD"/><attribute name="parameterName_9" parameterName_9="retriever_polling"/><attribute name="parameterType_9" parameterType_9="string"/><attribute name="parameterSpecification9" parameterSpecification9=""/><attribute name="trigger" trigger="onload"/><attribute name="widget_id" widget_id="div0"/><attribute name="widget_type" widget_type="openbexi_timeline"/><attribute name="URL" URL="ws://localhost:8080/openbexi_RealTime.do"/><attribute name="jws_request_type" jws_request_type="test"/><attribute name="retriever_host" retriever_host="localhost"/><attribute name="retriever_port" retriever_port="7778"/><attribute name="retriever_polling" retriever_polling="2000"/></object></classe><classe name="ob_ssh">		<object name="connection_0">			<attribute name="website" website="new_FTP_connection"/>			<attribute name="host" host="new_FTP_connection"/>			<attribute name="user" user=""/>			<attribute name="PublicKey" PublicKey="ssh-dss"/>			<attribute name="SocketTimeout" SocketTimeout="30000"/>			<attribute name="connected" connected="false"/>			<attribute name="passwd" passwd=""/>		</object>		<object name="connection_1">			<attribute name="website" website="local"/><attribute name="host" host="127.0.0.1"/><attribute name="user" user="openbexi"/><attribute name="PublicKey" PublicKey="FTP"/><attribute name="SocketTimeout" SocketTimeout="30000"/><attribute name="path" path=""/><attribute name="passwd" passwd=""/></object><object name="connection_2"><attribute name="website" website="website2"/><attribute name="host" host="host2"/><attribute name="user" user=""/><attribute name="PublicKey" PublicKey="ssh-dss"/><attribute name="SocketTimeout" SocketTimeout="30000"/><attribute name="path" path="/"/><attribute name="passwd" passwd=""/></object><object name="connection_3"><attribute name="website" website="website3"/><attribute name="host" host="host3"/><attribute name="user" user=""/><attribute name="PublicKey" PublicKey="ssh-dss"/><attribute name="SocketTimeout" SocketTimeout="30000"/><attribute name="path" path="/"/><attribute name="passwd" passwd=""/></object><object name="connection">			<attribute name="tests" tests="6"/>			<attribute name="no_name" no_name="4"/>			<attribute name="count" count="4"/><attribute name="connected" connected="false"/><attribute name="number" number="1"/></object></classe><classe name="chartflow"><object name="node"><attribute name="count" count="0"/></object></classe><classe name="page"><object name="javascript"><attribute name="file_0" file_0="javascript/openbexi_xml.js"/><attribute name="file_1" file_1="javascript/openbexi_timeline.js"/><attribute name="file_2" file_2="javascript/timeline/timeline_js/timeline-api.js"/><attribute name="file_3" file_3="javascript/timeline/*"/><attribute name="file_4" file_4="template/ob_timeline/themes/createDefaultTheme.js"/><attribute name="file_5" file_5="template/ob_timeline/bands/createDefaultBands_2.js"/><attribute name="file_6" file_6="template/ob_timeline/themes/createDarkTheme.js"/><attribute name="file_7" file_7="project/openbexi_timeline/js/ob_attach_web_socket.js"/><attribute name="file_8" file_8="javascript/openbexi_json.js"/><attribute name="file_9" file_9="javascript/prototype.js"/><attribute name="file_10" file_10="javascript/scriptaculous.js"/><attribute name="file_11" file_11="javascript/effects.js"/><attribute name="file_12" file_12="javascript/slider.js"/><attribute name="file_13" file_13="js/createDarkTheme.js"/><attribute name="file_14" file_14="javascript/openbexi_websocket.js"/></object><object name="timeline-band-1"><attribute name="listStyleImage" listStyleImage=""/></object><object name="body"><attribute name="background" background=""/><attribute name="image" image=""/><attribute name="bgColor" bgColor="#ffffff"/><attribute name="backgroundRepeat" backgroundRepeat="repeat"/></object><object name="version"><attribute name="code" code="4.2 Beta"/></object><object name="div0"><attribute name="cursor" cursor="undefined"/><attribute name="listStyleImage" listStyleImage=""/><attribute name="type" type="openbexi_timeline"/><attribute name="subtype" subtype="undefined"/><attribute name="mode" mode="local"/><attribute name="parentId" parentId="BODY"/><attribute name="parentType" parentType="openbexi_body"/><attribute name="events" events=""/><attribute name="timeout" timeout="0"/><attribute name="resync" resync="false"/><attribute name="bands" bands="createDefaultBands_2"/><attribute name="bands_path" bands_path="template/ob_timeline/bands/"/><attribute name="zone" zone="GMT+0"/><attribute name="theme" theme="createDarkTheme"/><attribute name="themeName" themeName="timeline-default dark-theme"/><attribute name="start_date" start_date="currentTime"/><attribute name="start_end" start_end=""/><attribute name="obzindex" obzindex="0"/></object></classe></openbexiCreative>'
+    </script>
+
+    <script type="text/javascript" src="javascript/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery/jQueryRotate.js"></script>
+    <script type="text/javascript"> var $ob_jquery = jQuery.noConflict();</script>
+
+    <script type="text/javascript">
+        var Timeline_ajax_url = "javascript/timeline/timeline_ajax/simile-ajax-api.js";
+        var Timeline_urlPrefix = "javascript/timeline/timeline_js/";
+        var Timeline_parameters = "bundle=true";
+    </script>
+
+    <script type="text/javascript" src="javascript/openbexi_timeline.js"></script>
+    <script type="text/javascript" src="javascript/timeline/timeline_js/timeline-api.js"></script>
+    <script type="text/javascript">
+        SimileAjax.History.enabled = false;
+    </script>
+
+    <script type="text/javascript" src="javascript/openbexi_xml.js"></script>
+    <script type="text/javascript" src="project/openbexi_timeline/js/ob_attach_web_socket.js"></script>
+    <script type="text/javascript" src="javascript/openbexi_json.js"></script>
+    <script type="text/javascript" src="javascript/prototype.js"></script>
+    <script type="text/javascript" src="javascript/scriptaculous.js"></script>
+    <script type="text/javascript" src="javascript/effects.js"></script>
+    <script type="text/javascript" src="javascript/slider.js"></script>
+    <script type="text/javascript" src="javascript/openbexi_websocket.js"></script>
+    <script type="text/javascript" src="dojox/mobile/deviceTheme.js"
+            data-dojo-config="mblThemeFiles: ['base','Accordion','TabBar','dijit.Calendar']">
+    </script>
+    <script type="text/javascript" src="dojo/dojo.js"
+            data-dojo-config="async: true, parseOnLoad: true, mblAlwaysHideAddressBar: true">
+    </script>
+    <script type="text/javascript">
+        require([
+            "dojo/parser",
+            "dojox/mobile/parser",
+            "dojo/ready",
+            "dojo/dom",
+            "dijit/registry",
+            "dojox/mobile",
+            "dojox/mobile/compat",
+            "dojox/mobile/ScrollableView",
+            "dojox/mobile/FixedSplitter",
+            "dojox/mobile/Pane",
+            "dojox/mobile/Accordion",
+            "dojox/mobile/ContentPane",
+            "dojox/mobile/TabBar",
+            "dijit/dijit", // loads the optimized dijit layer
+            "dijit/Calendar"
+        ]);
+        document.ondragover = function(event) {
+            openbexi_timeline_ondrop_cancel(event);
+            event.preventDefault();
+        }
+        window.ondrop = function(event) {
+            openbexi_timeline_ondrop_ok(event);
+            event.preventDefault();
+        };
+        window.ondragcenter = function(event) {
+            openbexi_timeline_ondrop_cancel(event);
+            event.preventDefault();
+        };
+        window.ondragleave = function(event) {
+            openbexi_timeline_ondrop_cancel(event);
+            event.preventDefault();
+        };
+    </script>
+
+    <style type="text/css">
+        #div0 {
+            top: 90px;
+            left: 252px;
+            width: 968px;
+            height: 575px;
+            position: absolute;
+            background: rgb(241, 225, 255) none repeat scroll 0 0;
+            z-index: 0;
+            cursor: default;
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body class=claro style="visibility:hidden;"
+      onload="openbexi_createTimeline(null,'div0','');ob_attach_web_socket('div0', 'openbexi_timeline', 'ws://localhost:8080/OPENBEXI_Creative/openbexi_RealTime.do', '', '', 'test', 'localhost', '7778', '', '2000');"
+      onunload="ob_exitPage('div0');">
+
+<div CLASSE="DIV_TIMELINE" class="ob_timeline_menu" id="div0_menu_timeline" obzindex="0"
+     style="top: 10px; left: 10px; width: 280px; height: 800px;  position: absolute;overflow:hidden ">
+    <div id="div0_timeline_scroll_menu" data-dojo-type="dojox.mobile.ScrollableView">
+        <div data-dojo-type="dojox.mobile.Pane"
+             style="visibility:visible;position: relative;left:0;top: 0; width: 100%; height:1500px;  cursor: move;  ">
+            <div id="div0_timeline_menu_clock" data-dojo-type="dojox.mobile.Pane"
+                 class="ob_pane_timeline_menu_clock">
+                <div id="div0_timeline_clock" data-dojo-type="dojox.mobile.Pane"
+                     data-dojo-props='icon:"gif/box_on_x64.png",stateful:true,variableHeight:true'>
+                </div>
+            </div>
+            <div id="div0_reset_center" data-dojo-type="dojox.mobile.Accordion"
+                 data-dojo-props='singleOpen:true,fixedHeight:false,animation:true'
+                 class="ob_pane_timeline_menu_accordeon">
+                <div data-dojo-type="dojox.mobile.ContentPane"
+                     data-dojo-props='icon1:"gif/refresh_black_x48.png",label:"Go to current time", lazy:true,variableHeight:true'>
+                </div>
+            </div>
+            <div id="div0_timeline_calendar_accordeon" data-dojo-type="dojox.mobile.Accordion"
+                 data-dojo-props='singleOpen:true,fixedHeight:false,animation:true'
+                 class="ob_pane_timeline_menu_accordeon">
+                <div id="div0_timeline_calendar_pane" data-dojo-type="dojox.mobile.ContentPane"
+                     data-dojo-props='icon1:"gif/goto_x48.png",label:"Go to ...", lazy:true,variableHeight:true'>
+                    <div id="div0_timeline_calendar" data-dojo-type="dijit/Calendar"
+                         data-dojo-props='onChange:openbexi_timeline_goto'>
+
+                    </div>
+                </div>
+            </div>
+            <div id="div0_timeline_grant" data-dojo-type="dojox.mobile.Accordion"
+                 data-dojo-props='singleOpen:true,fixedHeight:false,animation:true'
+                 class="ob_pane_timeline_menu_accordeon">
+                <div data-dojo-type="dojox.mobile.ContentPane"
+                     data-dojo-props='icon1:"gif/calendar_grant_black_x48.png",label:"Grant view", lazy:true'>
+                </div>
+            </div>
+            <div id="div0_timeline_tabular" data-dojo-type="dojox.mobile.Accordion"
+                 data-dojo-props='singleOpen:true,fixedHeight:false,animation:true'
+                 class="ob_pane_timeline_menu_accordeon">
+                <div data-dojo-type="dojox.mobile.ContentPane"
+                     data-dojo-props='icon1:"gif/calendar_tabular_black_x48.png",label:"Tabular view", lazy:true'>
+                </div>
+            </div>
+            <div id="div0_recurring_task" data-dojo-type="dojox.mobile.Accordion"
+                 data-dojo-props='singleOpen:true,fixedHeight:false,animation:true'
+                 class="ob_pane_timeline_menu_accordeon">
+                <div data-dojo-type="dojox.mobile.ContentPane"
+                     data-dojo-props='icon1:"gif/calendar_black_x48.png",label:"Add events", lazy:true'>
+                </div>
+            </div>
+            <div id="div0_timeline_zoom" data-dojo-type="dojox.mobile.Accordion"
+                 data-dojo-props='singleOpen:true,fixedHeight:false,animation:true'
+                 class="ob_pane_timeline_menu_accordeon">
+                <div data-dojo-type="dojox.mobile.ContentPane"
+                     data-dojo-props='icon1:"gif/zoom_black_x48.png",label:"Zoom", lazy:true'>
+                </div>
+            </div>
+            <div id="div0_timeline_search" data-dojo-type="dojox.mobile.Accordion"
+                 data-dojo-props='singleOpen:true,fixedHeight:false,animation:true'
+                 class="ob_pane_timeline_menu_accordeon">
+                <div data-dojo-type="dojox.mobile.ContentPane"
+                     data-dojo-props='icon1:"gif/search_black_x48.png",label:"Search", lazy:true'>
+                </div>
+            </div>
+            <div id="div0_timeline_tools" data-dojo-type="dojox.mobile.Accordion"
+                 data-dojo-props='singleOpen:true,fixedHeight:false,animation:true'
+                 class="ob_pane_timeline_menu_accordeon">
+                <div data-dojo-type="dojox.mobile.ContentPane"
+                     data-dojo-props='icon1:"gif/tools_black_x48.png",label:"Tools", lazy:true'>
+                </div>
+            </div>
+        </div>
+        <img src="gif/ob_close_red_x48.png"
+             onclick="openbexi_timeline_show_menu(event,'div0',OB_SHOW_OFF);"
+             onmouseover="this.src='gif/ob_close_standby_x48.png';"
+             onmouseout="this.src='gif/ob_close_red_x48.png';"
+             style="top: 10px; left: 21px; width: 32px; height: 32px;  cursor:pointer; position: absolute;">
+    </div>
+    <div id="div0_timeline_menu_foot" class="ob_timeline_footer" data-dojo-type="dojox.mobile.Pane"
+         style="overflow:hidden;visibility:visible;position: absolute; bacground:red;width:100%;height:65px;top:735px;">
+        <div id="div0_timeline_menu_foot_connection"
+             style="position:absolute;top:0px;left:10px;">
+            <img src="gif/shutdown_x32.png" alt=""
+                 style="font-size:12px;color:black;position:absolute;top:8px;left:25px;width:32px;height:32px;">
+
+            <div id="div0_timeline_menu_foot_connection_text"
+                 style="font-size:16px;color:red;position:absolute;top:14px;left:85px;height:32px;width:200px;">
+                <b>You are not connected ...</b>
+            </div>
+        </div>
+        <div id="div0_timeline_menu_foot_clock"
+             style="text-align:center;font-size:9px;color:black;position:absolute;top:50px;left:10px;">Standby ...
+        </div>
+    </div>
+</div>
+
+<div CLASSE="DIV_TIMELINE" class="ob_timeline_menu" id="div0_timeline" obzindex="0"
+     style="top: 10px; left: 302px; width: 1272px; height: 800px;  position: absolute;overflow:hidden ">
+    <div data-dojo-type="dojox.mobile.FixedSplitter"
+         data-dojo-props='orientation:"V"'>
+        <div data-dojo-type="dojox.mobile.FixedSplitter"
+             style="height:92%;overflow:hidden;"
+             data-dojo-props='orientation:"H"'>
+            <div id="div0_scroll_body" class="ob_timeline_menu"
+                 data-dojo-type="dojox.mobile.ScrollableView">
+                <div id="div0_timeline_slider" data-dojo-type="dojox.mobile.Pane" class="ob_timeline_slider"
+                     style="visibility:visible;position: relative;left:4px;top: 10px; width: 13px; height:800px;  cursor: move;  ">
+                </div>
+                <div id="div0_tabular" class="ob_timeline_menu" data-dojo-type="dojox.mobile.Pane">
+                </div>
+                <div class="timeline-default" CLASSE="DIV_TIMELINE" id="div0" data-dojo-type="dojox.mobile.Pane"
+                     obzindex="0"
+                     style="visibility:visible;position: absolute;top: 10px; left: 22px; height:800px; border-radius: 1em;     z-index: 0; cursor: default;  ">
+                </div>
+            </div>
+        </div>
+        <div id="div0_timeline_foot" class="ob_timeline_footer" data-dojo-type="dojox.mobile.Pane"
+             style="overflow:hidden;visibility:visible;position: absolute;  ">
+        </div>
+    </div>
+
+    <img id="div0_timeline_menu_icon" src="gif/ob_menu_x32.png"
+         onclick="openbexi_timeline_show_menu(event,'div0',OB_SHOW_ON);"
+         onmouseover="this.src='gif/ob_menu_standby_x32.png';"
+         onmouseout="this.src='gif/ob_menu_x32.png';"
+         style="width: 32px; height: 32px;  cursor:pointer; position: absolute;visibility:hidden;border-radius: 1em;">
+    <img id="div0_timeline_refresh_icon" src="gif/refresh_black_x32.png"
+         onclick="openbexi_timeline_reset_center('div0');"
+         onmouseover="this.src='gif/refresh_black_standby_x32.png';"
+         onmouseout="this.src='gif/refresh_black_x32.png';"
+         style="width: 32px; height: 32px;  cursor:pointer; position: absolute;visibility:hidden;border-radius: 1em;">
+</div>
+<div id="ob_debug_timeline_real_time" visibility="hidden" style=" position: absolute;overflow:auto ">
+</div>
+<div id="ob_debug_timeline" visibility="hidden" style=" position: absolute;overflow:auto ">
+</div>
+</body>
+</html>

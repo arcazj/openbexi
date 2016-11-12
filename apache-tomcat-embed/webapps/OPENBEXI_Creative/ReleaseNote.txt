@@ -1,0 +1,111 @@
+Updated by JC Arcaz March 15 2015.
+
+The OPENBEXI Creative package (server side) comes with the OPENBEXI HTML Builder client, an embedded Tomcat 7 server, an embedded Hsqldb (SQL relational database engine), and a firefox browser.
+
+Window (7,8 VISTA and XP) installation:
+-----------------------------------
+if you have downloaded OPENBEXICreative-5.0-windows-installer
+You are ready to install the software by clicking on it from your desktop environment. 
+To complete the installation, just follow the instructions on screen.
+ 
+
+Linux installation:
+-------------------
+About the Linux version, no installer is provided after the version 3.0.
+To install 5.0  from linux, just  follow the steps below:
+cd  ~ 
+gunzip OPENBEXICreative5.0-linux.tar.gz
+tar xvf OPENBEXICreative5.0-linux.tar
+cd OPENBEXICreative5.0-linux
+And start the OpenBEXI server:
+nohup OPENBEXI_creative.sh &
+
+Note:You may ask your administrator to start OpenBEXI at the boot.
+
+After starting the Linux server, you can connect to OpenBEXI via any modern
+browser and start creating web pages from any computer (Linux window, mac) connected to your network.
+
+From your internet browser type the URL depending from where you are, like:
+http://localhost:8282/openbexi.do  (if you are starting an internet  browser
+from the box where you installed OpenBEXI)
+http://<IP adress>:8282/openbexi.do ( IP adress of the box from where you installedOpenBEXI)
+To get an IP adress from linux type ifconfig.
+
+To get the best experience use the last version of Firefox or google Chrome
+supporting HTML5 features. You can directly drag and drop images or XML/CSV
+files supported by charts, DOJO grids, timelines from the web or your window
+explorer to create your web pages.
+
+                                      
+                                           -----------------
+
+OPEN OPENBEXI HTML Builder 5.0 (client side):
+==================================================
+OPEN OPENBEXI HTML Builder is a WYSIWYG HTML editor that allows you to create and publish Web pages.
+From your browser, you can create and save your WEB pages by clicking, resizing, updating, removing HTML elements where you want them to appear. 
+To see the tool in action go to www.openbexi.com tutorial.
+ 
+OPEN OPENBEXI HTML Builder works with Firefox 3 and 4, Mozilla, Safari (Window version), Google Chrome and IE9.
+
+The following features are available:
+• The form widgets can be used to create grid, list, field set, filtered field, checkbox, combo box, text and submit button.  
+• The WYSIWYG graph editor allows to create nodes and edges.  
+• Two powerful text editors (DOJO Editor) can be used to create formatted text like MS word.  
+• The picture editor and media editor can be used to create and display video, audio or flash files.  
+• The text field editor, line editor, link editor, checkbox editor, list editor, clock editor, calendar, box editor and button editor are available to design complex Web pages. 
+• The SIMILE editor allows you to create timeline.
+• The tabber editor allows you to create tab menu.  
+• The fisheyes editor from DOJO allows you to create Mac style menu.
+• The chart editor from jfree allows you to create pie, bar and line chart.
+• The tree editor allows you to create dojo tree.
+• Provide WYSIWYG interface to enable experimental real-time communications in Web browsers using jwebsocket (see http://jwebsocket.org/).
+• Provide XML,JSON, CSS editors to implement and attach widget data (using CodeMirror).
+• Provide Javascript editor to implement and attach widget functions (using CodeMirror).
+
+A powerful OPEN OPENBEXI inspector allows you to update CSS style and link your HTML object to URL, Javascript functions and PHP.
+A powerful OPEN OPENBEXI navigator allows you to pick up media files and Javascript functions.
+
+ 
+OPEN OPENBEXI creative Version 5.0 (server side):
+=====================================================
+
+OPEN OPENBEXI creative is the server side of OPEN BEXI and works with the client side: OPEN OPENBEXI HTML Builder 5.0.
+OPENBEXI creative provides a full WEB 2.0 experience from any local and remote OPEN BEXI servers.
+
+The version 5.0 has a powerful media and navigator editor. It works with OPENBEXI creative providing a full WEB 2.0 experience. OPENBEXI creative offers a complete java integration pack for java with Tomcat 7 embedded, Hsqldb embedded and firefox.
+
+For more detail go to www.openbexi.com, or sourceForge where the project is hosted.
+From release you can dynamically publish your Web page to your domain name provider if he supports SSH FTP or SFTP. 
+Major and minor bugs have been fixed in this version. 
+
+Flash tutorial are available from www.openbexi.com and www.openbexi-creative.com. 
+Comments are greatly appreciated! Use the SourceForge (http://sourceforge.net/projects/ob-htmlbuilder/ or the Freshmeat website (http://freecode.com/projects/ob-htmlbuilder) to give me your feedback.  
+
+                                           -----------------
+Note:
+-- OPENBEXI HTML Builder 5.0 and OPENBEXI Creative uses the following open sources:
+Client side:
+=========== 
+-- firefox 5.0: Web browser.Mozilla Public License. 
+-- DHTML libraries from www.walterzorn.com for resizing and dragging pictures and layers - LICENSE: LGPL.
+-- Dojo toolkit libraries 1.5 http://dojotoolkit.org/ (GNU General Public License).
+-- wz_dragdrop.js v. 4.88 http://www.walterzorn.com. LICENSE: LGPL
+-- wz_jsgraphics.js    v. 2.33 http://www.walterzorn.com. LICENSE: LGPL
+-- Prototype.js version 1.6.0 (c). http://www.prototypejs.org/ .LICENSE: MIT.
+-- scriptaculous.js v1.8.0.http://script.aculo.us. LICENSE: MIT. 
+-- simile: http://code.google.com/p/simile-widgets/ LICENSE: Timeline is open source software and is licensed under the BSD license.
+-- jwebsockets, jWebsocket is free software, provided to you under the terms and conditions of the LGPL license (http://www.gnu.org/licenses/lgpl.html ).
+-- CodeMirror 2.0 is a JavaScript library that can be used to create a relatively pleasant editor interface for code-like content, it is released under a MIT-style license.
+
+Server side:
+============
+-- Tomcat 7 embedded -Apache Tomcat is the servlet container that is used in the official Reference Implementation for the Java Servlet and JavaServer Pages technologies.  Apache License Version 2.0, January 2004 http://www.apache.org/licenses/
+-- Sun JRE 1.6 (Java Runtime Environment) see Oracle Binary Code License Agreement for the Java SE Platform Products and JavaFX.
+-- HSQLDB 1.8 embeded: HSQLDB is the leading SQL relational database engine written in Java. It has a JDBC driver and supports a rich subset of ANSI-92 SQL (BNF tree format) plus SQL 99 and 2003 enhancements.: BSD License. 
+-- MySQL Connector/J 5.0.4 -  GPL.
+-- j2ssh v 0.2.9 -SSHTools is a suite of Java SSH applications providing a Java SSH API, SSH Terminal, SSH secured VNC client, SFTP client and SSH Daemon. - GNU General Public License (GPL) .
+-- edtFTPj/Free is a Java library which allows developers to add file transfer capabilities to their applications- visit www.enterpriseedt.com
+-- jfreechart: http://www.jfree.org/jfreechart/ LICENCE:GNU LGPL
+-- jsoup is an open source project distributed under the liberal MIT license. The source code is available at GitHub.jsoup is a Java library for working with real-world HTML. It provides a very convenient API for extracting and manipulating data, using the best of DOM, CSS, and jquery-like methods
+-- jwebsockets, jWebsocket is free software, provided to you under the terms and conditions of the LGPL license (http://www.gnu.org/licenses/lgpl.html ).
+*/

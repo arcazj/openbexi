@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data wiki-url="http://www.openbexi.com" wiki-section="Simile openbexi Timeline" band_count="1" loadEvents="yes" goto="Dec 28 2012 00:00:00 GMT">
+    <event start='Dec 28 2012 00:00:00 GMT' end='Dec 31 2012 00:00:00 GMT' isDuration="false"
+           icon="/OPENBEXI_Creative/gif/sql_refresh.gif" title="Version 4.2 beta"> TBD.
+    </event>
+    <event start='Sep 28 2012 00:00:00 GMT' end='Dec 15 2012 00:00:00 GMT' isDuration="false"
+           icon="/OPENBEXI_Creative/gif/sql_refresh.gif" title="Version 4.2 alpha"> TBD.
+    </event>
+    <event start='Jul 15 2012 00:00:00 GMT' end='Sep 15 2012 00:00:00 GMT' isDuration="false" title="Version 4.1 beta4">
+        Added HTML5 drag and drop view/themes capabilities onto Timeline/Simile. Added Css3 button templates. Fixed some
+        IE8 compatibility issues.Please go to the tutorial to learn how to use OPENBEXI.
+    </event>
+    <event start='Jul 07 2012 00:00:00 GMT' title="Version 4.1 beta3"> Added HTML5 drag and drop capabilities onto
+        Dygraphs. Users can drag CSV files and JSON Dygraphs views.Upgraded JSPlumb to build chart-flow (Version
+        1.3.10).Upgraded CodeMirror for JSON, CSV, XML, JS and HTML editor (Version 2.3).Please go to the tutorial to
+        learn how to use OPENBEXI.
+    </event>
+    <event start='Jun 27 2012 00:00:00 GMT' end='Sep 15 2012 00:00:00 GMT' isDuration="false" title="Version 4.1 beta2">
+        Fixed Send-to-Back/Bring-to-Front issue.Fixed JSON indentation issue for tree editor. Fixed JavaScript functions
+        not properly loaded from HTML Body.Added event handlers on body . Please go to the tutorial to learn how to use
+        OPENBEXI.
+    </event>
+    <event start='Jun 28 2012 00:00:00 GMT' end='Sep 15 2012 00:00:00 GMT' isDuration="false"
+           icon="/OPENBEXI_Creative/gif/sql_refresh.gif" title="Version 4.1 alpha"> A new user-tree modern interface is
+        provided to manage projects, templates, Web pages and CSS. HTML5 features have been implemented to drag and drop
+        image, json or csv files from you desktop to the selected widget of your Web page. OpenBEXI 4.1 is an new
+        experimental Beta Html5 Builder and provides an interface to enable experimental real-time communications in Web
+        browsers using tomcat 7. A chart-flow editor using jsPlumb 1.3.8 provides a powerful way to connect widgets
+        together in the web page and a dygraphs editor to implement dynamic charts have been integrated in this release.
+        Please go to the tutorial to learn how to use OPENBEXI.
+    </event>
+    <event start='Apr 28 2012 00:00:00 GMT' end='Sep 15 2012 00:00:00 GMT' isDuration="false"
+           icon="/OPENBEXI_Creative/gif/sql_refresh.gif" title="Version 4.1"> A new user-tree modern interface is
+        provided to manage projects, templates, Web pages and CSS. HTML5 features have been implemented to drag and drop
+        image, json or csv files from you desktop to the selected widget of your Web page. OpenBEXI 4.1 is an new
+        experimental Beta Html5 Builder and provides an interface to enable experimental real-time communications in Web
+        browsers using tomcat 7. A chart-flow editor using jsPlumb 1.3.8 provides a powerful way to connect widgets
+        together in the web page and a dygraphs editor to implement dynamic charts have been integrated in this release.
+        Please go to the tutorial to learn how to use OPENBEXI.
+    </event>
+    <event start='Jan 22 2012 00:00:00 GMT' end='Sep 15 2012 00:00:00 GMT' isDuration="false"
+           icon="/OPENBEXI_Creative/gif/sql_refresh.gif" title="Testing"> TDB
+    </event>
+    <event start='Jan 03 2011 00:00:00 GMT' title="Version 3.1"> A new user-tree modern interface is provided to manage
+        projects, templates, Web pages and CSS. HTML5 features have been implemented to drag and drop image, json or csv
+        files from you desktop to the selected widget of your Web page. OpenBEXI Creative 3.1 provides picture
+        navigator, simile timeline, DOJO toolkit like editor, calendars, form input validation, trees and grids that
+        allow web developers to quickly develop intelligent web-based applications. All texts, pictures and widgets
+        edited on your browser looks like the web page you are going to publish with the OpenBEXI publisher. Please go
+        to the tutorial to learn how to use OPENBEXI
+    </event>
+    <event start='Sep 20 2010 00:00:00 GMT' title="Version 3.0 alpha"> A new user-tree modern interface is provided to
+        manage projects, templates, Web pages and CSS. OpenBEXI Creative 3.0 provides CKE editor, picture navigator,
+        simile timeline, DOJO toolkit like calendars, form input validation, trees and grids that allow web developers
+        to quickly develop intelligent web-based applications. All texts, pictures and widgets edited on your brother
+        looks like the web page you are going to publish with the OpenBEXI publisher. Please go to the tutorial to learn
+        how to use OPENBEXI
+    </event>
+    <event start='Jan 01 2009 00:00:00 GMT' title="Version 2.1"> The OPENBEXI Creative package 2.1 (server side) comes
+        with a embedded Tomcat server, a embedded Hsqldb (SQL relational database engine), and a preconfigured firefox
+        browser. OPENBEXI HTML Builder is the client side working with any modern browsers (Firefox, IE or safari), and
+        providing a full WYSIWYG HTML Web editor to create, update Web pages . A powerfull explorer manages, publishes
+        on fly and archives your Web pages through multiple projects or templates. From this release you can generate
+        static Web pages or Ajax applications (forms, grids) using the FCKeditor, the Dojo 1.1 library and more. If you
+        master CSS, a powerfull CSS picker is also available to give more professional look to your Web pages. Please go
+        to the tutorial to learn how to use OPENBEXI
+    </event>
+    <event start='Sep 01 2008 00:00:00 GMT' title="Version 2.0 betaR4"> The OPENBEXI Creative package 2.0 betaR4 (server
+        side) comes with a embedded Tomcat server, a embedded Hsqldb (SQL relational database engine), and a
+        preconfigured firefox browser. OPENBEXI HTML Builder is the client side working with any modern browsers
+        (Firefox, IE or safari), and providing a full WYSIWYG HTML Web editor to create, update Web pages . A powerfull
+        explorer manages, publishes on fly and archives your Web pages through multiple projects or templates. From this
+        release you can generate static Web pages or Ajax applications (forms, grids) using the FCKeditor, the Dojo 1.1
+        library and more. If you master CSS, a powerfull CSS picker is also available to give more professional look to
+        your Web pages. Please go to the tutorial to learn how to use OPENBEXI
+    </event>
+    <event start='Jun 28 2009 00:00:00 GMT' end='Sep 15 2009 00:00:00 GMT' isDuration="false"
+           icon="/OPENBEXI_Creative/gif/sql_refresh.gif" title="Version 2.0 test"> A new user-tree modern interface is
+        provided to manage projects, templates, Web pages and CSS. HTML5 features have been implemented to drag and drop
+        image, json or csv files from you desktop to the selected widget of your Web page. OpenBEXI 4.1 is an new
+        experimental Beta Html5 Builder and provides an interface to enable experimental real-time communications in Web
+        browsers using tomcat 7. A chart-flow editor using jsPlumb 1.3.8 provides a powerful way to connect widgets
+        together in the web page and a dygraphs editor to implement dynamic charts have been integrated in this release.
+        Please go to the tutorial to learn how to use OPENBEXI.
+    </event>
+    <event start='Apr 01 2008 00:00:00 GMT' title="Version 2.0 betaR3  "> The OPENBEXI Creative package 2.0 betaR3
+        (server side) comes with the OPENBEXI HTML Builder client, a embedded Tomcat server, a embedded Hsqldb (SQL
+        relational database engine), and a preconfigured firefox browser. Dojo 1.0 has been integrated into the OPENBEXI
+        HTML Builder client. This version support Dojo tables from inspector, and validation text boxes. The dojo widget
+        can be dynamically created , moved, resized and linked to any SQL database supporting JDBC from the real WYSIWYG
+        OPENBEXI builder. Complex forms can be created without any HTML, CSS, Ajax, and SQL knowledges. This release has
+        been tested with linux (Fedora), XP and Vista. This release is compatible with Safari. Major and minor bugs have
+        been fixed in this version. A new tutorial to learn how to build forms has been added to the tutorial
+        section:http://www.openbexi.com/ob_creative_form_demo.html
+    </event>
+    <event start='Feb 01 2008 00:00:00 GMT' title="New   www.openbexi-creative.com site"> OPENBEXI Creative site is
+        available. It has been designed with OPENBEXI Creative version 2 betaR2 .The new publishing function is used to
+        create, update or remove the Web page to www.openbexi-creative.com
+    </event>
+    <event start='Feb 02 2008 00:00:00 GMT' title="Version 2.0 betaR2  "> The OPENBEXI Creative package 2.0 betaR2
+        (server side) comes with the OPENBEXI HTML Builder client, a embedded Tomcat server, a embedded Hsqldb (SQL
+        relational database engine), and a preconfigured firefox browser. FCKeditor 2.5 has been integrated into the
+        OPENBEXI HTML Builder client. This HTML text editor brings a desktop editor like MS Word. This version allows to
+        dynamically publish your Web page to your WEb site if your domain name provider supports SSH or SFTP. The light
+        weight Hsqldb database engine has been embedded into OPENBEXI for querying and modifying data from HTML Builder.
+        OPENBEXI version 2 supports Mysql and Oracle. Major and minor bugs have been fixed in this version.
+    </event>
+    <event start='Jan 02 2008 00:00:00 GMT' title="New www.openbexi.com site"> A new OPENBEXI Website is available. It
+        has been redesigned with OPENBEXI Creative version 2 betaR2 .The new publishing function is used to create,
+        update or remove the Web page to www.openbexi.com.
+    </event>
+    <event start='Nov 01 2007 00:00:00 GMT' title="Version 2.0 beta "> OPEN BEXI HTML Builder (client side) comes with
+        OPEN BEXI Creative (the server side). The version 2.0 beta has a powerful media and explorer editor. It works
+        with OPENBEXI creative providing a full WEB 2.0 experience. OPENBEXI creative offers a complete java integration
+        pack for java with a Tomcat server, a my sql server and firefox.
+    </event>
+    <event start='Mar 01 2007 00:00:00 GMT' title="Version 1.6"> OPEN BEXI HTML Builder version 1.6 is comming soon and
+        brings to the web new functionalities like "tabbers" and more from dojo. Integrated OPENBEXI supports for java
+        Web servers and databases is now available. This version is able to work with OPEN BEXI Creative. OPEN BEXI
+        Creative is the server side of the OPEN BEXI project. This prototype use the AJAXtechnology, the Wikipedia
+        dictionary and more, to get data from Mysql and built dynamically Web pages from the OPEN BEXI HTML Builder.
+        www.openbexi-creative.com is coming soon. This "big bang" version will be more stable and can be considered a
+        production version. Enjoy it!.
+    </event>
+    <event start='Dec 01 2006' title="Version 1.5 "></event>
+</data>

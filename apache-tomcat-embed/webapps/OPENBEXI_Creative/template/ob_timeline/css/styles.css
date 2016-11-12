@@ -1,0 +1,11 @@
+@import url( http://simile.mit.edu/styles/default.css );
+BODY {
+	MARGIN-BOTTOM: 20em
+}
+TABLE {
+	FONT-SIZE: 100%
+}
+.timeline-default {
+	BORDER-RIGHT: #aaa 1px solid; BORDER-TOP: #aaa 1px solid; FONT-SIZE: 8pt; BORDER-LEFT: #aaa 1px solid; BORDER-BOTTOM: #aaa 1px solid; FONT-FAMILY: Trebuchet MS, Helvetica, Arial, sans serif
+
+}

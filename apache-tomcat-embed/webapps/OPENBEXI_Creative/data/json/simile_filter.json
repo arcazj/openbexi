@@ -1,0 +1,90 @@
+{ identifier: 'id', label: 'label', status: 'none', items: [
+    {
+        label:'<b style="cursor:pointer;" >Timeline navigation </b>',
+        id:'navigation1',
+        status:'none',
+        children: [
+            {
+                label:'<a style="cursor:pointer;" onclick="local_timeline.timeline.getBand(0).setCenterVisibleDate(new Date(new Date().getTime()));">Current time</a>',
+                id: 'refresh1',
+                status:'none'
+            },
+            {
+                label:'<a style="cursor:pointer;" onclick="local_timeline.timeline.getBand(0).setCenterVisibleDate(new Date(new Date().getTime()+(3*3600*1000)));">Next 3 hours ...</a>',
+                id: 'next3hours',
+                status:'none'
+            },
+            {
+                label:'<a style="cursor:pointer;" onclick="local_timeline.timeline.getBand(0).setCenterVisibleDate(new Date(new Date().getTime()+(6*3600*1000)));">Next 6 hours ...</a>',
+                id: 'next6hours',
+                status:'none'
+            },
+            {
+                label:'<a style="cursor:pointer;" onclick="local_timeline.timeline.getBand(0).setCenterVisibleDate(new Date(new Date().getTime()+(24*3600*1000)));">Next day ...</a>',
+                id: 'nextday1',
+                status:'none'
+            },
+            {
+                label:'<a style="cursor:pointer;" onclick="local_timeline.timeline.getBand(0).setCenterVisibleDate(new Date(new Date().getTime()-(3*3600*1000)));">Past 3 hours ...</a>',
+                id: 'past3hours',
+                status:'none'
+            },
+            {
+                label:'<a style="cursor:pointer;" onclick="local_timeline.timeline.getBand(0).setCenterVisibleDate(new Date(new Date().getTime()-(6*3600*1000)));">Past 6 hours ...</a>',
+                id: 'past6hours',
+                status:'none'
+            },
+            {
+                label:'<a style="cursor:pointer;" onclick="local_timeline.timeline.getBand(0).setCenterVisibleDate(new Date(new Date().getTime()-(24*3600*1000)));">Past day ...</a>',
+                id: 'pastday1',
+                status:'none'
+            }
+        ]
+    },
+    {
+        label:'<b style="cursor:pointer;" >Filter</b>',
+        id:'filter1',
+        status:'none',
+        children: [
+            {
+                label:'<a style="cursor:pointer;" onclick="alert(\'Show this only\');">Show this only</a>',
+                id: 'show1',
+                status:'none'
+            }
+        ]
+    },
+    {
+        label:'<b style="cursor:pointer;" >Clear/load events</b>', 
+        id:'band0',
+        status:'none',
+        children: [
+            {
+                label:'<a style="cursor:pointer;" onclick="local_timeline.getBandInfos();">Get band infos</a>',
+                id: 'getbandInfo0',
+                status:'none'
+            } ,
+            {
+                label:'<a style="cursor:pointer;" onclick="local_timeline.removeEvents(event);">Remove all events</a>',
+                id: 'clear1',
+                status:'none'
+            }
+        ]
+    } ,
+    {
+        label:'<b style="cursor:pointer;" >Update band infos</b>',
+        id:'clear_load_event1',
+        status:'none',
+        children: [
+            {
+                label:'<a style="cursor:pointer;" onclick="local_timeline.timeline.getDefaultTheme().event.track.height=event.track.height+1;">Increase track height</a>',
+                id: 'increaseTrack1',
+                status:'none'
+            } ,
+            {
+                label:'<a style="cursor:pointer;" onclick="local_timeline.timeline.getDefaultTheme().event.track.height=event.track.height-1;">Decrease track height</a>',
+                id: 'decreaseTrack1',
+                status:'none'
+            }
+        ]
+    }
+]}

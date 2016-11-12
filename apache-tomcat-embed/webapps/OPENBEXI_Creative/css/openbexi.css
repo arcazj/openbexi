@@ -1,0 +1,1731 @@
+
+.fixedfont14 {
+    font-size: 14pt
+}
+
+.fixedfont12 {
+    font-size: 12pt
+}
+
+/* form*/
+form#ob_form {
+    width: 450px;
+    padding: 20px 20px 0 20px; /* center the form */
+    margin: 0 auto;
+}
+
+form#ob_form fieldset {
+    display: block;
+    width: 400px;
+    padding: 10px;
+    margin: 2em auto 0 auto; /* remove default border styles */
+    font-size: 100%;
+    font-family: "Helvetica", Sans-Serif;
+    line-height: 1.5em;
+}
+
+form#ob_form label, form#ob_form input {
+    display: block;
+    float: left;
+    margin-bottom: 10px;
+    height: 22px;
+}
+
+form#ob_form input, form#ob_form input:hover, form#ob_form input:focus {
+    border: 0 none;
+    background: transparent;
+}
+
+form#ob_form fieldset#ob_fieldset input:focus, form#ob_form textarea:focus {
+    background: #fef0f1 left top no-repeat;
+    border: 1px solid #cfcfcf;
+}
+
+form#ob_form fieldset#ob_fieldset input {
+    height: 1.5em;
+    width: 170px;
+}
+
+form#ob_form fieldset#ob_fieldset textarea {
+    width: 100%;
+}
+
+form#ob_form br {
+    clear: left;
+}
+
+form#ob_form fieldset#ob_combo select {
+    width: 170px;
+}
+
+form#ob_form p {
+    padding: 1em 0 2em 0;
+}
+
+form#ob_form label {
+    width: 10em;
+    padding-right: 5px;
+    text-align: right;
+}
+
+form#ob_form fieldset#ob_fieldset input, fieldset#ob_fieldset input:hover, form#ob_form textarea {
+    background: #fff url(gif/fading_background_1_red.png) left top no-repeat;
+    border: 1px solid #cfcfcf;
+}
+
+form#ob_form fieldset#ob_combo select, form#ob_form fieldset#ob_combo legend, form#ob_form fieldset#ob_combo optgroup {
+    background: #fff;
+    font-weight: normal;
+}
+
+form#ob_form legend {
+    margin-bottom: 0.5em;
+    border-bottom: 0.5em solid #d60153;
+    border-bottom: 0.5em solid gray;
+    font-size: 110%;
+}
+
+form#ob_form label:first-letter {
+    padding-bottom: 1px;
+    border-bottom: 1px #d60153 solid;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+/* IE 5.x WIN and IE6*/
+
+/*\*/
+* html body {
+    text-align: center;
+}
+
+* html form#ob_form {
+    width: 480px;
+    text-align: left;
+}
+
+* html form#ob_form fieldset {
+    width: 374px;
+}
+
+* html form#ob_form fieldset#ob_combo select {
+    margin-right: 13em;
+}
+
+* html form#ob_form label:first-letter {
+    padding-bottom: 0;
+    border: 0 none;
+    text-decoration: underline;
+}
+
+/*Dojo tree*/
+.nihilo .dijitTreeIcon {
+    width: 32px;
+    height: 32px;
+}
+
+.nihilo .dijitLeaf {
+    height: 32px;
+    width: 32px;
+}
+
+.soria .dijitTreeIcon {
+    width: 32px;
+    height: 32px;
+}
+
+.soria .dijitLeaf {
+    height: 32px;
+    width: 32px;
+}
+
+.tundra .dijitTreeIcon {
+    width: 32px;
+    height: 32px;
+}
+
+.tundra .dijitLeaf {
+    height: 32px;
+    width: 32px;
+}
+
+.claro .dijitTreeIcon {
+    width: 32px;
+    height: 32px;
+}
+
+.claro .dijitLeaf {
+    height: 32px;
+    width: 32px;
+}
+
+.popup_menu0 {
+    BACKGROUND-IMAGE: url('../gif/fading_background_27.png');
+    VISIBILITY: hidden;
+    PADDING-BOTTOM: 2px;
+    PADDING-TOP: 2px;
+    BORDER-BOTTOM: #666666 1px solid;
+    WIDTH: 200px;
+    POSITION: absolute;
+}
+
+.menuitem {
+    DISPLAY: block;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    COLOR: black;
+    PADDING-BOTTOM: 2px;
+    PADDING-TOP: 2px;
+    FONT-FAMILY: ms sans serif;
+    TEXT-DECORATION: none
+}
+
+.seperator {
+    BORDER-TOP: #999999 1px solid;
+    BORDER-BOTTOM: #eeeeee 1px solid
+}
+
+.menuitem:hover {
+    background: transparent url(../gif/fagegold.jpg);
+    COLOR: black;
+}
+
+.menu {
+    BORDER-RIGHT: #666666 1px solid;
+    BORDER-TOP: #eeeeee 1px solid;
+    LEFT: 0;
+    BACKGROUND-IMAGE: url(../gif/fadeGreen2.jpg);
+    VISIBILITY: hidden;
+    PADDING-BOTTOM: 2px;
+    WIDTH: 120px;
+    PADDING-TOP: 2px;
+    BORDER-BOTTOM: #666666 1px solid;
+    POSITION: absolute;
+    TOP: 0
+}
+
+img.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+TEXTAREA {
+    font-family: clean, Helvetica, Tahoma, Arial, sans-serif;
+    font-size: 8pt;
+    font-weight: normal;
+}
+
+button.tab:hover {
+    border-color: black;
+    background-color: white;
+}
+
+.ob_slide_panel {
+    border: solid 1px black;
+    background-color: white;
+    overflow: auto;
+}
+
+body, div, dl, dt, dd, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+fieldset, img {
+    border: 0 none;
+}
+
+address, caption, cite, code, dfn, th, var {
+    font-style: normal;
+    font-weight: normal;
+}
+
+caption, th {
+    text-align: left;
+}
+
+q:before, q:after {
+    content: "";
+}
+
+abbr, acronym {
+    border: 0;
+}
+
+body {
+    font: 12px Myriad, Helvetica, Tahoma, Arial, clean, sans-serif;
+    *font-size: 75%;
+}
+
+h1 {
+    font-size: 1.5em;
+    font-weight: normal;
+    line-height: 1em;
+    margin-top: 1em;
+    margin-bottom: 0;
+}
+
+h2 {
+    font-size: 1.1667em;
+    font-weight: bold;
+    line-height: 1.286em;
+    margin-top: 1.929em;
+    margin-bottom: 0.643em;
+}
+
+h3, h4, h5, h6 {
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.5em;
+    margin-top: 1.5em;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 1em;
+    margin-bottom: 1.5em;
+    line-height: 1.5em;
+}
+
+blockquote {
+    font-size: 0.916em;
+    margin-top: 3.272em;
+    margin-bottom: 3.272em;
+    line-height: 1.636em;
+    padding: 1.636em;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+}
+
+ol li, ul li {
+    font-size: 1em;
+    line-height: 1.5em;
+    margin: 0;
+}
+
+pre, code {
+    border: 1px solid #ccc;
+}
+
+pre {
+    border-width: 1px 0;
+    padding: 0.5em;
+}
+
+/*icon*/
+
+.ob_project_icon {
+    background: url('../gif/ob_project.png') no-repeat center center;
+}
+
+.ob_ok_icon {
+    background: url('../gif/ob_ok_x22.png') no-repeat center center;
+}
+
+.ob_info_icon {
+    background: url('../gif/ob_info_x22.png') no-repeat center center;
+}
+
+.ob_warning_icon {
+    background: url('../gif/ob_warning_x22.png') no-repeat center center;
+}
+
+.ob_error_icon {
+    background: url('../gif/ob_error_x22.png') no-repeat center center;
+}
+
+.ob_event_icon {
+    background: url('../gif/ob_event_x22.png') no-repeat center center;
+}
+
+.ob_bug_icon {
+    background: url('../gif/ob_bug_x22.png') no-repeat center center;
+}
+
+.ob_satellite_icon {
+    background: url('../gif/satellite_x24.png') no-repeat center center;
+}
+
+.ob_AlignLeftAutoArrange_icon {
+    background: url('../gif/align_left_x32.png') no-repeat center center;
+}
+
+.ob_AlignRightAutoArrange_icon {
+    background: url('../gif/align_right_x32.png') no-repeat center center;
+}
+
+.ob_AlignTopAutoArrange_icon {
+    background: url('../gif/align_top_x32.png') no-repeat center center;
+}
+
+.ob_AlignBottomAutoArrange_icon {
+    background: url('../gif/align_bottom_x32.png') no-repeat center center;
+}
+
+.ob_VerticalSpacingAutoArrange_icon {
+    background: url('../gif/vertical_spacing_auto_arrange.jpg') no-repeat center center;
+}
+
+.ob_HorizontalSpacingAutoArrange_icon {
+    background: url('../gif/horizontal_spacing_auto_arrange.jpg') no-repeat center center;
+}
+
+.ob_VerticalWidthAutoResize_icon {
+    background: url('../gif/vertical_width_auto_resize.jpg') no-repeat center center;
+}
+
+.ob_VerticalHeightAutoResize_icon {
+    background: url('../gif/horizontal_height_auto_resize.jpg') no-repeat center center;
+}
+
+.ob_HorizontalHeightAutoResize_icon {
+    background: url('../gif/horizontal_height_auto_resize.jpg') no-repeat center center;
+}
+
+.ob_HorizontalWidthAutoResize_icon {
+    background: url('../gif/horizontal_width_auto_resize.jpg') no-repeat center center;
+}
+
+.ob_template_icon {
+    background: url('../gif/ob_template_32.png') no-repeat center center;
+}
+
+.ob_html_icon {
+    background: url('../gif/ob_html_x32.png') no-repeat center center;
+}
+
+.ob_zip_icon {
+    background: url('../gif/ob_zip_x32.png') no-repeat center center;
+}
+
+.ob_exe_icon {
+    background: url('../gif/ob_exe_x32.png') no-repeat center center;
+}
+
+.ob_loading_icon {
+    background: url('../gif/loading_small.gif') no-repeat center center;
+}
+
+.ob_html_remove_icon {
+    background: url('../gif/ob_html_remove_x32.png') no-repeat center center;
+}
+
+.ob_close_folder {
+    background: url('../gif/ob_close_folder_x32.png') no-repeat center center;
+}
+
+.ob_folder_up {
+    background: url('../gif/ob_folder_up_x32.png') no-repeat center center;
+}
+
+.ob_close_folder_remove {
+    background: url('../gif/ob_close_folder_remove_x32.png') no-repeat center center;
+}
+
+.ob_open_folder {
+    background: url('../gif/ob_open_folder_x32.png') no-repeat center center;
+}
+
+.ob_open_folder_remove {
+    background: url('../gif/ob_open_folder_remove_x32.png') no-repeat center center;
+}
+
+.ob_css_icon {
+    background: url('../gif/ob_css_x32.png') no-repeat center center;
+}
+
+.ob_color_icon {
+    background: url('../gif/background_color_x32.png') no-repeat center center;
+}
+
+.ob_normal_icon {
+    background: url('../gif/removeformat.gif') no-repeat center center;
+}
+
+.ob_italic_icon {
+    background: url('../gif/Italic.gif') no-repeat center center;
+}
+
+.ob_bold_icon {
+    background: url('../gif/Bold.gif') no-repeat center center;
+}
+
+.ob_underline_icon {
+    background: url('../gif/underline.gif') no-repeat center center;
+}
+
+.ob_strikethrough_icon {
+    background: url('../gif/strike.gif') no-repeat center center;
+}
+
+.ob_subscript_icon {
+    background: url('../gif/subscript.gif') no-repeat center center;
+}
+
+.ob_superscript_icon {
+    background: url('../gif/superscript.gif') no-repeat center center;
+}
+
+.ob_justifyLeft_icon {
+    background: url('../gif/JustifyLeft.gif') no-repeat center center;
+}
+
+.ob_justifyRight_icon {
+    background: url('../gif/JustifyRight.gif') no-repeat center center;
+}
+
+.ob_justifyCenter_icon {
+    background: url('../gif/JustifyCenter.gif') no-repeat center center;
+}
+
+.ob_justifyFull_icon {
+    background: url('../gif/JustifyFull.gif') no-repeat center center;
+}
+
+.ob_Outdent_icon {
+    background: url('../gif/Outdent.gif') no-repeat center center;
+}
+
+.ob_indent_icon {
+    background: url('../gif/Indent.gif') no-repeat center center;
+}
+
+.ob_insertOrderedList_icon {
+    background: url('../gif/insertOrderedList.png') no-repeat center center;
+}
+
+.ob_insertUnorderedList_icon {
+    background: url('../gif/insertUnorderedList.png') no-repeat center center;
+}
+
+.ob_sql_icon {
+    background: url('../gif/ob_sql_x32.png') no-repeat center center;
+}
+
+.ob_table_icon {
+    background: url('../gif/ob_table_x32.png') no-repeat center center;
+}
+
+.ob_list_icon {
+    background: url('../gif/ob_list_x32.png') no-repeat center center;
+}
+
+.ob_xml_icon {
+    background: url('../gif/ob_xml_x32.png') no-repeat center center;
+}
+
+.ob_xml_remove_icon {
+    background: url('../gif/ob_xml_remove_x32.png') no-repeat center center;
+}
+
+.ob_txt_icon {
+    background: url('../gif/ob_txt_x32.png') no-repeat center center;
+}
+
+.ob_txt_remove_icon {
+    background: url('../gif/ob_txt_remove_x32.png') no-repeat center center;
+}
+
+.ob_jar_icon {
+    background: url('../gif/ob_jar_x32.png') no-repeat center center;
+}
+
+.ob_ptt_icon {
+    background: url('../gif/ob_ptt_x32.png') no-repeat center center;
+}
+
+.ob_rtf_icon {
+    background: url('../gif/ob_rtf_x32.png') no-repeat center center;
+}
+
+.ob_rpm_icon {
+    background: url('../gif/ob_rpm_x32.png') no-repeat center center;
+}
+
+.ob_php_icon {
+    background: url('../gif/ob_php_x32.png') no-repeat center center;
+}
+
+.ob_pl_icon {
+    background: url('../gif/ob_pl_x32.png') no-repeat center center;
+}
+
+.ob_php_remove_icon {
+    background: url('../gif/ob_php_remove_x32.png') no-repeat center center;
+}
+
+.ob_root_path_icon {
+    background: url('../gif/ob_root_path_x32.png') no-repeat center center;
+}
+
+.ob_font_icon {
+    background: url('../gif/ob_font_x32.png') no-repeat center center;
+}
+
+.ob_italic_icon {
+    background: url('../gif/Italic.gif') no-repeat center center;
+}
+
+.ob_xls_icon {
+    background: url('../gif/ob_xls_x32.png') no-repeat center center;
+}
+
+.ob_pdf_icon {
+    background: url('../gif/ob_pdf_x32.png') no-repeat center center;
+}
+
+.ob_java_icon {
+    background: url('../gif/ob_java_x32.png') no-repeat center center;
+}
+
+.ob_js_icon {
+    background: url('../gif/js_x32.png') no-repeat center center;
+}
+
+.ob_edit_icon {
+    background: url('../gif/list_editor_standby_x32.png') no-repeat center center;
+}
+
+.ob_trigger_icon {
+    background: url('../gif/ob_trigger2_x32.png') no-repeat center center;
+}
+
+.ob_eps_icon {
+    background: url('../gif/ob_eps_x32.png') no-repeat center center;
+}
+
+.ob_psd_icon {
+    background: url('../gif/ob_psd_x32.png') no-repeat center center;
+}
+
+.ob_audio_icon {
+    background: url('../gif/ob_audio_x32.png') no-repeat center center;
+}
+
+.ob_svg_icon {
+    background: url('../gif/ob_svg_x32.png') no-repeat center center;
+}
+
+.ob_psd_icon {
+    background: url('../gif/ob_psd_x32.png') no-repeat center center;
+}
+
+.ob_video_icon {
+    background: url('../gif/ob_video_x32.png') no-repeat center center;
+}
+
+.ob_img_remove_icon {
+    background: url('../gif/ob_img_remove_x32.png') no-repeat center center;
+}
+
+.ob_img_icon {
+    background: url('../gif/ob_img_x32.png') no-repeat center center;
+}
+
+.ob_script_icon {
+    background: url('../gif/ob_script_x32.png') no-repeat center center;
+}
+
+.ob_file_icon {
+    background: url('../gif/ob_file_x32.png') no-repeat center center;
+}
+
+.ob_file_remove_icon {
+    background: url('../gif/ob_file_remove_x32.png') no-repeat center center;
+}
+
+.ob_addftp_icon {
+    background: url('../gif/ob_addFTP_x32.png') no-repeat center center;
+}
+
+.ob_ftp_icon {
+    background: url('../gif/ob_FTP_x32.png') no-repeat center center;
+}
+
+.ob_archives_icon {
+    background: url('../gif/ob_archives_x32.PNG') no-repeat center center;
+}
+
+.ob_function_icon {
+    background: url('../gif/function_x32.png') no-repeat center center;
+}
+
+/*ob_openbexi*/
+.ob_openbexi_global_background {
+    background: #d1c172;
+    box-shadow: 0 0.3em 0.3em rgba(255, 254, 255, 0.592) inset, 0 0.1em 0.3em rgba(0, 0, 0, 0.15) inset, 0 0.1em 3px rgb(204, 133, 0), 0 0.3em 1px rgb(153, 99, 0), 0 0.5em 5px rgba(0, 0, 0, 0.2);
+    color: black ! important;
+}
+
+.ob_label {
+    display: inline-block;
+    float: left;
+    clear: left;
+    width: 80px;
+    text-align: left;
+    height: 1.8em;
+    border: 3px solid white;
+}
+
+.ob_textarea {
+    border-radius: 0.5em;
+    background: #d1c172;;
+    height: 1.8em;
+    color: black ! important;
+    display: inline-block;
+    border: 2px solid white;
+}
+
+/*ob_logo*/
+#ob_logo {
+    visibility: hidden;
+    border-radius: 0.25em;
+    position: absolute;
+    cursor: default;
+}
+
+#ob_logo_img0 {
+    width: 100%;
+    height: 100%;
+}
+
+#ob_logo_text0 {
+    position: absolute;
+    font-size: 11px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Helvetica,Sans-Serif', sans-serif;
+    font-family: black;
+    color: black;
+}
+
+/*Top Frame*/
+#ob_frame_top {
+    top: 0;
+    left: 222px;
+    width: 1000px;
+    height: 36px;
+    border-radius: 0.25em;
+    position: absolute;
+    cursor: default;
+}
+
+#ob_frame_top_div0 {
+    top: 3px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    cursor: pointer;
+}
+
+#ob_frame_top_div1 {
+    top: 3px;
+    left: 970px;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    cursor: help;
+}
+
+/*ob_menu_editor*/
+#ob_menu_editor {
+    border-bottom: 1px solid #D1C182;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+}
+
+#ob_sub_menu_editor {
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+}
+
+/*ob_menu_widget*/
+#ob_menu_widget_sub {
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+    background: white;
+    top: 37px;
+    left: 5px;
+}
+
+#ob_menu_widget {
+    border: 1px solid #87CEFA;
+    border-radius: 1em;
+    position: absolute;
+    cursor: default;
+    background: white;
+    visibility: hidden;
+    overflow: visible;
+}
+
+#ob_menu_widget_head {
+    position: absolute;
+    overflow: hidden;
+    border-radius: 0.25em;
+    position: absolute;
+    background: #87CEFA;
+    cursor: default;
+    color: rgb(153, 99, 0) ! important;
+}
+
+#ob_menu_widget_footer {
+    position: absolute;
+    overflow: hidden;
+    visibility: hidden;
+    left: -999px;
+    height: 36px;
+    background: white;
+}
+
+#ob_menu_widget_text {
+    width: 20%;
+    height: 100%;
+    cursor: pointer;
+    color: black;
+}
+
+#ob_menu_widget_window_manager {
+    position: absolute;
+    cursor: default;
+}
+
+#ob_menu_widget_close {
+    position: absolute;
+    cursor: default;
+}
+
+#ob_menu_widget_resize {
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+}
+
+/*ob_menu_JavascriptBrowser*/
+#ob_menu_JavascriptBrowser {
+    border: 1px solid #FFA500;
+    border-radius: 1em;
+    position: absolute;
+    cursor: default;
+    background: white;
+    overflow: auto;
+    box-shadow: 0 0.3em 0.3em rgba(255, 254, 255, 0.592) inset, 0 0.1em 0.3em rgba(0, 0, 0, 0.15) inset, 0 0.1em 3px rgb(204, 133, 0), 0 0.3em 1px rgb(153, 99, 0), 0 0.5em 5px rgba(0, 0, 0, 0.2);
+}
+
+#ob_menu_JavascriptBrowser_sub {
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+    background: white;
+    top: 37px;
+    left: 5px;
+}
+
+#ob_menu_JavascriptBrowser_head {
+    position: absolute;
+    overflow: hidden;
+    border-radius: 0.25em;
+    position: absolute;
+    background: #FFA500;
+    cursor: default;
+    color: rgb(153, 99, 0) ! important;
+}
+
+#ob_menu_JavascriptBrowser_text {
+    width: 50%;
+    height: 100%;
+    background: none repeat scroll;
+    cursor: pointer;
+    color: black;
+}
+
+#ob_menu_JavascriptBrowser_window_manager {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_JavascriptBrowser_close {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_JavascriptBrowser_resize {
+    background: none repeat scroll rgb(255, 255, 255);
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+}
+
+/**/
+
+#ob_menu_CSS {
+    border: 1px solid #6B8E23;
+    border-radius: 1em;
+    position: absolute;
+    cursor: default;
+    background: white;
+    overflow: auto;
+    box-shadow: 0 0.3em 0.3em rgba(255, 254, 255, 0.592) inset, 0 0.1em 0.3em rgba(0, 0, 0, 0.15) inset, 0 0.1em 3px rgb(204, 133, 0), 0 0.3em 1px rgb(153, 99, 0), 0 0.5em 5px rgba(0, 0, 0, 0.2);
+
+}
+
+#ob_menu_CSS_sub {
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+    background: white;
+    overflow: auto;
+    top: 37px;
+    left: 5px;
+}
+
+#ob_menu_CSS_text {
+    width: 50%;
+    height: 100%;
+    background: none repeat scroll;
+    cursor: pointer;
+    color: black;
+}
+
+#ob_menu_CSS_head {
+    position: absolute;
+    overflow: hidden;
+    border-radius: 0.25em;
+    position: absolute;
+    background: #6B8E23;
+    cursor: default;
+    color: rgb(153, 99, 0) ! important;
+}
+
+#ob_menu_CSS_window_manager {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_CSS_close {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_CSS_resize {
+    background: none repeat scroll rgb(255, 255, 255);
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+}
+
+/*ob_menu_debugging*/
+#ob_menu_debugging {
+    border-radius: 1em;
+    position: absolute;
+    cursor: default;
+    background: white;
+    overflow: auto;
+    border: 1px solid #D1C182;
+    box-shadow: 0 0.3em 0.3em rgba(255, 254, 255, 0.592) inset, 0 0.1em 0.3em rgba(0, 0, 0, 0.15) inset, 0 0.1em 3px rgb(204, 133, 0), 0 0.3em 1px rgb(153, 99, 0), 0 0.5em 5px rgba(0, 0, 0, 0.2);
+
+}
+
+#ob_menu_debugging_head {
+    position: absolute;
+    overflow: hidden;
+    border-radius: 0.25em;
+    position: absolute;
+    background: #FFB6C1;
+    cursor: default;
+    color: rgb(153, 99, 0) ! important;
+}
+
+#ob_menu_debugging_exception {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: pointer;
+}
+
+#ob_menu_debugging_text {
+    position: absolute;
+    background: none repeat scroll;
+    color: black;
+}
+
+#ob_menu_debugging_error {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: pointer;
+}
+
+#ob_menu_debugging_warning {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: pointer;
+}
+
+#ob_menu_debugging_info {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: pointer;
+}
+
+#ob_menu_debugging_event {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: pointer;
+}
+
+#ob_menu_debugging_classe {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: pointer;
+}
+
+#ob_menu_debugging_function {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: pointer;
+}
+
+#ob_menu_debugging_data {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: pointer;
+}
+
+#ob_menu_debugging_clear {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_debugging_window_manager {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: pointer;
+}
+
+#ob_menu_debugging_close {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: pointer;
+}
+
+#ob_menu_debugging_resize {
+    background: none repeat scroll rgb(255, 255, 255);
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+}
+
+/*ob_menu_FileBrowser*/
+#ob_menu_FileBrowser {
+    border-radius: 1em;
+    position: absolute;
+    cursor: default;
+    background: white;
+    overflow: auto;
+    box-shadow: 0 0.3em 0.3em rgba(255, 254, 255, 0.592) inset, 0 0.1em 0.3em rgba(0, 0, 0, 0.15) inset, 0 0.1em 3px rgb(204, 133, 0), 0 0.3em 1px rgb(153, 99, 0), 0 0.5em 5px rgba(0, 0, 0, 0.2);
+}
+
+#ob_menu_FileBrowser_sub {
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+    background: white;
+    top: 37px;
+    left: 5px;
+}
+
+#ob_menu_FileBrowser_head {
+    position: absolute;
+    overflow: hidden;
+    border-radius: 0.25em;
+    position: absolute;
+    background: #D1C182;
+    cursor: default;
+    color: rgb(153, 99, 0) ! important;
+}
+
+#ob_menu_FileBrowser_text {
+    width: 50%;
+    height: 100%;
+    background: none repeat scroll;
+    cursor: pointer;
+    color: black;
+}
+
+#ob_menu_FileBrowser_window_manager {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_FileBrowser_close {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_FileBrowser_resize {
+    background: none repeat scroll rgb(255, 255, 255);
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+}
+
+/*ob_menu_PictureBrowser*/
+#ob_menu_PictureBrowser {
+    border: 1px solid #E9F071;
+    border-radius: 1em;
+    position: absolute;
+    cursor: default;
+    background: white;
+    overflow: visible;
+    box-shadow: 0 0.3em 0.3em rgba(255, 254, 255, 0.592) inset, 0 0.1em 0.3em rgba(0, 0, 0, 0.15) inset, 0 0.1em 3px rgb(204, 133, 0), 0 0.3em 1px rgb(153, 99, 0), 0 0.5em 5px rgba(0, 0, 0, 0.2);
+}
+
+#ob_menu_PictureBrowser_sub {
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+    background: white;
+    top: 72px;
+    left: 5px;
+}
+
+#ob_menu_PictureBrowser_head {
+    position: absolute;
+    overflow: hidden;
+    border-radius: 0.25em;
+    position: absolute;
+    background: #E9F071;
+    cursor: default;
+    color: rgb(153, 99, 0) ! important;
+}
+
+#ob_menu_PictureBrowser_text {
+    width: 50%;
+    height: 100%;
+    background: none repeat scroll;
+    cursor: pointer;
+    color: black;
+}
+
+#ob_menu_PictureBrowser_window_manager {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_PictureBrowser_close {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_PictureBrowser_resize {
+    background: none repeat scroll rgb(255, 255, 255);
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+}
+
+#ob_menu_PictureBrowser_footer {
+    position: absolute;
+    overflow: hidden;
+    visibility: hidden;
+    left: -999px;
+    height: 36px;
+    background: white;
+}
+
+/*ob_menu_TemplateBrowser*/
+#ob_menu_TemplateBrowser {
+    border-radius: 1em;
+    position: absolute;
+    cursor: default;
+    background: white;
+    overflow: auto;
+    box-shadow: 0 0.3em 0.3em rgba(255, 254, 255, 0.592) inset, 0 0.1em 0.3em rgba(0, 0, 0, 0.15) inset, 0 0.1em 3px rgb(204, 133, 0), 0 0.3em 1px rgb(153, 99, 0), 0 0.5em 5px rgba(0, 0, 0, 0.2);
+}
+
+#ob_menu_TemplateBrowser_sub {
+    position: absolute;
+    cursor: default;
+    overflow: visible;
+}
+
+#ob_menu_TemplateBrowser_head {
+    position: absolute;
+    overflow: hidden;
+    border-radius: 0.25em;
+    position: absolute;
+    background: #A8B6ED;
+    cursor: default;
+    color: rgb(153, 99, 0) ! important;
+}
+
+#ob_menu_TemplateBrowser_text {
+    width: 50%;
+    height: 100%;
+    background: none repeat scroll;
+    cursor: pointer;
+    color: black;
+}
+
+#ob_menu_TemplateBrowser_window_manager {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_TemplateBrowser_close {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_TemplateBrowser_resize {
+    background: none repeat scroll rgb(255, 255, 255);
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+}
+
+/*ob_menu_RequestBrowser*/
+#ob_menu_RequestBrowser {
+    border: 1px solid #D1C182;
+    border-radius: 1em;
+    position: absolute;
+    cursor: default;
+    background: white;
+    visibility: hidden;
+    overflow: hidden;
+    width: 600px;
+    height: 500px;
+    left: -999px;
+    box-shadow: 0 0.3em 0.3em rgba(255, 254, 255, 0.592) inset, 0 0.1em 0.3em rgba(0, 0, 0, 0.15) inset, 0 0.1em 3px rgb(204, 133, 0), 0 0.3em 1px rgb(153, 99, 0), 0 0.5em 5px rgba(0, 0, 0, 0.2);
+}
+
+#ob_menu_RequestBrowser_sub {
+    position: absolute;
+    cursor: default;
+    overflow: visible;
+    background: white;
+}
+
+#ob_menu_RequestBrowser_sub_foot {
+    position: absolute;
+    cursor: default;
+    overflow: visible;
+    background: white;
+}
+
+#ob_menu_RequestBrowser_sub_left {
+    position: absolute;
+    cursor: default;
+    overflow: visible;
+    background: white;
+}
+
+#ob_menu_RequestBrowser_head {
+    position: absolute;
+    overflow: hidden;
+    border-radius: 0.25em;
+    position: absolute;
+    background: #D1C182;
+    cursor: default;
+    color: rgb(153, 99, 0) ! important;
+}
+
+#ob_menu_RequestBrowser_text {
+    width: 80%;
+    height: 100%;
+    top: 0;
+    left: 40px;
+    position: relative;
+    overflow: hidden;
+    background: none repeat scroll;
+    cursor: pointer;
+    color: black;
+}
+
+#ob_menu_RequestBrowser_window_manager {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+    visibility: hidden;
+}
+
+#ob_menu_RequestBrowser_text_icon {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_RequestBrowser_close {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_RequestBrowser_resize {
+    background: none repeat scroll rgb(255, 255, 255);
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+}
+
+/* ob_menu_SQLBrowser*/
+#ob_menu_SQLBrowser {
+    border: 1px solid #D6AECE;
+    border-radius: 1em;
+    position: absolute;
+    cursor: default;
+    background: white;
+    overflow: auto;
+    box-shadow: 0 0.3em 0.3em rgba(255, 254, 255, 0.592) inset, 0 0.1em 0.3em rgba(0, 0, 0, 0.15) inset, 0 0.1em 3px rgb(204, 133, 0), 0 0.3em 1px rgb(153, 99, 0), 0 0.5em 5px rgba(0, 0, 0, 0.2);
+}
+
+#ob_menu_SQLBrowser_sub {
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+    background: white;
+    top: 37px;
+    left: 5px;
+}
+
+#ob_menu_SQLBrowser_sub_foot {
+    position: absolute;
+    cursor: default;
+    overflow: visible;
+    background: white;
+}
+
+#ob_menu_SQLBrowser_sub_left {
+    position: absolute;
+    cursor: default;
+    overflow: visible;
+    background: white;
+}
+
+#ob_menu_SQLBrowser_head {
+    position: absolute;
+    overflow: hidden;
+    border-radius: 0.25em;
+    position: absolute;
+    background: #D6AECE;
+    cursor: default;
+    color: rgb(153, 99, 0) ! important;
+}
+
+#ob_menu_SQLBrowser_text {
+    width: 50%;
+    height: 100%;
+    background: none repeat scroll;
+    cursor: pointer;
+    color: black;
+}
+
+#ob_menu_SQLBrowser_window_manager {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_SQLBrowser_close {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_SQLBrowser_resize {
+    background: none repeat scroll rgb(255, 255, 255);
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+}
+
+#ob_menu_SQLBrowser_footer {
+    position: absolute;
+    overflow: hidden;
+    visibility: hidden;
+    left: -999px;
+    height: 36px;
+    background: white;
+}
+
+/*ob_menu_FTPBrowser*/
+#ob_menu_FTPBrowser {
+    border: 1px solid green;
+    border-radius: 1em;
+    position: absolute;
+    cursor: default;
+    background: white;
+    overflow: visible;
+    box-shadow: 0 0.3em 0.3em rgba(255, 254, 255, 0.592) inset, 0 0.1em 0.3em rgba(0, 0, 0, 0.15) inset, 0 0.1em 3px rgb(204, 133, 0), 0 0.3em 1px rgb(153, 99, 0), 0 0.5em 5px rgba(0, 0, 0, 0.2);
+}
+
+#ob_menu_FTPBrowser_sub {
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+    background: white;
+    top: 37px;
+    left: 5px;
+}
+
+#ob_menu_FTPBrowser_head {
+    position: absolute;
+    overflow: hidden;
+    border-radius: 0.25em;
+    position: absolute;
+    background: #A8B6ED;
+    cursor: default;
+    color: rgb(153, 99, 0) ! important;
+}
+
+#ob_menu_FTPBrowser_text {
+    width: 50%;
+    height: 100%;
+    background: none repeat scroll;
+    cursor: pointer;
+    color: black;
+}
+
+#ob_menu_FTPBrowser_window_manager {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_FTPBrowser_close {
+    position: absolute;
+    background: none repeat scroll;
+    cursor: default;
+}
+
+#ob_menu_FTPBrowser_resize {
+    background: none repeat scroll rgb(255, 255, 255);
+    position: absolute;
+    cursor: default;
+    visibility: hidden;
+}
+
+#ob_menu_FTPBrowser_footer {
+    position: absolute;
+    overflow: hidden;
+    visibility: hidden;
+    left: -999px;
+    height: 36px;
+    background: white;
+}
+
+#ob_menu1 {
+    border-bottom: 1px solid orange;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+
+}
+
+#ob_menu1_div0 {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+
+}
+
+#ob_menu1_img0 {
+    background-image: url(../gif/ob_open_project.png);
+    width: 100%;
+    height: 100%;
+}
+
+#ob_menu1_div1 {
+    left: 98px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+
+}
+
+#ob_menu2_div0 {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+
+}
+
+#ob_menu2_div1 {
+    top: 0;
+    left: 98px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+
+}
+
+#ob_menu2_div2 {
+    left: 196px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+
+}
+
+#ob_menu1_img1 {
+    background-image: url(../gif/ob_save_page.png);
+    width: 100%;
+    height: 100%;
+}
+
+#ob_menu1_div2 {
+    left: 196px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+}
+
+#ob_menu1_img2 {
+    background-image: url(../gif/ob_preview.png);
+    width: 100%;
+    height: 100%;
+}
+
+#ob_menu1_div3 {
+    left: 294px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+
+}
+
+#ob_menu1_img3 {
+    background-image: url(../gif/ob_publish.png);
+    width: 100%;
+    height: 100%;
+}
+
+/**/
+
+#ob_menu2 {
+    border-bottom: 1px solid orange;
+    background: none repeat scroll rgb(255, 255, 255);
+    position: absolute;
+    cursor: default;
+
+}
+
+#ob_menu2_div0 {
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+
+}
+
+#ob_menu2_img0 {
+    background-image: url(../gif/ob_widget.png);
+    width: 100%;
+    height: 100%;
+}
+
+#ob_menu2_div1 {
+    top: 0;
+    left: 98px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+
+}
+
+#ob_menu2_img1 {
+    background-image: url(../gif/ob_css.png);
+    width: 100%;
+    height: 100%;
+}
+
+#ob_menu2_div2 {
+    left: 196px;
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+
+}
+
+#ob_menu2_img2 {
+    background-image: url(../gif/ob_trash_page.png);
+    width: 100%;
+    height: 100%;
+}
+
+#ob_menu_dynamic {
+    position: absolute;
+    border: 1px solid green;
+    cursor: default;
+}
+
+#ob_menu_dynamic_fck0 {
+    width: 597px;
+    height: 36px;
+    border: 1px solid black;
+    position: absolute;
+    cursor: default;
+    overflow: hidden;
+    background: none repeat scroll rgb(0, 210, 170);
+
+}
+
+#ob_menu_dynamic_div0 {
+    top: 86px;
+    left: 16px;
+    width: 64px;
+    height: 64px;
+    position: absolute;
+    background: none repeat scroll rgb(255, 255, 255);
+    cursor: default;
+
+}
+
+#ob_fck2 {
+    top: 97px;
+    left: 114px;
+    width: 468px;
+    height: 24px;
+    position: absolute;
+    cursor: default;
+
+    overflow: hidden;
+}
+
+#ob_menu_dynamic_div1 {
+    top: 1px;
+    left: 565px;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    background: none repeat scroll rgb(0, 210, 170);
+    cursor: default;
+
+}
+
+#ob_menu_dynamic_div2 {
+    top: 1px;
+    left: 529px;
+    width: 32px;
+    height: 32px;
+    position: absolute;
+    background: none repeat scroll rgb(0, 210, 170);
+    cursor: default;
+
+}
+
+#ob_top_frame_message {
+    top: 6px;
+    left: 26px;
+    width: 885px;
+    height: 27px;
+    position: absolute;
+    cursor: default;
+    overflow: hidden;
+}
+
+#ob_error_popup {
+    background: url('../gif/fading_background_9.png') repeat center center;
+    position: absolute;
+}
+
+/* ob_main menu*/
+.ob_main_menu {
+    border-radius: 1em;
+    position: absolute;
+    cursor: default;
+}
+
+.ob_main_menu:active {
+    border: 2px solid black;
+}
+
+.ob_main_menu:hover {
+    border: 1px solid #D1C182;;
+    cursor: pointer;
+}
+
+#ob_loading2 {
+    background: url('../gif/fading_background_5_50x1200.png');
+}
+
+/* ob_menu_widget_box - Gallery of widgets*/
+div.ob_menu_widget_text_box {
+    font-size: 0.8em;
+    overflow: hidden;
+    position: absolute;
+    height: 16px;
+    width: 64px;
+    text-align: justify;
+}
+
+div.ob_menu_widget_box {
+    border-radius: 1em;
+    position: absolute;
+}
+
+/* ob_menu_widget_box - Dynamic menu for each widget*/
+div.ob_menu_widget_box:hover {
+    border: 1px solid #D1C182;
+    cursor: pointer;
+}
+
+div.ob_menu_properties_box {
+    border-radius: 1em;
+    position: absolute;
+}
+
+div.ob_menu_properties_gallery {
+    border: 1px solid #D1C182;
+    border-radius: 1em;
+    position: absolute;
+}
+
+div.ob_menu_properties_box:hover {
+    border: 1px solid #D1C182;
+    cursor: pointer;
+}
+
+._jsPlumb_connector {
+    z-index: 900;
+}
+
+._jsPlumb_endpoint {
+    z-index: 901;
+}
+
+._jsPlumb_overlay {
+    z-index: 902;
+}

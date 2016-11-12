@@ -1,0 +1,122 @@
+--- ATTENTION : CONSERVEZ CETTE LICENCE SI VOUS REDISTRIBUEZ CE FICHIER ---
+License ABU
+-=-=-=-=-=-
+Version 1.1, Aout 1999
+
+Copyright (C) 1999 Association de Bibliophiles Universels
+   http://abu.cnam.fr/
+   abu@cnam.fr
+
+La base de textes de l'Association des Bibliophiles Universels (ABU)
+est une oeuvre de compilation, elle peut être copiée, diffusée et
+modifiée dans les conditions suivantes :
+
+1.  Toute copie à des fins privées, à des fins d'illustration de l'enseignement
+    ou de recherche scientifique est autorisée.
+
+2.  Toute diffusion ou inclusion dans une autre oeuvre doit
+
+     a) soit inclure la presente licence s'appliquant a l'ensemble de la
+        diffusion ou de l'oeuvre dérivee.
+
+     b) soit permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement une version
+        numérisée de chaque texte inclu, muni de la présente licence.  Cette
+        possibilité doit être mentionnée explicitement et de façon claire,
+        ainsi que le fait que la présente notice s'applique aux documents
+        extraits.
+
+     c) permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement la version
+        numérisée originale, munie le cas échéant des améliorations visées au
+        paragraphe 6, si elles sont présentent dans la diffusion ou la nouvelle
+        oeuvre. Cette possibilité doit être mentionnée explicitement et de
+        façon claire, ainsi que le fait que la présente notice s'applique aux
+        documents extraits.
+
+   Dans tous les autres cas, la présente licence sera réputée s'appliquer
+   à l'ensemble de la diffusion ou de l'oeuvre dérivée.
+
+
+3. L'en-tête qui accompagne chaque fichier doit être intégralement 
+   conservée au sein de la copie.
+
+4. La mention du producteur original doit être conservée, ainsi
+   que celle des contributeurs ultérieurs.
+
+5. Toute modification ultérieure, par correction d'erreurs,
+   additions de variantes, mise en forme dans un autre format, ou autre,
+   doit être indiquée.  L'indication des diverses contributions devra être
+   aussi précise que possible, et datée.
+
+6. Ce copyright s'applique obligatoirement à toute amélioration
+   par simple correction d'erreurs ou d'oublis mineurs (orthographe,
+   phrase manquante, ...), c'est-à-dire ne correspondant pas à
+   l'adjonction d'une autre variante connue du texte, qui devra donc
+   comporter la présente notice.
+
+----------------------- FIN DE LA LICENCE ABU --------------------------------
+
+xanthélasma	xanthélasma	Nom:Mas+SG
+xanthie	xanthie	Nom:Fem+SG
+xanthine	xanthine	Nom:Fem+SG
+xanthoderme	xanthoderme	Adj:InvGen+SG
+xanthoderme	xanthoderme	Nom:InvGen+SG
+xanthogénique	xanthogénique	Adj:InvGen+SG
+xanthome	xanthome	Nom:Mas+SG
+xanthophycée	xanthophycée	Nom:Fem+SG
+xanthophylle	xanthophylle	Nom:Fem+SG
+xénarthre	xénarthre	Nom:Mas+SG
+xénélasie	xénélasie	Nom:Fem+SG
+xénodiagnostic	xénodiagnostic	Nom:Mas+SG
+xénon	xénon	Nom:Mas+SG
+xénophile	xénophile	Adj:InvGen+SG
+xénophilie	xénophilie	Nom:Fem+SG
+xénophobes	xénophobe	Adj:InvGen+PL
+xénophobes	xénophobe	Nom:InvGen+PL
+xénophobe	xénophobe	Adj:InvGen+SG
+xénophobies	xénophobie	Nom:Fem+PL
+xénophobie	xénophobie	Nom:Fem+SG
+xénoplastique	xénoplastique	Adj:InvGen+SG
+xénotropisme	xénotropisme	Nom:Mas+SG
+xéranthème	xéranthème	Nom:Mas+SG
+xérès	xérès	Nom:Mas+InvPL
+xérocopie	xérocopie	Nom:Fem+SG
+xérocopie	xérocopier	Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2
+xérodermie	xérodermie	Nom:Fem+SG
+xérographie	xérographie	Nom:Fem+SG
+xérophile	xérophile	Adj:InvGen+SG
+xérophtalmie	xérophtalmie	Nom:Fem+SG
+xérophyte	xérophyte	Nom:Fem+SG
+xérophytique	xérophytique	Adj:InvGen+SG
+xérus	xérus	Nom:Mas+InvPL
+xiang	xiang	Nom:Mas+SG
+ximenia	ximenia	Nom:Mas+SG
+ximénie	ximénie	Nom:Fem+SG
+xiphoïdes	xiphoïde	Adj:InvGen+PL
+xiphoïde	xiphoïde	Adj:InvGen+SG
+xiphoïdiennes	xiphoïdien	Adj:Fem+PL
+xiphoïdienne	xiphoïdien	Adj:Fem+SG
+xiphoïdiens	xiphoïdien	Adj:Mas+PL
+xiphoïdien	xiphoïdien	Adj:Mas+SG
+xiphophore	xiphophore	Nom:Mas+SG
+xipho	xipho	Nom:Mas+SG
+xi	xi	Nom:Mas+InvPL
+xylène	xylène	Nom:Mas+SG
+xylidine	xylidine	Nom:Fem+SG
+xylocope	xylocope	Nom:Mas+SG
+xylographes	xylographe	Nom:InvGen+PL
+xylographe	xylographe	Nom:InvGen+SG
+xylographies	xylographie	Nom:Fem+PL
+xylographies	xylographier	Ver:IPre+SG+P2:SPre+SG+P2
+xylographie	xylographie	Nom:Fem+SG
+xylographiques	xylographique	Adj:InvGen+PL
+xylographique	xylographique	Adj:InvGen+SG
+xylol	xylol	Nom:Mas+SG
+xylophage	xylophage	Adj:InvGen+SG
+xylophage	xylophage	Nom:Mas+SG
+xylophones	xylophone	Nom:Mas+PL
+xylophone	xylophone	Nom:Mas+SG
+xyste	xyste	Nom:Mas+SG
+
+------------------------- FIN DU FICHIER --------------------------------

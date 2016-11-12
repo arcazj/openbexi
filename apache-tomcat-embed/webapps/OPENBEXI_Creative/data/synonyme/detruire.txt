@@ -1,0 +1,37 @@
+#name;clique;conotation
+détruire;dévaster;emporter
+détruire;dévaster;miner;ravager;ronger;ruiner
+détruire;dévaster;miner;ronger;ruiner;saper
+détruire;dévorer;grignoter;ronger
+détruire;dévorer;ravager;ruiner;saccager
+détruire;effacer;enlever;faire disparaître;supprimer;éliminer
+détruire;effacer;enlever;faire disparaître;supprimer;ôter
+détruire;effacer;enlever;faire passer
+détruire;effacer;faire disparaître;radier;supprimer;ôter
+détruire;effacer;rayer;supprimer;éliminer
+détruire;enfoncer;engloutir;enterrer
+détruire;engloutir;ensevelir;enterrer
+détruire;enlever;extirper;supprimer;ôter
+détruire;enlever;faire cesser;supprimer;ôter
+détruire;enlever;retrancher;supprimer;éliminer
+détruire;entamer;grignoter;ronger
+détruire;entamer;rayer
+détruire;entamer;ronger;ruiner;user
+détruire;faire cesser;supprimer;tuer;étouffer
+détruire;faire sauter;tuer
+détruire;faucher;hacher
+détruire;foudroyer;fusiller;tuer
+détruire;hacher;ravager
+détruire;infirmer;ruiner;réfuter
+détruire;jeter;liquider
+détruire;jeter;repousser
+détruire;juguler;tuer;étouffer;étrangler
+détruire;miner;ruiner;tuer;user;épuiser
+détruire;moissonner;saper
+détruire;nuire;perdre;ruiner
+détruire;rayer;retrancher;supprimer;éliminer
+détruire;repousser;réfuter
+détruire;rompre;troubler
+détruire;ruiner;tuer;étrangler
+détruire;supprimer;tuer;étouffer;étrangler
+ 

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openbexiCreative>
+    <classe name="chart">
+        <object name="bar">
+            <attribute name="output" output="png"/>
+            <attribute name="type" type="bar"/>
+            <attribute name="subtype" subtype="BarChart3D"/>
+            <attribute name="title" title="BarChart3D"/>
+            <attribute name="type" subtype="bar"/>
+            <attribute name="legende" legende="true"/>
+            <attribute name="png" png="BarChart3D.png"/>
+            <attribute name="height" height="300"/>
+            <attribute name="width" width="400"/>
+            <attribute name="labelGap" labelGap="0.02"/>
+            <attribute name="foregroundAlpha" foregroundAlpha="0.6f"/>
+            <attribute name="background" background="white"/>
+            <attribute name="explodeNumber" explodeNumber="1"/>
+            <attribute name="labelX" labelX="labelX"/>
+		<attribute name="labelY" labelY="labelY"/>
+		<attribute name="orientation" orientation="VERTICAL"/>
+		<attribute name="dataCount" dataCount="4"/>
+            <attribute name="data_0" data_0="20.0;10.0;40.0"/>
+            <attribute name="data_1" data_1="30.0;20.0;10.0;50.0"/>
+            <attribute name="data_2" data_2="40.0;30.0;40.0"/>
+            <attribute name="data_3" data_3="20.0;10.0"/>
+        </object>
+    </classe>
+</openbexiCreative>

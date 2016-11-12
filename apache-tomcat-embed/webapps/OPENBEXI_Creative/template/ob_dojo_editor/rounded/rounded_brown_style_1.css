@@ -1,0 +1,21 @@
+.ob_dojo_editor_rounded_brown_style_1 {
+ border: 0px solid black;
+  opacity: 1;
+  font-size: 20px;
+  font-family: 'Adobe Poetica';
+  font-style: normal;
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em;
+  border-bottom-right-radius: 1em;
+  border-bottom-left-radius: 1em;
+  position: absolute;
+  overflow: hidden;
+  cursor: default;
+  background-color: rgb(240, 192, 62);
+  -webkit-box-shadow: rgba(255, 254, 255, 0.592157) 0px 0.3em 0.3em inset, rgba(0, 0, 0, 0.14902) 0px -0.1em 0.3em inset, rgb(204, 133, 0) 0px 0.1em 3px, rgb(153, 99, 0) 0px 0.3em 1px, rgba(0, 0, 0, 0.2) 0px 0.5em 5px;
+  box-shadow: rgba(255, 254, 255, 0.592157) 0px 0.3em 0.3em inset, rgba(0, 0, 0, 0.14902) 0px -0.1em 0.3em inset, rgb(204, 133, 0) 0px 0.1em 3px, rgb(153, 99, 0) 0px 0.3em 1px, rgba(0, 0, 0, 0.2) 0px 0.5em 5px;
+  color: rgb(153, 99, 0) !important;
+}
+
+
+

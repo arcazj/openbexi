@@ -1,0 +1,22 @@
+
+._jsPlumb_connector { z-index:0; }
+._jsPlumb_endpoint { z-index:995; }
+._jsPlumb_overlay { z-index:1; }
+
+
+._jsPlumb_connector {
+/*border:1px solid blue; */
+}
+._jsPlumb_endpoint {
+/*border:1px solid green;*/
+}
+._jsPlumb_overlay {
+/*border:1px solid yellow;*/
+}
+.dragActive {
+    border: 1px solid #346789;
+}
+.dropHover {
+    border: 1px solid red;
+}
+

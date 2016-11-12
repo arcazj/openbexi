@@ -1,0 +1,38 @@
+<HTML><HEAD><TITLE>Résultat</TITLE></HEAD><BODY TEXT="#000000" BGCOLOR="#F8F1C7" LINK="#0000EE" VLINK="#551A8B" ALINK="#FF0000"><H1>Résultat</H1>(CNRS - Université de Caen, tous droits réservés)<br><HR><BR><B>Important : </B>n'oubliez pas de lire cet <A HREF=/avertiss.html>avertissement</A> avant de formuler vos remarques.<br>Vous pouvez aussi consulter les <a href="/faqdico.html">FAQ</a>.<P><table border=1 cellpadding=4><tr><td align="center"><b>La lettre d'information du dictionnaire : <br>(<a href="mailto:dicosyno-subscribe@clubs.voila.fr">envoyez un courrier électronique ici pour vous abonner gratuitement</a>).</b><br><a href="/dicosyno/">Consulter les anciens numéros</a></td></tr></table><BR>Votre requête est : "flexion" (flexion). Il y a 5 synonymes. <a href="#classement"><b>Voir leur classement</b></a><BR><br><P><p><b><A HREF=/maitrise/visu.cgi?mot=flexion>Visualisation de l'espace sémantique</A></b><br><b>NOUVELLE VERSION : <A HREF=/maitrise2/visu.cgi?mot=flexion>Visualisation avec possibilité d'impression</A></b><br>Pour le mode d'emploi de la visualisation, voir la <a href="http://www.crisco.unicaen.fr/dicosyno/lettinfo8.html">lettre d'information numéro 8</a> (paragraphe 2)<br>Pour la nouvelle version, vous devez <a href="http://java.sun.com/getjava/index.html" target="newwindow">télécharger la dernière version de Java</a> pour votre navigateur.<p><B>flexion :</B> <A HREF=trouvebis?requete=courbure>courbure</A>, <A HREF=trouvebis?requete=d%E9clinaison>déclinaison</A>, <A HREF=trouvebis?requete=d%E9sinence>désinence</A>, <A HREF=trouvebis?requete=fl%E9chissement>fléchissement</A>, <A HREF=trouvebis?requete=terminaison>terminaison</A>.<BR><form name="cherch" ACTION="trouvebis" METHOD="GET"><p>Pour faire une autre recherche : <input type="text" size=30 name="requete" maxlength=50><input type="submit" value="ok"><input type="hidden" name="refer" value="#"></form><p><A HREF=trouveclic2?requete=flexion>Classement complet des synonymes, détail des sens macroscopiques (composantes connexes) et microscopiques (cliques)</A> de <B>flexion</B>.<P><a name="classement"></a><b>Le classement des premiers synonymes :</b></p><table border=1 cellpadding=1 cellspacing=0><TR height=8><TD><font size=-1>désinence</font></TD><td width=300><hr noshade size=8 width=200
+ color="#FF0000" align="left"></td></TD></TR><TR height=8><TD><font size=-1>courbure</font></TD><td width=300><hr noshade size=8 width=100
+ color="#FF0000" align="left"></td></TD></TR><TR height=8><TD><font size=-1>déclinaison</font></TD><td width=300><hr noshade size=8 width=100
+ color="#FF0000" align="left"></td></TD></TR><TR height=8><TD><font size=-1>fléchissement</font></TD><td width=300><hr noshade size=8 width=100
+ color="#FF0000" align="left"></td></TD></TR><TR height=8><TD><font size=-1>terminaison</font></TD><td width=300><hr noshade size=8 width=100
+ color="#FF0000" align="left"></td></TD></TR></table><p>
+<script language="JavaScript">
+<!--
+
+function SymError()
+{
+  return true;
+}
+
+window.onerror = SymError;
+
+var SymRealWinOpen = window.open;
+
+function SymWinOpen(url, name, attributes)
+{
+  return (new Object());
+}
+
+window.open = SymWinOpen;
+
+//-->
+</script>
+
+<script language="JavaScript">document.cherch.requete.focus();document.cherch.requete.select();</script></P></BODY>
+<script language="JavaScript">
+<!--
+
+window.open = SymRealWinOpen;
+
+//-->
+</script>
+
+</HTML>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openbexiCreative>
+    
+<classe name="ob_explorer">
+        
+    <object name="file">
+            <attribute filename="ob_image.js" name="filename"/>
+            <attribute list="openbexi_img" name="list"/>
+            <attribute name="specification_en" specification_en="Update image source."/>
+            <attribute name="specification_fr" specification_fr="Modifie l'image source."/>
+            <attribute name="type" type="javascripts"/>
+            <attribute icon="ob_load_img_src.jpg" name="icon"/>
+            <attribute name="parameterCount" parameterCount="2"/>
+
+
+            <attribute name="parameterName_0" parameterName_0="widget_id"/>
+            <attribute name="parameterType_0" parameterType_0="string"/>
+
+            <attribute name="parameterName_1" parameterName_1="image"/>
+            <attribute name="parameterType_1" parameterType_1="string"/>
+
+            <attribute event="" name="event"/>
+            
+        <attribute name="return" return=""/><attribute name="parameterSpecification_0_en" parameterSpecification_0_en=""/><attribute name="parameterSpecification_0_fr" parameterSpecification_0_fr="TBD"/><attribute name="parameterSpecification_1_en" parameterSpecification_1_en=""/><attribute name="parameterSpecification_1_fr" parameterSpecification_1_fr="TBD"/></object></classe></openbexiCreative>

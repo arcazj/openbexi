@@ -1,0 +1,435 @@
+--- ATTENTION : CONSERVEZ CETTE LICENCE SI VOUS REDISTRIBUEZ CE FICHIER ---
+License ABU
+-=-=-=-=-=-
+Version 1.1, Aout 1999
+
+Copyright (C) 1999 Association de Bibliophiles Universels
+   http://abu.cnam.fr/
+   abu@cnam.fr
+
+La base de textes de l'Association des Bibliophiles Universels (ABU)
+est une oeuvre de compilation, elle peut être copiée, diffusée et
+modifiée dans les conditions suivantes :
+
+1.  Toute copie à des fins privées, à des fins d'illustration de l'enseignement
+    ou de recherche scientifique est autorisée.
+
+2.  Toute diffusion ou inclusion dans une autre oeuvre doit
+
+     a) soit inclure la presente licence s'appliquant a l'ensemble de la
+        diffusion ou de l'oeuvre dérivee.
+
+     b) soit permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement une version
+        numérisée de chaque texte inclu, muni de la présente licence.  Cette
+        possibilité doit être mentionnée explicitement et de façon claire,
+        ainsi que le fait que la présente notice s'applique aux documents
+        extraits.
+
+     c) permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement la version
+        numérisée originale, munie le cas échéant des améliorations visées au
+        paragraphe 6, si elles sont présentent dans la diffusion ou la nouvelle
+        oeuvre. Cette possibilité doit être mentionnée explicitement et de
+        façon claire, ainsi que le fait que la présente notice s'applique aux
+        documents extraits.
+
+   Dans tous les autres cas, la présente licence sera réputée s'appliquer
+   à l'ensemble de la diffusion ou de l'oeuvre dérivée.
+
+
+3. L'en-tête qui accompagne chaque fichier doit être intégralement 
+   conservée au sein de la copie.
+
+4. La mention du producteur original doit être conservée, ainsi
+   que celle des contributeurs ultérieurs.
+
+5. Toute modification ultérieure, par correction d'erreurs,
+   additions de variantes, mise en forme dans un autre format, ou autre,
+   doit être indiquée.  L'indication des diverses contributions devra être
+   aussi précise que possible, et datée.
+
+6. Ce copyright s'applique obligatoirement à toute amélioration
+   par simple correction d'erreurs ou d'oublis mineurs (orthographe,
+   phrase manquante, ...), c'est-à-dire ne correspondant pas à
+   l'adjonction d'une autre variante connue du texte, qui devra donc
+   comporter la présente notice.
+
+----------------------- FIN DE LA LICENCE ABU --------------------------------
+
+zabre	zabre	Nom:Mas+SG
+zains	zain	Adj:InvGen+PL
+zain	zain	Adj:InvGen+SG
+zaïre	zaïre	Nom:Mas+SG
+zaïroises	zaïrois	Adj:Fem+PL
+zaïroise	zaïrois	Adj:Fem+SG
+zaïrois	zaïrois	Adj:Mas+InvPL
+zakouski	zakouski	Nom:Mas+SG
+zambiennes	zambien	Adj:Fem+PL
+zambiennes	zambien	Nom:Fem+PL
+zambienne	zambien	Adj:Fem+SG
+zambienne	zambien	Nom:Fem+SG
+zambiens	zambien	Adj:Mas+PL
+zambiens	zambien	Nom:Mas+PL
+zambien	zambien	Adj:Mas+SG
+zamia	zamia	Nom:Mas+SG
+zancle	zancle	Nom:Mas+SG
+zani	zani	Nom:Mas+InvPL
+zanni	zanni	Nom:Mas+InvPL
+zanzibar	zanzibar	Nom:Mas+SG
+zanzi	zanzi	Nom:Mas+SG
+zaouïa	zaouïa	Nom:Fem+InvPL
+zarts	zarts	Nom:Mas+PL
+zarzuelas	zarzuela	Nom:Fem+PL
+zarzuela	zarzuela	Nom:Fem+SG
+zawiya	zawiya	Nom:Fem+InvPL
+zazou	zazou	Adj:Mas+SG
+zazou	zazou	Nom:Mas+SG
+zébrant	zébrer	Ver:PPre
+zébrées	zébrer	Ver:PPas+Fem+PL
+zébrée	zébrer	Ver:PPas+Fem+SG
+zèbrent	zébrer	Ver:IPre+PL+P3:SPre+PL+P3
+zébrer	zébrer	Ver:Inf
+zèbres	zèbre	Nom:Mas+PL
+zèbres	zébrer	Ver:IPre+SG+P2:SPre+SG+P2
+zébrés	zébrer	Ver:PPas+Mas+PL
+zèbre	zèbre	Nom:Mas+SG
+zèbre	zébrer	Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2
+zébré	zébrer	Ver:PPas+Mas+SG
+zébrures	zébrure	Nom:Fem+PL
+zébrure	zébrure	Nom:Fem+SG
+zébus	zébu	Nom:Mas+PL
+zébu	zébu	Nom:Mas+SG
+zée	zée	Nom:Mas+SG
+zéine	zéine	Nom:Fem+SG
+zélandais	zélandais	Adj:Mas+InvPL
+zélandais	zélandais	Nom:Mas+InvPL
+zélateur	zélateur	Adj:Mas+SG
+zélatrice	zélateur	Adj:Fem+SG
+zélatrice	zélateur	Nom:Fem+SG
+zélées	zélé	Adj:Fem+PL
+zélées	zélé	Nom:Fem+PL
+zélée	zélé	Adj:Fem+SG
+zélée	zélé	Nom:Fem+SG
+zélés	zélé	Adj:Mas+PL
+zélés	zélé	Nom:Mas+PL
+zélé	zélé	Adj:Mas+SG
+zèle	zèle	Nom:Mas+SG
+zellige	zellige	Nom:Mas+SG
+zélote	zélote	Adj:InvGen+SG
+zélote	zélote	Nom:InvGen+SG
+zemstvo	zemstvo	Nom:Mas+SG
+zenana	zenana	Nom:Fem+SG
+zend	zend	Adj:Mas+SG
+zénithales	zénithal	Adj:Fem+PL
+zénithale	zénithal	Adj:Fem+SG
+zénithal	zénithal	Adj:Mas+SG
+zénithaux	zénithal	Adj:Mas+PL
+zénith	zénith	Nom:Mas+SG
+zen	zen	Adj:InvGen+SG:InvGen+PL
+zen	zen	Nom:Mas+InvPL
+zéolite	zéolite	Nom:Fem+SG
+zéolithe	zéolithe	Nom:Fem+SG
+zéphyriennes	zéphyrien	Adj:Fem+PL
+zéphyrienne	zéphyrien	Adj:Fem+SG
+zéphyrien	zéphyrien	Adj:Mas+SG
+zéphyrine	zéphyrine	Nom:Fem+SG
+zéphyrs	zéphyr	Nom:Mas+PL
+zéphyr	zéphyr	Nom:Mas+SG
+zeppelin	zeppelin	Nom:Mas+SG
+zéros	zéro	Nom:Mas+PL
+zérotage	zérotage	Nom:Mas+SG
+zéro	zéro	Det:InvGen+SG:InvGen+PL
+zéro	zéro	Nom:Mas+SG
+zérumbet	zérumbet	Nom:Mas+SG
+zestaient	zester	Ver:IImp+PL+P3
+zestais	zester	Ver:IImp+SG+P1:IImp+SG+P2
+zestait	zester	Ver:IImp+SG+P3
+zestai	zester	Ver:IPSim+SG+P1
+zestâmes	zester	Ver:IPSim+PL+P1
+zestant	zester	Ver:PPre
+zestassent	zester	Ver:SImp+PL+P3
+zestasses	zester	Ver:SImp+SG+P2
+zestasse	zester	Ver:SImp+SG+P1
+zestassiez	zester	Ver:SImp+PL+P2
+zestassions	zester	Ver:SImp+PL+P1
+zestas	zester	Ver:IPSim+SG+P2
+zestâtes	zester	Ver:IPSim+PL+P2
+zestât	zester	Ver:SImp+SG+P3
+zesta	zester	Ver:IPSim+SG+P3
+zestent	zester	Ver:IPre+PL+P3:SPre+PL+P3
+zesteraient	zester	Ver:CPre+PL+P3
+zesterais	zester	Ver:CPre+SG+P1:CPre+SG+P2
+zesterait	zester	Ver:CPre+SG+P3
+zesterai	zester	Ver:IFut+SG+P1
+zesteras	zester	Ver:IFut+SG+P2
+zestera	zester	Ver:IFut+SG+P3
+zestèrent	zester	Ver:IPSim+PL+P3
+zesterez	zester	Ver:IFut+PL+P2
+zesteriez	zester	Ver:CPre+PL+P2
+zesterions	zester	Ver:CPre+PL+P1
+zesterons	zester	Ver:IFut+PL+P1
+zesteront	zester	Ver:IFut+PL+P3
+zester	zester	Ver:Inf
+zestes	zeste	Nom:Mas+PL
+zestes	zester	Ver:IPre+SG+P2:SPre+SG+P2
+zeste	zeste	Int
+zeste	zeste	Nom:Mas+SG
+zeste	zester	Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2
+zesté	zester	Ver:PPas+Mas+SG
+zestez	zester	Ver:IPre+PL+P2:ImPre+PL+P2
+zestiez	zester	Ver:IImp+PL+P2:SPre+PL+P2
+zestions	zester	Ver:IImp+PL+P1:SPre+PL+P1
+zestons	zester	Ver:IPre+PL+P1:ImPre+PL+P1
+zest	zest	Int
+zest	zest	Nom:Mas+SG
+zêta	zêta	Nom:Mas+InvPL
+zétète	zétète	Nom:InvGen+SG
+zététique	zététique	Adj:InvGen+SG
+zététique	zététique	Nom:Fem+SG
+zététique	zététique	Nom:InvGen+SG
+zeugma	zeugma	Nom:Mas+SG
+zeugme	zeugme	Nom:Mas+SG
+zeuzère	zeuzère	Nom:Fem+SG
+zézaiements	zézaiement	Nom:Mas+PL
+zézaiement	zézaiement	Nom:Mas+SG
+zézayant	zézayant	Adj:Mas+SG
+zézayant	zézayer	Ver:PPre
+zézayer	zézayer	Ver:Inf
+zézayé	zézayer	Ver:PPas+Mas+SG
+zibelines	zibeline	Nom:Fem+PL
+zibeline	zibeline	Nom:Fem+SG
+zieutant	zieuter	Ver:PPre
+zieuter	zieuter	Ver:Inf
+zieuté	zieuter	Ver:PPas+Mas+SG
+ziggourats	ziggourat	Nom:Fem+PL
+ziggourat	ziggourat	Nom:Fem+SG
+zigoteaux	zigoteau	Nom:Mas+PL
+zigoteau	zigoteau	Nom:Mas+SG
+zigoto	zigoto	Nom:Mas+SG
+zigouillant	zigouiller	Ver:PPre
+zigouiller	zigouiller	Ver:Inf
+zigouillé	zigouiller	Ver:PPas+Mas+SG
+zigues	zigue	Nom:Mas+PL
+zigue	zigue	Nom:Mas+SG
+zigzagant	zigzagant	Adj:Mas+SG
+zigzags	zigzag	Nom:Mas+PL
+zigzaguaient	zigzaguer	Ver:IImp+PL+P3
+zigzaguais	zigzaguer	Ver:IImp+SG+P1:IImp+SG+P2
+zigzaguait	zigzaguer	Ver:IImp+SG+P3
+zigzaguai	zigzaguer	Ver:IPSim+SG+P1
+zigzaguâmes	zigzaguer	Ver:IPSim+PL+P1
+zigzaguant	zigzaguer	Ver:PPre
+zigzaguassent	zigzaguer	Ver:SImp+PL+P3
+zigzaguasses	zigzaguer	Ver:SImp+SG+P2
+zigzaguasse	zigzaguer	Ver:SImp+SG+P1
+zigzaguassiez	zigzaguer	Ver:SImp+PL+P2
+zigzaguassions	zigzaguer	Ver:SImp+PL+P1
+zigzaguas	zigzaguer	Ver:IPSim+SG+P2
+zigzaguâtes	zigzaguer	Ver:IPSim+PL+P2
+zigzaguât	zigzaguer	Ver:SImp+SG+P3
+zigzagua	zigzaguer	Ver:IPSim+SG+P3
+zigzaguées	zigzaguée	Nom:Fem+PL
+zigzaguées	zigzaguer	Ver:PPas+Fem+PL
+zigzaguée	zigzaguée	Nom:Fem+SG
+zigzaguée	zigzaguer	Ver:PPas+Fem+SG
+zigzaguent	zigzaguer	Ver:IPre+PL+P3:SPre+PL+P3
+zigzagueraient	zigzaguer	Ver:CPre+PL+P3
+zigzaguerais	zigzaguer	Ver:CPre+SG+P1:CPre+SG+P2
+zigzaguerait	zigzaguer	Ver:CPre+SG+P3
+zigzaguerai	zigzaguer	Ver:IFut+SG+P1
+zigzagueras	zigzaguer	Ver:IFut+SG+P2
+zigzaguera	zigzaguer	Ver:IFut+SG+P3
+zigzaguèrent	zigzaguer	Ver:IPSim+PL+P3
+zigzaguerez	zigzaguer	Ver:IFut+PL+P2
+zigzagueriez	zigzaguer	Ver:CPre+PL+P2
+zigzaguerions	zigzaguer	Ver:CPre+PL+P1
+zigzaguerons	zigzaguer	Ver:IFut+PL+P1
+zigzagueront	zigzaguer	Ver:IFut+PL+P3
+zigzaguer	zigzaguer	Ver:Inf
+zigzagues	zigzaguer	Ver:IPre+SG+P2:SPre+SG+P2
+zigzague	zigzaguer	Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2
+zigzagué	zigzaguer	Ver:PPas+Mas+SG
+zigzaguez	zigzaguer	Ver:IPre+PL+P2:ImPre+PL+P2
+zigzaguiez	zigzaguer	Ver:IImp+PL+P2:SPre+PL+P2
+zigzaguions	zigzaguer	Ver:IImp+PL+P1:SPre+PL+P1
+zigzaguons	zigzaguer	Ver:IPre+PL+P1:ImPre+PL+P1
+zigzag	zigzag	Nom:Mas+SG
+zig	zig	Nom:Mas+SG
+zincage	zincage	Nom:Mas+SG
+zincate	zincate	Nom:Mas+SG
+zincifère	zincifère	Adj:InvGen+SG
+zincographie	zincographie	Nom:Fem+SG
+zincs	zinc	Nom:Mas+PL
+zinc	zinc	Nom:Mas+SG
+zingage	zingage	Nom:Mas+SG
+zingari	zingaro	Nom:Mas+PL
+zingaro	zingaro	Nom:Mas+SG
+zingibéracée	zingibéracée	Nom:Fem+SG
+zinguant	zinguer	Ver:PPre
+zinguer	zinguer	Ver:Inf
+zingueurs	zingueur	Adj:Mas+PL
+zingueurs	zingueur	Nom:Mas+PL
+zingueur	zingueur	Adj:Mas+SG
+zingueur	zingueur	Nom:Mas+SG
+zingué	zinguer	Ver:PPas+Mas+SG
+zinjanthrope	zinjanthrope	Nom:Mas+SG
+zinnias	zinnia	Nom:Mas+PL
+zinnia	zinnia	Nom:Mas+SG
+zinzinulant	zinzinuler	Ver:PPre
+zinzinuler	zinzinuler	Ver:Inf
+zinzinulé	zinzinuler	Ver:PPas+Mas+SG
+zinzin	zinzin	Adj:InvGen+SG
+zinzin	zinzin	Nom:InvGen+SG
+zinzin	zinzin	Nom:Mas+SG
+zinzolin	zinzolin	Adj:Mas+SG
+zipper	zipper	Ver:Inf
+zircone	zircone	Nom:Fem+SG
+zirconite	zirconite	Nom:Fem+SG
+zirconium	zirconium	Nom:Mas+SG
+zircon	zircon	Nom:Mas+SG
+zist	zist	Nom:Mas+SG
+zizanies	zizanie	Nom:Fem+PL
+zizanie	zizanie	Nom:Fem+SG
+zizi	zizi	Nom:Mas+SG
+zlotys	zloty	Nom:Mas+PL
+zloty	zloty	Nom:Mas+SG
+zoanthaires	zoanthaire	Nom:Mas+PL
+zoanthropie	zoanthropie	Nom:Fem+SG
+zodiacales	zodiacal	Adj:Fem+PL
+zodiacale	zodiacal	Adj:Fem+SG
+zodiacal	zodiacal	Adj:Mas+SG
+zodiacaux	zodiacal	Adj:Mas+PL
+zodiaques	zodiaque	Nom:Mas+PL
+zodiaque	zodiaque	Nom:Mas+SG
+zoïle	zoïle	Nom:Mas+SG
+zombies	zombie	Nom:Mas+PL
+zombie	zombie	Nom:Mas+SG
+zombi	zombi	Nom:Mas+SG
+zonages	zonage	Nom:Mas+PL
+zonage	zonage	Nom:Mas+SG
+zonales	zonal	Adj:Fem+PL
+zonale	zonal	Adj:Fem+SG
+zonal	zonal	Adj:Mas+SG
+zonard	zonard	Nom:Mas+SG
+zonas	zona	Nom:Fem+PL
+zonas	zona	Nom:Mas+PL
+zonas	zoner	Ver:IPSim+SG+P2
+zonaux	zonal	Adj:Mas+PL
+zona	zona	Nom:Fem+SG
+zona	zona	Nom:Mas+SG
+zona	zoner	Ver:IPSim+SG+P3
+zonées	zoné	Adj:Fem+PL
+zonées	zoner	Ver:PPas+Fem+PL
+zonée	zoné	Adj:Fem+SG
+zonée	zoner	Ver:PPas+Fem+SG
+zoner	zoner	Ver:Inf
+zonés	zoné	Adj:Mas+PL
+zones	zone	Nom:Fem+PL
+zones	zoner	Ver:IPre+SG+P2:SPre+SG+P2
+zonés	zoner	Ver:PPas+Mas+PL
+zoné	zoné	Adj:Mas+SG
+zone	zone	Nom:Fem+SG
+zone	zoner	Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2
+zoné	zoner	Ver:PPas+Mas+SG
+zonière	zonier	Adj:Fem+SG
+zonière	zonier	Nom:Fem+SG
+zonier	zonier	Adj:Mas+SG
+zonier	zonier	Nom:Mas+SG
+zonure	zonure	Nom:Mas+SG
+zoogamète	zoogamète	Nom:Mas+SG
+zoogéographie	zoogéographie	Nom:Fem+SG
+zooglée	zooglée	Nom:Fem+SG
+zooïde	zooïde	Adj:InvGen+SG
+zoolâtre	zoolâtre	Adj:InvGen+SG
+zoolâtre	zoolâtre	Nom:InvGen+SG
+zoolâtrie	zoolâtrie	Nom:Fem+SG
+zoolite	zoolite	Nom:Mas+SG
+zoolithe	zoolithe	Nom:Mas+SG
+zoologie	zoologie	Nom:Fem+SG
+zoologiquement	zoologiquement	Adv
+zoologiques	zoologique	Adj:InvGen+PL
+zoologique	zoologique	Adj:InvGen+SG
+zoologistes	zoologiste	Nom:InvGen+PL
+zoologiste	zoologiste	Nom:InvGen+SG
+zoologue	zoologue	Nom:InvGen+SG
+zoomorphe	zoomorphe	Adj:InvGen+SG
+zoomorphisme	zoomorphisme	Nom:Mas+SG
+zooms	zoom	Nom:Mas+PL
+zoom	zoom	Nom:Mas+SG
+zoonose	zoonose	Nom:Fem+SG
+zoopathique	zoopathique	Adj:InvGen+SG
+zoophile	zoophile	Adj:InvGen+SG
+zoophilie	zoophilie	Nom:Fem+SG
+zoophobie	zoophobie	Nom:Fem+SG
+zoophore	zoophore	Nom:Mas+SG
+zoophyte	zoophyte	Nom:Mas+SG
+zooplancton	zooplancton	Nom:Mas+SG
+zoopsie	zoopsie	Nom:Fem+SG
+zoosémiotique	zoosémiotique	Adj:InvGen+SG
+zoosémiotique	zoosémiotique	Nom:Fem+SG
+zoosporange	zoosporange	Nom:Mas+SG
+zoospore	zoospore	Nom:Fem+SG
+zoos	zoo	Nom:Mas+PL
+zootaxie	zootaxie	Nom:Fem+SG
+zootechniciennes	zootechnicien	Nom:Fem+PL
+zootechnicienne	zootechnicien	Nom:Fem+SG
+zootechnicien	zootechnicien	Nom:Mas+SG
+zootechnie	zootechnie	Nom:Fem+SG
+zootechnique	zootechnique	Adj:InvGen+SG
+zoothérapeutique	zoothérapeutique	Adj:InvGen+SG
+zoothérapie	zoothérapie	Nom:Fem+SG
+zoo	zoo	Nom:Mas+SG
+zorille	zorille	Nom:Fem+SG
+zoroastriennes	zoroastrien	Adj:Fem+PL
+zoroastriennes	zoroastrien	Nom:Fem+PL
+zoroastrienne	zoroastrien	Adj:Fem+SG
+zoroastrienne	zoroastrien	Nom:Fem+SG
+zoroastriens	zoroastrien	Adj:Mas+PL
+zoroastriens	zoroastrien	Nom:Mas+PL
+zoroastrien	zoroastrien	Adj:Mas+SG
+zoroastrismes	zoroastrisme	Nom:Mas+PL
+zoroastrisme	zoroastrisme	Nom:Mas+SG
+zostère	zostère	Nom:Fem+SG
+zostériennes	zostérien	Adj:Fem+PL
+zostérienne	zostérien	Adj:Fem+SG
+zostérien	zostérien	Adj:Mas+SG
+zouaves	zouave	Nom:Mas+PL
+zouave	zouave	Nom:Mas+SG
+zou	zou	Int
+zozotant	zozoter	Ver:PPre
+zozoter	zozoter	Ver:Inf
+zozoté	zozoter	Ver:PPas+Mas+SG
+zozo	zozo	Nom:Mas+SG
+zucchette	zucchette	Nom:Fem+SG
+zuchette	zuchette	Nom:Fem+SG
+zurichois	zurichois	Adj:Mas+PL
+zurichois	zurichois	Adj:Mas+SG
+zutique	zutique	Adj:InvGen+SG
+zutiste	zutiste	Nom:InvGen+SG
+zut	zut	Int
+zwanze	zwanze	Nom:InvGen+SG
+zwinglianisme	zwinglianisme	Nom:Mas+SG
+zwingliennes	zwinglien	Adj:Fem+PL
+zwinglienne	zwinglien	Adj:Fem+SG
+zwinglien	zwinglien	Adj:Mas+SG
+zyeuter	zyeuter	Ver:Inf
+zygène	zygène	Nom:Fem+SG
+zygomatiques	zygomatique	Adj:InvGen+PL
+zygomatiques	zygomatique	Nom:Mas+PL
+zygomatique	zygomatique	Adj:InvGen+SG
+zygomatique	zygomatique	Nom:Mas+SG
+zygoma	zygoma	Nom:Mas+SG
+zygomorphe	zygomorphe	Adj:InvGen+SG
+zygomycètes	zygomycète	Nom:Mas+PL
+zygomycète	zygomycète	Nom:Mas+SG
+zygopétale	zygopétale	Nom:Mas+SG
+zygote	zygote	Nom:Mas+SG
+zymase	zymase	Nom:Fem+SG
+zymotechnie	zymotechnie	Nom:Fem+SG
+zymotique	zymotique	Adj:InvGen+SG
+zython	zython	Nom:Mas+SG
+zythum	zythum	Nom:Mas+SG
+z	z	Nom:Mas+InvPL
+
+------------------------- FIN DU FICHIER --------------------------------

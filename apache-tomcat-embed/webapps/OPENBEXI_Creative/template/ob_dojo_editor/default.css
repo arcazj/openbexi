@@ -1,0 +1,10 @@
+.ob_dojo_editor_default {
+    background: white none repeat scroll 0% 0%;
+    background-color: white;
+    position: absolute;
+    border: 0.25em solid rgb(221, 221, 221);
+    border-radius:1em;
+    cursor: default;
+    opacity: 0.9;
+
+}

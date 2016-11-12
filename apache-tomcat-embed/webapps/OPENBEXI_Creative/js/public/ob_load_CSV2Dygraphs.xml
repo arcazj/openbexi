@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openbexiCreative>
+
+
+<classe name="ob_explorer">
+
+
+    <object name="file">
+            <attribute filename="ob_load_CSV2Dygraphs.js" name="filename"/>
+            <attribute list="openbexi_dygraphs" name="list"/>
+            <attribute name="specification_en" specification_en="Update selected widget according JSON file contain."/>
+            <attribute name="specification_fr" specification_fr="Modifie l'object selectionn? en fonction du contenu du fichier JSON."/>
+            <attribute name="type" type="javascripts"/>
+            <attribute icon="ob_load_CSV2Dygraphs.jpg" name="icon"/>
+            <attribute name="parameterCount" parameterCount="6"/>
+
+            <attribute name="parameterName_0" parameterName_0="widget_id"/>
+            <attribute name="parameterSpecification_0_en" parameterSpecification_0_en=""/>
+            <attribute name="parameterSpecification_0_fr" parameterSpecification_0_en="argument[0]= date courante or date selectionne a partir d'un calendrier " parameterSpecification_0_fr="TBD"/>
+            <attribute name="parameterType_0" parameterType_0="string"/>
+
+            <attribute name="parameterName_1" parameterName_1="dateCB"/>
+            <attribute name="parameterSpecification_1_en" parameterSpecification_1_en="argument[0]= Current date or date selected from calandar "/>
+            <attribute name="parameterSpecification_1_fr" parameterSpecification_1_en="exemple: dd-1, mm-4, yyyy-1, HH-5" parameterSpecification_1_fr="TBD"/>
+            <attribute name="parameterType_1" parameterType_1="string"/>
+            <attribute name="parameterDefault_1" parameterDefault_1="dd-0"/>
+
+            <attribute name="parameterName_2" parameterName_2="timeDelta"/>
+            <attribute name="parameterType_2" parameterType_2="string"/>
+            <attribute name="parameterSpecification_2_en" parameterSpecification_2_en="exemple: dd-1, mm-4, yyyy-1, HH-5"/>
+            <attribute name="parameterSpecification_2_fr" parameterSpecification_2_fr="TBD"/>
+
+            <attribute name="parameterName_3" parameterName_3="widget_type"/>
+            <attribute name="parameterType_3" parameterType_3="string"/>
+            <attribute name="parameterSpecification_3_en" parameterSpecification_3_en=""/>
+            <attribute name="parameterSpecification_3_fr" parameterSpecification_3_fr="TBD"/>
+
+            <attribute name="parameterName_4" parameterName_4="filename"/>
+            <attribute name="parameterSpecification_4_en" parameterSpecification_4_en="Enter file name + timestamp (optional)- Ex: filename or filename_DD_MM_YYYY"/>
+            <attribute name="parameterSpecification_4_fr" parameterSpecification_4_fr="TBD"/>
+            <attribute name="parameterType_4" parameterType_4="string"/>
+
+            <attribute name="parameterName_5" parameterName_5="update_according_date"/>
+            <attribute name="parameterType_5" parameterType_5="string"/>
+                        <attribute name="parameterSpecification_5_en" parameterSpecification_5_en="TBD"/>
+            <attribute name="parameterSpecification_5_fr" parameterSpecification_5_fr="TBD"/>
+
+            <attribute event="" name="event"/>
+
+
+
+        <attribute name="return" return=""/></object></classe></openbexiCreative>

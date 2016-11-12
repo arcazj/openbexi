@@ -1,0 +1,19 @@
+.ob_chartFlow_skew_grey_1 {
+    width: 95%;
+    height: 100%;
+    background: none;
+    background-color: transparent;
+    background-image: url("gif/fadegrey150x112.jpg");
+    color: black;
+    padding-right: 1.2em;
+    padding-left: 0.8em;
+    border-top-left-radius: 5em 5em;
+    border-top-right-radius: 1em 1em;
+    border-bottom-right-radius: 5em 5em;
+    border-bottom-left-radius: 1em 1em;
+    opacity: 0.9;
+}
+
+}
+
+

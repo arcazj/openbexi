@@ -1,0 +1,878 @@
+_____________________________________________________________________________
+
+Fichier: LISEZMOI
+
+         BDLEX - Version 1.1
+
+         Le volume 1: Lexique general etendu (LGE)
+
+         Lexique general + Informations morphologiques flexionnelles
+
+(Octobre 1988)
+
+_____________________________________________________________________________
+
+                        Action BDLEX du GRECO PRC de la Communication Parlee
+
+
+
+Laboratoire IRIT / CERFIA, UA 824 CNRS
+
+Universite Paul Sabatier
+
+118, route de Narbonne
+
+31062 Toulouse Cedex
+
+
+
+Guy PERENNOU
+
+Martine de CALMES
+
+Isabelle FERRANE
+
+tel: 61.55.68.86
+
+
+
+       **********************************************************
+
+       *                                                        *
+
+       *                 BDLEX - Version 1                      *
+
+       *                 -----------------                      *
+
+       *                                                        *
+
+       *     Base de Donnees et de connaissances LEXicales      *
+
+       *             du francais ecrit et parle                 *
+
+       **********************************************************
+
+       *       Volume 1:   LEXIQUE GENERAL ETENDU  (LGE)        *
+
+       **********************************************************
+
+
+
+
+
+
+
+- GENERALITES -
+
+_______________
+
+
+
+BDLEX est un projet de bases de donnees et de connaissances lexicales du
+
+francais ecrit et parle developpe au CERFIA dans le cadre du GRECO de la
+
+Communication Parlee.
+
+
+
+Pour en savoir plus sur BDLEX version 1, se referer a:
+
+    "BDLEX. Volume 1 Le lexique general", Guy Perennou et Martine de Calmes
+
+     GRECO CNRS de la Communication Parlee, juillet 1987.
+
+
+
+Les fichiers (suffixes par .lge) refletent les entrees lexicales du lexique
+
+general.
+
+
+
+
+
+Les fichiers sont repartis sur 2 disquettes BDLEX1-lge 1 et 2:
+
+
+
+   - X.lge        : entrees lexicales du lexique general
+
+                   verbes, noms et adjectifs, invariant, pronoms, determinants
+
+                   avec X = (A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P
+
+                            Q, R, S, T, U, V, W, X, Y, Z)
+
+                   A.lge contient les entrees lexicales commencant par la
+
+                   lettre a.....
+
+
+
+   - mot_comp.flx : formes flechies des mots composes .
+
+
+
+Nous noterons que la Version 1 de BDLEX-1 (juillet 1987) a ete augmentee
+
+de nouvelles entrees lexicales verbales.
+
+
+
+
+
+
+
+
+
+- Informations relatives a une entree lexicale -   (?.lge)
+
+------------------------------------------------
+
+
+
+Un enregistrement des fichiers .lge comporte 12 champs maximum:
+
+
+
+ GRAPH_ACC, HG, PHON_SYLL, FPH, HP, CL_PHON, NS, FREQ, CS, GN, CFLB, DEFLIEN
+
+
+
+GRAPH_ACC  representation graphique accentuee de l'entree lexicale
+
+           (35 caracteres max.)
+
+HG         numero homographe (nombre d'homographes / numero ordre)
+
+           (2 caractere)
+
+PHON_SYLL  representation phonologique syllabee
+
+           (35 caracteres max.)
+
+FPH        fonctionnement phonologique de la finale
+
+           (5 caracteres maximum)
+
+HP         numero homophone (nombre d'homophones / numero d'ordre)
+
+           (2 caracteres)
+
+CL_PHON    representation phonologique et syllabique en classes majeures
+
+           (35 caracteres maximum)
+
+NS         nombre de syllabes
+
+           (1 caractere)
+
+FREQ       frequences
+
+           (8 caracteres maximum)
+
+CS         categorie syntaxique (N, J, M, G, V, p...)
+
+           (1 caractere)
+
+GN         .variation en genre et nombre de GRAPH_ACC pour les noms/adjectifs,
+
+            pronoms/determinants (si reguliers), 
+
+           .personne et nombre de GRAPH_ACC pour les pronoms possessifs,
+
+           .CFLB du participe passe pour les verbes si participe variable,
+
+           . "00" sinon.
+
+           (2 caracteres maximum)
+
+CFLB       .categorie flexionnelle pour les noms/adjectifs
+
+              suivi eventuellement d'une contrainte contextuelle,
+
+           .nombre et personne auquel il renvoit pour les articles
+
+              possessifs suivi eventuellement d'une contrainte contextuelle,
+
+           .type du pronom et personne auquel il renvoit pour les pronoms
+
+              personnels,
+
+           .categorie 'bescherelle' pour les verbes,
+
+           . "00" sinon.
+
+           (3 caracteres maximum)
+
+DEFLIEN    .defection temps/personne pour les verbes,
+
+           .lien vers entree lexicale de meme famille pour les pronoms et
+
+            determinants irreguliers,
+
+           (35 caracteres maximum).
+
+
+
+Les caracteres 'virgule' 'blanc' representent le separateur de champ.
+
+
+
+EX: aimer, 11, &/m&, r", 11, E/NE, 2, C2 B0 TR, V, 01, 060, **       
+
+    amer, 21, A/m&r,, 21, A/NER, 2,, N, Mn, 01                      (amer, s)
+
+    amer, 22, A/m&r,, 22, A/NER, 2, B0, J, gn, 11        (amer, ere, s, eres)
+
+    amibe, 11, A/mib, e, 11, A/NID, 2,, N, Fn, 81                  (amibe, s)
+
+    apre2s, 11, A/pr&, z", 22, A/TRE, 2, C1 B0, p, 00, 00
+
+    bonhomme, 11, /bo/nom, e, 11, DE/NEN, 2,, M, Mn, RC
+
+    elle, 11, &l,, 32, EL, 1, C0 B0, P, FS, s3, elles
+
+    falloir, 11, /fA/lwAr,, 11, SA/LJAr, 2, C1 B0 TR, V, 00, 460, *3
+
+    ma, 11, /mA,, 41, /NA, 1, C0 B0, d, FS, S1C, mes
+
+    mes, 11, /m&, z", 43, /NE, 1, C0 B0, d, iP, S1, mon
+
+    resulter, 11, /r&/zyl/t&, r", 11, RE/ZIL/TE, 3, B0 TR, V, 01, 060, *6
+
+
+
+
+
+RQ. Actuellement, la morphologie flexionnelle des mots composes n'est pas
+
+traitee dans Bdlex1. Les mots composes qui requierent des regles flexionnelles
+
+complexes (bonhomme, ...) ont l'attribut CFLB egal a 'RC'. Les formes flechies
+
+de ces mots sont donnees en extension dans le fichier 'mot_comp.flx'.
+
+
+
+
+
+- Informations relatives a une forme flechie -  (.flx)
+
+---------------------------------------------- 
+
+Un enregistrement du fichier 'mot_comp.flx' comporte 7 champs:
+
+
+
+ GRAPH_ACC, PHON, FPH, CS, CFLB, GN, LIEN
+
+
+
+GRAPH_ACC  representation graphique accentuee de la forme flechie
+
+           (35 caracteres max.)
+
+PHON       representation phonologique
+
+           (35 caracteres max.)
+
+FPH        fonctionnement phonologique de la finale
+
+           (5 caracteres maximum)
+
+CS         categorie syntaxique (N, J, M, G, V, p...)
+
+           (1 caractere)
+
+CFLB       .information pour la verification forme flechie
+
+           (3 caracteres max.)
+
+GN         .genre et nombre de GRAPH pour les noms/adjectifs,
+
+           .genre et nombre de GRAPH pour les pronoms/determinants,
+
+           . "00" sinon.
+
+           (2 caracteres)
+
+LIEN       .representation graphique accentuee de l'entree lexicale dont
+
+            GRAPH est derivee  (GRAPH est dans ce cas une forme flechie),
+
+           ."=" sinon   (GRAPH est alors une entree lexicale de BDLEX-1).
+
+           (35 caracteres max.)
+
+
+
+Les caracteres 'virgule' 'blanc' representent le separateur de champ.
+
+Les formes flechies sont regroupees sous l'entree lexicale dont elles
+
+sont derivees.
+
+
+
+EX:  -  fichier 'mot_comp.flx' -
+
+    bonhomme, bonom, e, M, RC, MS, =
+
+    bonshommes, bo^zom, ez", M, RC, MP, bonhomme
+
+    ..........
+
+
+
+
+
+
+
+
+
+- ANNEXES - CONVENTIONS -
+
+-------------------------
+
+
+
+- Representation graphique / graphique accentuee - (GRAPH_ACC)
+
+**************************************************
+
+caractere blanc          code  _        exemple pomme_de_terre
+
+accent aigu                    1                beaute1   ce1der
+
+accent grave                   2                me2re     acce2s
+
+accent circonflexe             3                me3me     mai3tre
+
+trema                          4                noe4l     hai4r
+
+c cedille                      5                lec5on
+
+tilde                          6                don6a
+
+
+
+
+
+- Code phonetique - (PHON_SYLL)
+
+*******************
+
+VOYELLES
+
+i  mI              y  sUc             u  fOU
+
+{  clE             EU fEU             o> bEAU
+
+}  gEl             e  j(E)ter         o< mOrt
+
+@  pAtte           OE lEUr            a  pAte
+
+i^ vIN             y^ parfUM          a^ bANc          o^ dON
+
+
+
+Dans le lexique general, les variantes pour les voyelles a deux timbres
+
+ne sont pas distinguees, excepte dans les cas o<, o>, OE, EU en syllabe 
+
+fermee accentuee. On trouvera:
+
+    A     @  ou  a
+
+    &     {  ou  }
+
+    o     o< ou  o>
+
+    E     OE ou  EU
+
+
+
+SEMI-VOYELLES
+
+w  OUI             !  lUI             j  paILLe
+
+
+
+CONSONNES NASALES
+
+m  caMe            n  caNe            g^ diGNe         ng campiNG
+
+
+
+CONSONNES OBSTRUANTES
+
+p  Pal             t  Tir             k  Cou
+
+b  Bal             d  De              G  Gare
+
+f  Fa              s  couSSin         $  CHou
+
+v  Val             z  Zebu            J  Jour
+
+
+
+LIQUIDES
+
+l  Lac             r  paRi
+
+
+
+H ASPIRE
+
+*  Heros
+
+
+
+/  MARQUE de PIED
+
+;  MARQUE SYLLABIQUE uniquement si le pied se prononce obligatoirement
+
+                     en 2 syllabes.
+
+ 
+
+
+
+- Finale Phonologique - (FPH)
+
+***********************
+
+4 type d'elements terminaux sont places dans ce champ:
+
+- consonnes facultatives finales notees
+
+    C n       ex:  ananas,  AnAnA, s 1    -->  AnAnA ou AnAnAs
+
+                   yaourt,  jAur,  t 0    -->  jAur (rare)
+
+                                                   ou jAurt (frequent)
+
+    C" n      ex:  ade1quat, Ad&kA, t" 2  -->  Ad&kA, t" (frequent)
+
+                                                   ou Ad&kAt (rare)
+
+    C1C2" n   ex:  exact,    &gzA, kt" 1  -->  &gzA, kt"  ou  &gzAkt
+
+  avec n=0 si prononciation de (C) est frequente,
+
+       n=1 si usuelle, n=2 si rare
+
+
+
+- consonnes latentes notees C" ou  C1C2"
+
+              ex:   petit,  peti, t"       bon,   bo, n"    
+
+                    un,  y^, n"           
+
+  Regles de liaison:
+
+   C"  -->  C  / _ #V             ex: petitAmi
+
+               / _ #C ou _##      ex: petigArso^
+
+
+
+  Regles de nasalisation (cas de liaison):
+
+  An"  -->  a^ / _ #Cons
+
+  &n"  -->  i^ / _ #Cons
+
+  in"  -->  i^ / _ #Cons
+
+  on"  -->  o^ / _ #Cons
+
+  yn"  -->  y^ / _ #Cons      ex: bo^gArson
+
+
+
+  Vn"  -->  Vn sinon          ex: bonAmi      divina^fa^
+
+
+
+  Regles de nasalisation (cas de non-liaison):
+
+  An"  -->  a^
+
+  &n"  -->  i^
+
+  in"  -->  i^
+
+  on"  -->  o^
+
+  yn"  -->  y^
+
+
+
+- consonnes mixtes notees C'  ex:   six, si, s'
+
+  Regle :
+
+    C' -->  C  / _##  ou  _ #V       ex: sizAmi
+
+               / _ #C                ex: sigArso^
+
+
+
+- consonnes mixtes ou finales notees C-  ex:   cinq, si^, k-
+
+
+
+- e muet  note e
+
+  Tres souvent pas prononce.
+
+
+
+
+
+- Classes majeures - (CL_PHON)
+
+********************
+
+ Code
+
+   T = ( p, t, k)
+
+   D = ( b, d, g)
+
+   Z = ( v, z, J)
+
+   S = ( f, s, $)
+
+   N = ( m, n, g^, ng)
+
+   I = ( i, y, u)
+
+   E = ( &, o, E)
+
+   A = ( A)
+
+   e = ( e)
+
+   % = ( a^, o^, i^, y^)
+
+   J = ( w, j, !)
+
+   L = ( l)
+
+   R = ( r)
+
+
+
+
+
+
+
+- Frequences - (FREQ)
+
+**************
+
+Code    L'entree lexicale appartient a:
+
+C0      LB0: liste de base 0, N. Catach(*)
+
+C1      LB1: liste de base 1, N. Catach(*)
+
+C2      LB2: liste de base 2, N. Catach(*)
+
+B0      BDLEX-version 0, Matore (**)
+
+TR      liste Ters et Reichenbach, bescherelle 1(***)
+
+
+
+(*) Nina Catach, Les listes orthographiques de base du francais (LOB)
+
+                 Nathan
+
+(**) Matore, Dictionnaire du vocabulaire essentiel, Paris, Larousse 1963
+
+(***) Bescherelle 1, L'art de conjuguer, Hatier.
+
+
+
+
+
+- Categorie syntaxique - (CS)
+
+************************
+
+A     adverbe
+
+c     conjonction
+
+d     determinant
+
+F     adjectif ou nom feminin
+
+G     adjectif ou nom (masculin ou feminin)
+
+J     adjectif
+
+i     interjection
+
+M     adjectif ou nom masculin
+
+N     nom
+
+p     preposition
+
+P     pronom
+
+V     verbe a l'infinitif
+
+
+
+
+
+
+
+- Variation Genre Nombre/ Personne Nombre - (GN)
+
+*******************************************
+
+sur 2 caracteres  GN
+
+
+
+. NOMS/ADJECTIFS/PRONOMS/DETERMINANTS .  
+
+avec  G variation en genre
+
+        =  M si masculin, F si feminin, g si variable en genre et marque,
+
+           h si masculin au singulier et feminin au pluriel,
+
+           i si variable en genre et non marque, 0 neutre.  
+
+      N variation en nombre
+
+        =  S si singulier, P si pluriel, n si variable en nombre et marque,
+
+           j si variavle en nombre et non marque, 0 neutre.
+
+MS     ex: autrui                   MP     ex: abois
+
+Mn     ex: stylo, s                 Mj     ex: ananas
+
+FS     ex: aucune                   FP     ex: fiancailles
+
+Fn     ex: table, s                 Fj     ex: chaux
+
+iS     ex: autre                    iP     ex: ces
+
+in     ex: adulte, s                ij     ex: citron  (J)
+
+gn     ex: acteur, s, trice, s      hn     ex: amour, s
+
+
+
+. PRONOMS POSSESSIFS .
+
+avec  G personne auquel renvoit le pronom
+
+        =  1 si 1ere personne, 2 si 2eme personne, 3 si 3eme personne
+
+      N nombre du nom auquel renvoit le pronom
+
+        =  S si singulier, P si pluriel
+
+1S     ex: mien                     3P     ex: leur
+
+
+
+
+
+- Genre Nombre -  (PERS)  Formes flechies des mots-composes
+
+****************
+
+. NOMS/ADJECTIFS .                  
+
+. PRONOMS/DETERMINANTS .
+
+sur 2 caracteres   GN
+
+avec  G =  M si masculin,  F si feminin,
+
+           i si variable en genre et non marque, 0 neutre.
+
+      N =  S si singulier, P si pluriel,
+
+           j si variable en nombre et non marque, 0 neutre.
+
+MS    ex: ami                FS    ex: amie
+
+MP    ex: amis               FP    ex: amies
+
+Mj    ex: ananas             Fj    ex: chaux
+
+iS    ex: civique            iP    ex: civiques
+
+ij    ex: citron  (J)
+
+
+
+- Categorie flexionnelle                -  (CFLB)
+
+- Contrainte contextuelle               -
+
+- Nombre/Personne (articles possessifs) -
+
+- Type/Personne (pronoms personnels)    - 
+
+*****************************************
+
+. NOMS/ADJECTIFS .
+
+sur 3 caracteres maximum   NO C
+
+avec NO numero de la regle flexionnelle associee
+
+        si NO > 99 alors flexion double   ex: 102 lapon,lapone ou laponne
+
+     C  contrainte contextuelle (optionnel)
+
+        =  C si contexte consonne ,  V si contexte voyelle 
+
+ex:  02C  fou (J, Mn)         00V  fol (J, MS)
+
+     23   fou (N, gn)
+
+
+
+. VERBES . 
+
+sur 3 caracteres   NO
+
+avec NO  identificateur de la categorie Bescherelle associee
+
+ex:  060  resulter            460  falloir
+
+
+
+. ARTICLES POSSESSIFS .
+
+sur 3 caracteres maximum  N P C
+
+avec  N nombre auquel renvoit l'article
+
+        = S si singulier, P si pluriel
+
+      P personne auquel renvoit l'article
+
+        = 1 si 1ere personne, 2 si 2eme personne, 3 si 3eme personne
+
+      C  contrainte contextuelle (optionnel)
+
+        =  C si contexte consonne ,  V si contexte voyelle 
+
+ex:  S1C  ma                  S1   ses
+
+
+
+. PRONOMS PERSONNELS .
+
+sur 2 caracteres    T P
+
+avec  T type du pronom
+
+        = s si sujet, c si complement atone, t si tonique
+
+      P personne auquel renvoit le pronom
+
+        = 1 si 1ere personne, 2 si 2eme personne, 3 si 3eme personne
+
+ex:  s3  il            t3  lui               c3  le                 
+
+
+
+
+
+- Lien                     -
+
+- Defection temps/personne -  (DEFLIEN)
+
+****************************
+
+. VERBES .
+
+sur 2 caracteres: TP avec
+
+ T defectif en temps=     *   non defectif                      ex: chanter
+
+                          B   defectif comme braire
+
+                          F   ne s'emploie qu'a l'infinitif    ex: malfaire
+
+                          I   pas d'imperatif                   ex: falloir
+
+                          P   defectif comme paitre
+
+                          S   pas de passe simple et
+
+                              pas d'imparfait du subjonctif      ex: traire
+
+                          D   autre cas          ex: frire, choir, parfaire, 
+
+                                                           chaloir, sourdre
+
+ P defectif en personne=  *   usite a toutes les personnes      ex: chanter
+
+                          6   usite seulement a la 3eme personne
+
+                              du singulier et du pluriel       ex: resulter
+
+                          3   usite seulement a la 3eme personne
+
+                              du singulier                      ex: falloir
+
+                          0   autre cas                           ex: frire
+
+
+
+. PRONOM/DETERMINANT/ADJECTIF .
+
+cas de formation irreguliere du feminin ... pluriel.
+
+sur 35 caracteres maximum    LIEN
+
+avec LIEN   lien vers une entree lexicale de meme famille,
+
+            la premiere qui apparait dans le lexique apres GRAPH.
+
+            (le dernier element de la famille est lie avec le premier)
+
+Dans le cas des pronoms et determinants de formation reguliere, ce champ
+
+a pour valeur **.
+
+ex            GRAPH                DEFLIEN
+
+  .....       aucun                aucune    (determinant aucun)
+
+  .....       aucune               aucun
+
+  .....       divers               **        (divers, diverses)
+
+  .....       elle                 elles     (pronoms personnels sujets)
+
+  .....       elles                il
+
+  .....       il                   ils
+
+  .....       ils                  je
+
+  .....       vous                 elle
+
+
+

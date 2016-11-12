@@ -1,0 +1,855 @@
+January	January	noun
+June	June	noun
+July	July	noun
+Japan	Japan	proper noun
+jiffy	jiffy	noun
+jiffies	jiffy	noun:plural
+jitter	jitter	verb:simple_present+intransitive
+jitters	jitter	verb:simple_present+intransitive
+???	jitter	verb:simple_past+intransitive
+???	jitter	verb:past_participle+intransitive
+???	jitter	verb:present_participle+intransitive
+jitter	jitter	noun
+jitters	jitter	noun:plural
+Jamaica	Jamaica	proper noun
+Jupiter	Jupiter	proper noun
+Jordan	Jordan	proper noun
+jacobian	jacobian	adjective
+Japanese	Japanese	noun
+Japanese	Japanese	adjective
+jack	jack	noun
+jacks	jack	noun:plural
+jack	jack	verb:simple_present+transitive
+jacks	jack	verb:simple_present+transitive
+jacked	jack	verb:simple_past+transitive
+jacked	jack	verb:past_participle+transitive
+jacking	jack	verb:present_participle+transitive
+jack	jack	interjection
+jump	jump	verb:simple_present+
+jumps	jump	verb:simple_present+
+jumped	jump	verb:simple_past+
+jumped	jump	verb:past_participle+
+jumping	jump	verb:present_participle+
+jump	jump	noun
+Jehovah	Jehovah	proper noun
+jargon	jargon	noun
+Jharkhand	Jharkhand	proper noun
+juxtaposition	juxtaposition	noun
+johor	johor	proper noun
+Jaipur	Jaipur	proper noun
+jellyfish	jellyfish	noun
+jerk	jerk	noun
+jerks	jerk	noun:plural
+jerk	jerk	verb:simple_present+
+jerks	jerk	verb:simple_present+
+jerked	jerk	verb:simple_past+
+jerked	jerk	verb:past_participle+
+jerking	jerk	verb:present_participle+
+jerking	jerk	verb:present_participle
+jubilant	jubilant	adjective
+jackdaw	jackdaw	noun
+jackdaws	jackdaw	noun:plural
+jeer	jeer	noun
+jeer	jeer	verb:simple_present+intransitive
+jeers	jeer	verb:simple_present+intransitive
+jeered	jeer	verb:simple_past+intransitive
+jeered	jeer	verb:past_participle+intransitive
+jeering	jeer	verb:present_participle+intransitive
+jeer	jeer	verb:simple_present+transitive
+jeers	jeer	verb:simple_present+transitive
+jeered	jeer	verb:simple_past+transitive
+jeered	jeer	verb:past_participle+transitive
+jeering	jeer	verb:present_participle+transitive
+jeer	jeer	noun
+journey	journey	noun
+journey	journey	verb:simple_present+
+journeys	journey	verb:simple_present+
+journeyed	journey	verb:simple_past+
+journeyed	journey	verb:past_participle+
+journeying	journey	verb:present_participle+
+jonetot	jonetot	noun
+jasid	jasid	noun
+jay	jay	noun
+jays	jay	noun:plural
+jay	jay	proper noun
+join	join	verb:simple_present+
+joins	join	verb:simple_present+
+joined	join	verb:simple_past+
+joined	join	verb:past_participle+
+joining	join	verb:present_participle+
+joining	join	verb:present_participle
+join	join	noun
+joins	join	noun:plural
+jewel	jewel	noun
+judge	judge	noun
+judges	judge	noun:plural
+judge	judge	verb:simple_present+
+judges	judge	verb:simple_present+
+judged	judge	verb:simple_past+
+judged	judge	verb:past_participle+
+judging	judge	verb:present_participle+
+Jew	Jew	proper noun
+j	j	noun
+jyutping	jyutping	noun
+jehovist	jehovist	noun
+jehovistic	jehovistic	adjective
+jehu	jehu	noun
+jeffersonite	jeffersonite	noun
+jag	jag	noun
+jag	jag	verb:simple_present+
+jags	jag	verb:simple_present+
+???	jag	verb:simple_past+
+???	jag	verb:past_participle+
+???	jag	verb:present_participle+
+jaguar	jaguar	noun
+jaundice	jaundice	noun
+jaundice	jaundice	verb:simple_present+transitive
+jaundices	jaundice	verb:simple_present+transitive
+jaundiced	jaundice	verb:simple_past+transitive
+jaundiced	jaundice	verb:past_participle+transitive
+jaundicing	jaundice	verb:present_participle+transitive
+jaundiced	jaundiced	adjective
+jaunt	jaunt	verb:simple_present+intransitive
+jaunts	jaunt	verb:simple_present+intransitive
+jaunted	jaunt	verb:simple_past+intransitive
+jaunted	jaunt	verb:past_participle+intransitive
+jaunting	jaunt	verb:present_participle+intransitive
+jaunt	jaunt	verb:simple_present+transitive
+jaunts	jaunt	verb:simple_present+transitive
+jaunted	jaunt	verb:simple_past+transitive
+jaunted	jaunt	verb:past_participle+transitive
+jaunting	jaunt	verb:present_participle+transitive
+jaunt	jaunt	noun
+jauntily	jauntily	adverbe
+jauntiness	jauntiness	adjective
+jaunty	jaunty	adjective
+jaunty	jaunty	adjective
+jet	jet	noun
+jet	jet	verb:simple_present+intransitive
+jets	jet	verb:simple_present+intransitive
+???	jet	verb:simple_past+intransitive
+???	jet	verb:past_participle+intransitive
+???	jet	verb:present_participle+intransitive
+jet	jet	adjective
+jib	jib	noun
+jip	jip	noun
+jibe	jibe	noun
+jibe	jibe	verb:simple_present+intransitive
+jibes	jibe	verb:simple_present+intransitive
+jibed	jibe	verb:simple_past+intransitive
+jibed	jibe	verb:past_participle+intransitive
+jibing	jibe	verb:present_participle+intransitive
+jibe	jibe	verb:simple_present+transitive
+jibes	jibe	verb:simple_present+transitive
+jibed	jibe	verb:simple_past+transitive
+jibed	jibe	verb:past_participle+transitive
+jibing	jibe	verb:present_participle+transitive
+juggernaut	juggernaut	noun
+jest	jest	noun
+jest	jest	verb:simple_present+
+jests	jest	verb:simple_present+
+jested	jest	verb:simple_past+
+jested	jest	verb:past_participle+
+jesting	jest	verb:present_participle+
+jesting	jest	verb:present_participle
+jest	jest	verb:simple_present+intransitive
+jests	jest	verb:simple_present+intransitive
+jested	jest	verb:simple_past+intransitive
+jested	jest	verb:past_participle+intransitive
+jesting	jest	verb:present_participle+intransitive
+jest	jest	verb:simple_present+transitive
+jests	jest	verb:simple_present+transitive
+jested	jest	verb:simple_past+transitive
+jested	jest	verb:past_participle+transitive
+jesting	jest	verb:present_participle+transitive
+Jakarta	Jakarta	proper noun
+Java	Java	proper noun
+Jerusalem	Jerusalem	proper noun
+Juneau	Juneau	proper noun
+Johannesburg	Johannesburg	proper noun
+jackboot	jackboot	noun
+jamaican	jamaican	noun
+jamaican	jamaican	adjective
+jordanian	jordanian	noun
+jordanian	jordanian	adjective
+joule	joule	noun
+Jan	Jan	proper noun
+judo	judo	noun
+jersey	jersey	proper noun
+jersey	jersey	noun
+jerseys	jersey	noun:plural
+jackal	jackal	noun
+jandal	jandal	noun
+jandals	jandal	noun:plural
+juice	juice	noun
+juices	juice	noun:plural
+juice	juice	verb:simple_present+transitive
+juices	juice	verb:simple_present+transitive
+juiced	juice	verb:simple_past+transitive
+juiced	juice	verb:past_participle+transitive
+juicing	juice	verb:present_participle+transitive
+jaw	jaw	noun
+jaws	jaw	noun:plural
+jaw	jaw	verb:simple_present+
+jaws	jaw	verb:simple_present+
+???	jaw	verb:simple_past+
+???	jaw	verb:past_participle+
+???	jaw	verb:present_participle+
+jaw	jaw	verb:simple_present+
+jaws	jaw	verb:simple_present+
+???	jaw	verb:simple_past+
+???	jaw	verb:past_participle+
+???	jaw	verb:present_participle+
+jackass	jackass	noun
+jenny-ass	jenny-ass	noun
+jenny	jenny	noun
+Jesus	Jesus	proper noun
+Jesus	Jesus	interjection
+jackrabbit	jackrabbit	noun
+joy	joy	noun
+joys	joy	noun:plural
+just	just	adjective
+just	just	adverbe
+just	just	verb:simple_present+
+justs	just	verb:simple_present+
+justed	just	verb:simple_past+
+justed	just	verb:past_participle+
+justing	just	verb:present_participle+
+jim	jim	proper noun
+job	job	noun
+jobs	job	noun:plural
+job	job	proper noun
+job	job	verb:simple_present+
+jobs	job	verb:simple_present+
+???	job	verb:simple_past+
+???	job	verb:past_participle+
+???	job	verb:present_participle+
+jayhawk	jayhawk	proper noun
+jayhawker	jayhawker	noun
+jayhawkers	jayhawker	noun:plural
+joey	joey	noun
+joeys	joey	noun:plural
+joey	joey	proper noun
+jam	jam	noun
+jams	jam	noun:plural
+jam	jam	verb:simple_present+
+jams	jam	verb:simple_present+
+???	jam	verb:simple_past+
+???	jam	verb:past_participle+
+???	jam	verb:present_participle+
+jelly	jelly	noun
+jellies	jelly	noun:plural
+jamjar	jamjar	noun
+jamjars	jamjar	noun:plural
+jumpy	jumpy	adjective
+joker	joker	noun
+jokers	joker	noun:plural
+joker	joker	proper noun
+ju	ju	interjection
+jerman	jerman	noun
+jerman	jerman	adjective
+jerman	jerman	noun
+jerman	jerman	adjective
+junk	junk	noun
+junk	junk	verb:simple_present+
+junks	junk	verb:simple_present+
+junked	junk	verb:simple_past+
+junked	junk	verb:past_participle+
+junking	junk	verb:present_participle+
+jetsam	jetsam	noun
+jolly	jolly	adjective
+Joseph	Joseph	proper noun
+Joe	Joe	proper noun
+Joe	Joe	noun
+jagh	jagh	noun
+junction	junction	noun
+Jura	Jura	proper noun
+Jakub	Jakub	proper noun
+jailbait	jailbait	noun
+junior	junior	adjective
+jacket	jacket	noun
+jackets	jacket	noun:plural
+jade	jade	noun
+jade	jade	adjective
+japanize	japanize	verb:simple_present+transitive
+japanizes	japanize	verb:simple_present+transitive
+japanized	japanize	verb:simple_past+transitive
+japanized	japanize	verb:past_participle+transitive
+japanizing	japanize	verb:present_participle+transitive
+jab	jab	noun
+jab	jab	verb:simple_present+
+jabs	jab	verb:simple_present+
+???	jab	verb:simple_past+
+???	jab	verb:past_participle+
+???	jab	verb:present_participle+
+jabbing	jab	verb:present_participle
+jeep	jeep	noun
+justification	justification	noun
+jap	jap	noun
+joke	joke	noun
+jokes	joke	noun:plural
+joke	joke	verb:simple_present+intransitive
+jokes	joke	verb:simple_present+intransitive
+joked	joke	verb:simple_past+intransitive
+joked	joke	verb:past_participle+intransitive
+joking	joke	verb:present_participle+intransitive
+Jerusalemo	Jerusalemo	proper noun
+joyous	joyous	adjective
+jaghirdar	jaghirdar	noun
+jaghir	jaghir	noun
+jarl	jarl	noun
+jackpudding	jackpudding	noun
+Jewess	Jewess	proper noun
+Jewesses	Jewess	proper noun:plural
+jazz	jazz	noun
+jazz	jazz	verb:simple_present+
+jazzs	jazz	verb:simple_present+
+jazzed	jazz	verb:simple_past+
+jazzed	jazz	verb:past_participle+
+jazzing	jazz	verb:present_participle+
+jharal	jharal	noun
+Jacky	Jacky	proper noun
+Jackie	Jackie	proper noun
+joystick	joystick	noun
+joysticks	joystick	noun:plural
+jammy	jammy	adjective
+jazykovedec	jazykovedec	noun
+jerboa	jerboa	noun
+jerboas	jerboa	noun:plural
+Juliet	Juliet	proper noun
+James	James	proper noun
+Jacob	Jacob	proper noun
+jugular	jugular	noun
+jugulars	jugular	noun:plural
+jugular	jugular	adjective
+judoka	judoka	noun
+jak	jak	proper noun
+Jr	Jr	proper noun
+juglandaceous	juglandaceous	adjective
+Juglandaceae	Juglandaceae	proper noun
+jar	jar	noun
+jars	jar	noun:plural
+jar	jar	verb:simple_present+transitive
+jars	jar	verb:simple_present+transitive
+???	jar	verb:simple_past+transitive
+???	jar	verb:past_participle+transitive
+???	jar	verb:present_participle+transitive
+jarring	jar	verb:present_participle
+Jones	Jones	proper noun
+Joneses	Jones	proper noun:plural
+jail	jail	noun
+jails	jail	noun:plural
+jail	jail	verb:simple_present+transitive
+jails	jail	verb:simple_present+transitive
+jailed	jail	verb:simple_past+transitive
+jailed	jail	verb:past_participle+transitive
+jailing	jail	verb:present_participle+transitive
+jailing	jail	verb:present_participle
+joint	joint	noun
+joints	joint	noun:plural
+joint	joint	adjective
+jazerant	jazerant	noun
+jinriksha	jinriksha	noun
+jack-knife	jack-knife	noun
+jack-knife	jack-knife	verb:simple_present+
+jack-knifes	jack-knife	verb:simple_present+
+jack-knifed	jack-knife	verb:simple_past+
+jack-knifed	jack-knife	verb:past_participle+
+jack-knifing	jack-knife	verb:present_participle+
+jarnpa	jarnpa	noun
+justice	justice	noun
+jazeraint	jazeraint	noun
+jazeraint	jazeraint	adjective
+JLAvengers	JLAvengers	noun
+jidysz	jidysz	noun
+Jimmy	Jimmy	proper noun
+Jimmy	Jimmy	noun
+jibber	jibber	noun
+javelin	javelin	noun
+jologs	jologs	noun
+jologs	jologs	adjective
+jologs	jologs	verb:simple_present+
+jologss	jologs	verb:simple_present+
+jologsed	jologs	verb:simple_past+
+jologsed	jologs	verb:past_participle+
+jologsing	jologs	verb:present_participle+
+jobbie	jobbie	noun
+jobbies	jobbie	noun:plural
+john	john	noun
+johns	john	noun:plural
+john	john	proper noun
+jagger	jagger	noun
+jakes	jakes	noun
+jalopy	jalopy	noun
+jejune	jejune	adjective
+jerker	jerker	noun
+Jess	Jess	proper noun
+jessed	jessed	adjective
+jig	jig	noun
+jigger	jigger	noun
+jigger	jigger	verb:simple_present+
+jiggers	jigger	verb:simple_present+
+???	jigger	verb:simple_past+
+???	jigger	verb:past_participle+
+jiggering	jigger	verb:present_participle+
+jill	jill	noun
+jilt	jilt	verb:simple_present+
+jilts	jilt	verb:simple_present+
+jilted	jilt	verb:simple_past+
+jilted	jilt	verb:past_participle+
+jilting	jilt	verb:present_participle+
+joggle	joggle	verb:simple_present+
+joggles	joggle	verb:simple_present+
+joggled	joggle	verb:simple_past+
+joggled	joggle	verb:past_participle+
+joggling	joggle	verb:present_participle+
+jolter	jolter	noun
+joss	joss	noun
+jot	jot	noun
+jotter	jotter	noun
+jounce	jounce	verb:simple_present+
+jounces	jounce	verb:simple_present+
+jounced	jounce	verb:simple_past+
+jounced	jounce	verb:past_participle+
+jouncing	jounce	verb:present_participle+
+jowl	jowl	noun
+jugate	jugate	verb:simple_present+
+jugates	jugate	verb:simple_present+
+jugated	jugate	verb:simple_past+
+jugated	jugate	verb:past_participle+
+jugating	jugate	verb:present_participle+
+jujube	jujube	noun
+juke	juke	verb:simple_present+
+jukes	juke	verb:simple_present+
+juked	juke	verb:simple_past+
+juked	juke	verb:past_participle+
+juking	juke	verb:present_participle+
+julep	julep	noun
+junco	junco	noun
+junker	junker	noun
+junta	junta	noun
+jute	jute	noun
+jailer	jailer	noun
+jollification	jollification	noun
+joust	joust	verb:simple_present+
+jousts	joust	verb:simple_present+
+jousted	joust	verb:simple_past+
+jousted	joust	verb:past_participle+
+jousting	joust	verb:present_participle+
+jabber	jabber	noun
+jabber	jabber	verb:simple_present+
+jabbers	jabber	verb:simple_present+
+???	jabber	verb:simple_past+
+???	jabber	verb:past_participle+
+???	jabber	verb:present_participle+
+jape	jape	verb:simple_present+
+japes	jape	verb:simple_present+
+japed	jape	verb:simple_past+
+japed	jape	verb:past_participle+
+japing	jape	verb:present_participle+
+javanese	javanese	adjective
+jubilation	jubilation	noun
+judaization	judaization	noun
+jat	jat	proper noun
+jalousie	jalousie	noun
+jewfish	jewfish	noun
+jive	jive	verb:simple_present+
+jives	jive	verb:simple_present+
+jived	jive	verb:simple_past+
+jived	jive	verb:past_participle+
+jiving	jive	verb:present_participle+
+jive	jive	noun
+joanna	joanna	noun
+joannas	joanna	noun:plural
+jove	jove	noun
+jewry	jewry	proper noun
+Judaism	Judaism	proper noun
+Jewish	Jewish	adjective
+joygasm	joygasm	noun
+joygasms	joygasm	noun:plural
+Jason	Jason	proper noun
+jean	jean	noun
+jean	jean	proper noun
+jokes	jokes	noun
+jokes	jokes	adjective
+Jessica	Jessica	proper noun
+jury	jury	noun
+jurisprudence	jurisprudence	noun
+Judah	Judah	noun
+jungle	jungle	noun
+jungles	jungle	noun:plural
+jibbeur	jibbeur	noun
+jeans	jeans	noun
+jerry	jerry	proper noun
+jerry	jerry	noun
+joan	joan	proper noun
+joan	joan	noun
+juno	juno	noun
+johnson	johnson	noun
+jackaroo	jackaroo	noun
+jackaroos	jackaroo	noun:plural
+jackaroo	jackaroo	verb:simple_present+
+jackarooes	jackaroo	verb:simple_present+
+jackarooed	jackaroo	verb:simple_past+
+jackarooed	jackaroo	verb:past_participle+
+jackarooing	jackaroo	verb:present_participle+
+jackarooing	jackaroo	verb:present_participle
+Jurassic	Jurassic	adjective
+Jurassic	Jurassic	proper noun
+judgment	judgment	noun
+judgments	judgment	noun:plural
+jun	jun	noun
+jawn	jawn	noun
+jawns	jawn	noun:plural
+jug	jug	noun
+jugs	jug	noun:plural
+jug	jug	verb:simple_present+transitive
+jugs	jug	verb:simple_present+transitive
+???	jug	verb:simple_past+transitive
+???	jug	verb:past_participle+transitive
+???	jug	verb:present_participle+transitive
+jugging	jug	verb:present_participle
+jealousy	jealousy	noun
+judgement	judgement	noun
+journal	journal	noun
+jettison	jettison	noun
+jettison	jettison	verb:simple_present+
+jettisons	jettison	verb:simple_present+
+jettisoned	jettison	verb:simple_past+
+jettisoned	jettison	verb:past_participle+
+???	jettison	verb:present_participle+
+joyful	joyful	adjective
+janissary	janissary	noun
+janissaries	janissary	noun:plural
+Jodhpur	Jodhpur	proper noun
+jerky	jerky	adjective
+jerky	jerky	noun
+jihad	jihad	noun
+jehad	jehad	noun
+junkie	junkie	noun
+junky	junky	noun
+jane	jane	proper noun
+jeopardy	jeopardy	noun
+jackpot	jackpot	noun
+jackpots	jackpot	noun:plural
+jpg	jpg	noun
+jazzy	jazzy	adjective
+jarrah	jarrah	noun
+juxtapose	juxtapose	verb:simple_present+
+juxtaposes	juxtapose	verb:simple_present+
+juxtaposed	juxtapose	verb:simple_past+
+juxtaposed	juxtapose	verb:past_participle+
+juxtaposing	juxtapose	verb:present_participle+
+jaggerbush	jaggerbush	noun
+jetski	jetski	noun
+Jeffrey	Jeffrey	proper noun
+judy	judy	proper noun
+judith	judith	proper noun
+jewellery	jewellery	noun
+journalist	journalist	noun
+jog	jog	noun
+jog	jog	verb:simple_present+
+jogs	jog	verb:simple_present+
+???	jog	verb:simple_past+
+???	jog	verb:past_participle+
+???	jog	verb:present_participle+
+Janet	Janet	proper noun
+jose	jose	proper noun
+judas	judas	noun
+jerrybuild	jerrybuild	verb:simple_present+
+jerrybuilds	jerrybuild	verb:simple_present+
+jerrybuilded	jerrybuild	verb:simple_past+
+jerrybuilded	jerrybuild	verb:past_participle+
+jerrybuilding	jerrybuild	verb:present_participle+
+jerryrig	jerryrig	verb:simple_present+
+jerryrigs	jerryrig	verb:simple_present+
+???	jerryrig	verb:simple_past+
+???	jerryrig	verb:past_participle+
+???	jerryrig	verb:present_participle+
+Jackson	Jackson	proper noun
+jarhead	jarhead	noun
+jarheads	jarhead	noun:plural
+jizz	jizz	noun
+jizz	jizz	verb:simple_present+
+jizzs	jizz	verb:simple_present+
+jizzed	jizz	verb:simple_past+
+jizzed	jizz	verb:past_participle+
+jizzing	jizz	verb:present_participle+
+jizz	jizz	verb:simple_present+intransitive
+jizzs	jizz	verb:simple_present+intransitive
+jizzed	jizz	verb:simple_past+intransitive
+jizzed	jizz	verb:past_participle+intransitive
+jizzing	jizz	verb:present_participle+intransitive
+jizz	jizz	verb:simple_present+transitive
+jizzs	jizz	verb:simple_present+transitive
+jizzed	jizz	verb:simple_past+transitive
+jizzed	jizz	verb:past_participle+transitive
+jizzing	jizz	verb:present_participle+transitive
+jurat	jurat	noun
+jocose	jocose	adjective
+jocose	jocose	adverbe
+jocose	jocose	noun
+jealous	jealous	adjective
+jaded	jaded	adjective
+joinery	joinery	noun
+joiner	joiner	noun
+journalism	journalism	noun
+junto	junto	noun
+juntos	junto	noun:plural
+jurisdiction	jurisdiction	noun
+jurisdictions	jurisdiction	noun:plural
+jobsworth	jobsworth	noun
+juvenilia	juvenilia	noun
+juniper	juniper	noun
+jostle	jostle	verb:simple_present+
+jostles	jostle	verb:simple_present+
+jostled	jostle	verb:simple_past+
+jostled	jostle	verb:past_participle+
+jostling	jostle	verb:present_participle+
+jostle	jostle	noun
+jorum	jorum	noun
+jitterbug	jitterbug	noun
+jitterbug	jitterbug	verb:simple_present+intransitive
+jitterbugs	jitterbug	verb:simple_present+intransitive
+???	jitterbug	verb:simple_past+intransitive
+???	jitterbug	verb:past_participle+intransitive
+???	jitterbug	verb:present_participle+intransitive
+jargonization	jargonization	noun
+jolt	jolt	verb:simple_present+
+jolts	jolt	verb:simple_present+
+jolted	jolt	verb:simple_past+
+jolted	jolt	verb:past_participle+
+jolting	jolt	verb:present_participle+
+jolt	jolt	noun
+Johnny	Johnny	proper noun
+Johnnies	Johnny	proper noun:plural
+jerkoff	jerkoff	noun
+jerkoff	jerkoff	verb:simple_present+intransitive
+jerkoffs	jerkoff	verb:simple_present+intransitive
+jerkoffed	jerkoff	verb:simple_past+intransitive
+jerkoffed	jerkoff	verb:past_participle+intransitive
+jerkoffing	jerkoff	verb:present_participle+intransitive
+jumper	jumper	noun
+jock	jock	noun
+jock	jock	noun
+Justin	Justin	proper noun
+Jaffa	Jaffa	proper noun
+Jaffa	Jaffa	noun
+jerome	jerome	proper noun
+Janus	Janus	proper noun
+juicy	juicy	adjective
+josh	josh	proper noun
+josh	josh	verb:simple_present+
+joshs	josh	verb:simple_present+
+joshed	josh	verb:simple_past+
+joshed	josh	verb:past_participle+
+joshing	josh	verb:present_participle+
+jameed	jameed	noun
+Juan	Juan	proper noun
+Jacques	Jacques	proper noun
+Japanophile	Japanophile	noun
+Joshua	Joshua	proper noun
+judges	judges	proper noun
+judges	judges	noun
+Joke-a-lot	Joke-a-lot	proper noun
+jedlo	jedlo	noun
+juror	juror	noun
+jaja	jaja	interjection
+Jesuit	Jesuit	noun
+Jesuits	Jesuit	noun:plural
+Jesuit	Jesuit	adjective
+Japanophilia	Japanophilia	noun
+jabberwocky	jabberwocky	noun
+jack-in-the-box	jack-in-the-box	noun
+juvenescence	juvenescence	noun
+Jedi	Jedi	proper noun
+Jackeen	Jackeen	proper noun
+junket	junket	noun
+Jeff	Jeff	proper noun
+jagged	jagged	adjective
+jagged	jagged	verb:simple_present+
+jaggeds	jagged	verb:simple_present+
+???	jagged	verb:simple_past+
+???	jagged	verb:past_participle+
+???	jagged	verb:present_participle+
+jobs	jobs	noun
+Jonathan	Jonathan	proper noun
+julius	julius	proper noun
+juxtaposed	juxtaposed	adjective
+juxtaposed	juxtaposed	verb:simple_present+
+juxtaposeds	juxtaposed	verb:simple_present+
+???	juxtaposed	verb:simple_past+
+???	juxtaposed	verb:past_participle+
+???	juxtaposed	verb:present_participle+
+jury-rig	jury-rig	verb:simple_present+transitive
+jury-rigs	jury-rig	verb:simple_present+transitive
+???	jury-rig	verb:simple_past+transitive
+???	jury-rig	verb:past_participle+transitive
+???	jury-rig	verb:present_participle+transitive
+jury-rigged	jury-rigged	adjective
+jubilate	jubilate	verb:simple_present+
+jubilates	jubilate	verb:simple_present+
+jubilated	jubilate	verb:simple_past+
+jubilated	jubilate	verb:past_participle+
+jubilating	jubilate	verb:present_participle+
+justify	justify	verb:simple_present+transitive
+justifies	justify	verb:simple_present+transitive
+justified	justify	verb:simple_past+transitive
+justified	justify	verb:past_participle+transitive
+justifying	justify	verb:present_participle+transitive
+justifying	justify	verb:present_participle
+jigaboo	jigaboo	noun
+jawbone	jawbone	noun
+jawbones	jawbone	noun:plural
+jumbo	jumbo	adjective
+jumbo	jumbo	noun
+jumbos	jumbo	noun:plural
+Japonism	Japonism	noun
+J	J	noun
+Jack	Jack	proper noun
+Jack	Jack	proper noun
+Jack	Jack	noun
+Jak	Jak	proper noun
+Javanese	Javanese	noun
+Jay	Jay	proper noun
+Jay	Jay	noun
+Jean	Jean	proper noun
+Jean	Jean	noun
+Jenny	Jenny	proper noun
+Joanna	Joanna	proper noun
+Job	Job	proper noun
+Job	Job	noun
+Jock	Jock	proper noun
+Jock	Jock	noun
+Joey	Joey	proper noun
+Joey	Joey	noun
+John	John	proper noun
+John	John	noun
+Johnson	Johnson	proper noun
+Josh	Josh	proper noun
+Josh	Josh	verb:simple_present+
+Joshs	Josh	verb:simple_present+
+Joshed	Josh	verb:simple_past+
+Joshed	Josh	verb:past_participle+
+Joshing	Josh	verb:present_participle+
+Joy	Joy	proper noun
+Jul.	Jul.	noun
+Jun.	Jun.	noun
+jess	jess	noun
+jesses	jess	noun:plural
+japan	japan	noun
+japan	japan	verb:simple_present+transitive
+japans	japan	verb:simple_present+transitive
+???	japan	verb:simple_past+transitive
+???	japan	verb:past_participle+transitive
+???	japan	verb:present_participle+transitive
+jumbuck	jumbuck	noun
+jumbucks	jumbuck	noun:plural
+jones	jones	noun
+joneses	jones	noun:plural
+jones	jones	verb:simple_present+intransitive
+joness	jones	verb:simple_present+intransitive
+jonesed	jones	verb:simple_past+intransitive
+jonesed	jones	verb:past_participle+intransitive
+jonesing	jones	verb:present_participle+intransitive
+jasper	jasper	noun
+jovial	jovial	adjective
+juggle	juggle	verb:simple_present+
+juggles	juggle	verb:simple_present+
+juggled	juggle	verb:simple_past+
+juggled	juggle	verb:past_participle+
+juggling	juggle	verb:present_participle+
+jiggle	jiggle	verb:simple_present+transitive
+jiggles	jiggle	verb:simple_present+transitive
+jiggled	jiggle	verb:simple_past+transitive
+jiggled	jiggle	verb:past_participle+transitive
+jiggling	jiggle	verb:present_participle+transitive
+jiggle	jiggle	verb:simple_present+intransitive
+jiggles	jiggle	verb:simple_present+intransitive
+jiggled	jiggle	verb:simple_past+intransitive
+jiggled	jiggle	verb:past_participle+intransitive
+jiggling	jiggle	verb:present_participle+intransitive
+jingoism	jingoism	noun
+johnny	johnny	noun
+journalese	journalese	noun
+Joyce	Joyce	proper noun
+jocular	jocular	adjective
+jingoistic	jingoistic	adjective
+jahiliya	jahiliya	noun
+Japanimation	Japanimation	noun
+just-in-time	just-in-time	adverbe
+just-in-time	just-in-time	adjective
+jetty	jetty	adjective
+jetty	jetty	noun
+jetties	jetty	noun:plural
+jetty	jetty	verb:simple_present+
+jetties	jetty	verb:simple_present+
+jettied	jetty	verb:simple_past+
+jettied	jetty	verb:past_participle+
+jettying	jetty	verb:present_participle+
+jinx	jinx	noun
+jinx	jinx	verb:simple_present+transitive
+jinxs	jinx	verb:simple_present+transitive
+jinxed	jinx	verb:simple_past+transitive
+jinxed	jinx	verb:past_participle+transitive
+jinxing	jinx	verb:present_participle+transitive
+Juliett	Juliett	proper noun
+Jovian	Jovian	proper noun
+jeet	jeet	interjection
+jumps	jumps	verb:simple_present+
+jumpss	jumps	verb:simple_present+
+jumpsed	jumps	verb:simple_past+
+jumpsed	jumps	verb:past_participle+
+jumpsing	jumps	verb:present_participle+
+jumping	jumping	verb:simple_present+
+jumpings	jumping	verb:simple_present+
+jumpinged	jumping	verb:simple_past+
+jumpinged	jumping	verb:past_participle+
+jumpinging	jumping	verb:present_participle+
+jumped	jumped	verb:simple_present+
+jumpeds	jumped	verb:simple_present+
+???	jumped	verb:simple_past+
+???	jumped	verb:past_participle+
+???	jumped	verb:present_participle+
+jeremiad	jeremiad	noun
+jejunum	jejunum	noun
+judder	judder	verb:simple_present+intransitive
+judders	judder	verb:simple_present+intransitive
+???	judder	verb:simple_past+intransitive
+???	judder	verb:past_participle+intransitive
+???	judder	verb:present_participle+intransitive
+judder	judder	noun
+justly	justly	adverbe
+judgmental	judgmental	adjective
+Jokulhaups	Jokulhaups	noun
+jp.	jp.	noun
+Joe.	Joe.	proper noun
+Joe.	Joe.	noun
+juxta	juxta	noun
+judged	judged	verb:simple_present+
+judgeds	judged	verb:simple_present+
+???	judged	verb:simple_past+
+???	judged	verb:past_participle+
+???	judged	verb:present_participle+
+joo	joo	interjection
+jee	jee	interjection
+jaa	jaa	interjection
+Japonija	Japonija	proper noun
+Jepun	Jepun	proper noun
+Jenga	Jenga	proper noun
+jacked	jacked	adjective
+juolgi	juolgi	noun
+jetliner	jetliner	noun
+jaywalk	jaywalk	verb:simple_present+
+jaywalks	jaywalk	verb:simple_present+
+jaywalked	jaywalk	verb:simple_past+
+jaywalked	jaywalk	verb:past_participle+
+jaywalking	jaywalk	verb:present_participle+
+judicial	judicial	adjective
+judicious	judicious	adjective
+junked	junked	verb:simple_present+
+junkeds	junked	verb:simple_present+
+???	junked	verb:simple_past+
+???	junked	verb:past_participle+
+???	junked	verb:present_participle+
+junkyard	junkyard	noun

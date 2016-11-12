@@ -1,0 +1,383 @@
+ruiner 
+--------------------------------------------------------------------------------
+ 
+anéantir 
+--------------------------------------------------------------------------------
+ 
+supprimer 
+--------------------------------------------------------------------------------
+ 
+abattre 
+--------------------------------------------------------------------------------
+ 
+briser 
+--------------------------------------------------------------------------------
+ 
+démolir 
+--------------------------------------------------------------------------------
+ 
+ronger 
+--------------------------------------------------------------------------------
+ 
+tuer 
+--------------------------------------------------------------------------------
+ 
+casser 
+--------------------------------------------------------------------------------
+ 
+affaiblir 
+--------------------------------------------------------------------------------
+abattre;affaiblir;atteindre;détruire;ébranler
+abattre;affaiblir;briser;détruire;ruiner;épuiser
+abattre;affaiblir;consumer;diminuer;détruire;miner;saper
+abattre;affaiblir;consumer;diminuer;détruire;miner;épuiser
+abattre;affaiblir;consumer;détruire;miner;ruiner;saper
+abattre;affaiblir;consumer;détruire;miner;ruiner;épuiser
+abattre;affaiblir;diminuer;détruire;émousser
+abattre;affaiblir;défaire;détruire;miner;saper
+abattre;affaiblir;détruire;miner;ruiner;saper;ébranler
+abattre;annihiler;anéantir;briser;broyer;détruire
+abattre;annihiler;anéantir;briser;détruire;foudroyer;ruiner
+abattre;annihiler;anéantir;briser;détruire;supprimer
+abattre;anéantir;briser;broyer;détruire;renverser;écraser
+abattre;anéantir;briser;démanteler;démolir;détruire;renverser;ruiner
+abattre;anéantir;briser;démanteler;démolir;détruire;supprimer
+abattre;anéantir;briser;démolir;détruire;ruiner;épuiser
+abattre;anéantir;briser;détruire;foudroyer;renverser;ruiner;écraser
+abattre;anéantir;consumer;détruire;ruiner;saper
+abattre;anéantir;consumer;détruire;ruiner;épuiser
+abattre;anéantir;démolir;détruire;liquider;supprimer;tuer
+abattre;anéantir;démolir;détruire;liquider;tuer;épuiser
+abattre;anéantir;démolir;détruire;renverser;ruiner;saper
+abattre;anéantir;démolir;détruire;ruiner;tuer;épuiser
+abattre;anéantir;détruire;faucher;foudroyer;renverser
+abattre;anéantir;détruire;faucher;foudroyer;tuer
+abattre;anéantir;détruire;foudroyer;ruiner;tuer;écraser
+abattre;anéantir;détruire;jeter à bas;renverser
+abattre;atteindre;bouleverser;détruire;ébranler
+abattre;bouleverser;briser;broyer;détruire;renverser
+abattre;bouleverser;briser;détruire;renverser;ruiner
+abattre;bouleverser;culbuter;défaire;détruire;renverser
+abattre;bouleverser;détruire;ruiner;ébranler
+abattre;briser;démanteler;démolir;détruire;mettre à bas;renverser
+abattre;briser;détruire;enfoncer;renverser;écraser
+abattre;briser;détruire;faire cesser;supprimer
+abattre;crouler;culbuter;détruire;renverser
+abattre;crouler;détruire;renverser;ruiner
+abattre;culbuter;défaire;démanteler;démolir;détruire;renverser
+abattre;culbuter;défaire;détruire;enfoncer;renverser
+abattre;culbuter;détruire;enfoncer;renverser;écraser
+abattre;décapiter;détruire;tuer
+abattre;défaire;démolir;détruire;renverser;saper
+abattre;démanteler;démolir;détruire;raser;ruiner
+abattre;démolir;détruire;massacrer;tuer
+abattre;démolir;détruire;ruiner;saper;ébranler
+abattre;déraciner;détruire
+abattre;désoler;détruire;ruiner
+abattre;détruire;faire cesser;supprimer;tuer
+abattre;détruire;faucher;massacrer;tuer
+abattre;détruire;miner;ruiner;tuer;épuiser
+abattre;détruire;supprimer;éliminer
+abolir;abroger;annuler;anéantir;détruire;faire disparaître;résilier;supprimer
+abolir;abroger;annuler;casser;détruire;infirmer;invalider;résilier
+abolir;abroger;annuler;casser;détruire;invalider;résilier;supprimer
+abolir;abroger;annuler;détruire;effacer;faire disparaître;résilier;supprimer
+abolir;annihiler;annuler;anéantir;détruire;supprimer
+abolir;annihiler;annuler;détruire;effacer;supprimer
+abolir;annihiler;anéantir;détruire;ruiner
+abolir;annuler;anéantir;détruire;liquider;supprimer;éteindre
+abolir;annuler;anéantir;détruire;rompre;résilier
+abolir;annuler;anéantir;détruire;résilier;supprimer;éteindre
+abolir;annuler;casser;détruire;rompre;résilier
+abolir;annuler;détruire;effacer;rayer;supprimer
+abolir;annuler;détruire;effacer;résilier;supprimer;éteindre
+abolir;anéantir;démanteler;démolir;détruire;ruiner
+abolir;anéantir;démanteler;démolir;détruire;supprimer
+abolir;anéantir;démolir;détruire;liquider;supprimer
+abolir;anéantir;détruire;rompre;ruiner
+abolir;casser;démanteler;démolir;détruire;supprimer
+abolir;détruire;faire cesser;résilier;supprimer
+abolir;détruire;infirmer;ruiner
+abroger;annuler;anéantir;dissoudre;détruire;résilier
+abroger;annuler;casser;dissoudre;détruire;invalider;résilier
+absorber;anéantir;consumer;dissiper;détruire;dévorer;engloutir;épuiser
+absorber;anéantir;dissiper;détruire;engloutir;faire disparaître
+absorber;anéantir;dissiper;détruire;faire disparaître;supprimer
+absorber;anéantir;dissoudre;détruire
+absorber;anéantir;détruire;liquider;supprimer
+absorber;anéantir;détruire;liquider;épuiser
+absorber;consommer;consumer;détruire;user;épuiser
+absorber;consumer;détruire;dévorer;user;épuiser
+abîmer;accidenter;bousiller;démolir;détruire
+abîmer;accidenter;casser;démolir;détruire
+abîmer;altérer;corrompre;dégrader;détruire;gâter;pourrir
+abîmer;altérer;dégrader;détruire;gâter;ruiner
+abîmer;anéantir;démanteler;démolir;détruire;ruiner
+abîmer;anéantir;détruire;engloutir;ruiner
+abîmer;bousiller;démanteler;démolir;détruire;ruiner
+abîmer;bousiller;démolir;détruire;massacrer
+abîmer;bousiller;détruire;fusiller
+abîmer;bousiller;détruire;massacrer;saccager
+abîmer;bousiller;détruire;ruiner;saccager
+abîmer;casser;dégrader;démolir;détruire
+abîmer;casser;démanteler;démolir;détruire
+abîmer;dégrader;démolir;détruire;ruiner
+abîmer;dégrader;déprécier;détruire
+abîmer;dégrader;détruire;gâter;ruiner;saccager
+abîmer;détruire;engloutir;ensevelir
+abîmer;détruire;gâter;massacrer;saccager
+abîmer;détruire;gâter;ruiner;user
+accidenter;détruire;troubler
+affaiblir;altérer;atteindre;détruire;ébranler
+affaiblir;altérer;corrompre;détruire
+affaiblir;altérer;diminuer;détruire
+affaiblir;altérer;défaire;détruire
+affaiblir;altérer;détruire;ruiner;ébranler
+affaiblir;atrophier;diminuer;détruire;éteindre;étouffer
+affaiblir;atrophier;détruire;étioler;étouffer
+affaiblir;briser;casser;détruire;infirmer
+affaiblir;briser;détruire;infirmer;ruiner
+affaiblir;briser;détruire;étouffer
+affaiblir;casser;défaire;détruire;infirmer
+affaiblir;consumer;diminuer;détruire;miner;user;épuiser
+affaiblir;consumer;diminuer;détruire;éteindre
+affaiblir;consumer;détruire;miner;ruiner;user;épuiser
+affaiblir;diminuer;détruire;infirmer
+affaiblir;diminuer;détruire;user;émousser
+affaiblir;diminuer;détruire;émousser;éteindre
+affaiblir;détruire;dévaster;miner;ruiner;saper
+affaiblir;détruire;effacer;éteindre
+affaiblir;détruire;nuire;ruiner
+affaiblir;détruire;ruiner;étioler
+altérer;attaquer;atteindre;détruire;ébranler
+altérer;attaquer;corrompre;détruire
+altérer;attaquer;détruire;entamer;ronger
+altérer;attaquer;détruire;entamer;ébranler
+altérer;atteindre;bouleverser;détruire;troubler;ébranler
+altérer;bouleverser;défaire;détruire
+altérer;bouleverser;détruire;ruiner;ébranler
+altérer;corrompre;décomposer;détruire;gâter;pourrir
+altérer;corrompre;décomposer;détruire;gâter;troubler
+altérer;dessécher;détruire
+altérer;diminuer;dégrader;détruire;gâter
+altérer;diminuer;dégrader;détruire;ronger
+altérer;diminuer;détruire;entamer;ronger
+altérer;décomposer;défaire;détruire
+altérer;dégrader;détruire;pourrir;ronger
+altérer;dégrader;détruire;ronger;ruiner
+altérer;détruire;entamer;ronger;ruiner
+altérer;détruire;entamer;ruiner;ébranler
+annihiler;annuler;anéantir;dissoudre;détruire
+annihiler;anéantir;briser;dissoudre;détruire;ruiner
+annihiler;anéantir;détruire;dévorer;ruiner
+annuler;anéantir;dissoudre;détruire;rompre;résilier
+annuler;biffer;détruire;effacer;rayer;supprimer
+annuler;casser;dissoudre;détruire;rompre;résilier
+anéantir;briser;broyer;détruire;pulvériser;réduire en poudre;écraser
+anéantir;briser;broyer;détruire;rompre
+anéantir;briser;dissoudre;détruire;rompre;ruiner
+anéantir;briser;détruire;foudroyer;pulvériser;écraser
+anéantir;briser;détruire;supprimer;étouffer
+anéantir;briser;détruire;écraser;étouffer
+anéantir;causer la ruine;détruire;foudroyer;ruiner
+anéantir;consumer;dissiper;détruire;dévorer;engloutir;ruiner;épuiser
+anéantir;consumer;détruire;dévorer;ravager;ruiner
+anéantir;consumer;détruire;éteindre
+anéantir;décimer;détruire;exterminer;faucher;tuer
+anéantir;démolir;détruire;ruiner;réfuter
+anéantir;désintégrer;détruire;ruiner;saper
+anéantir;détruire;emporter;enlever;supprimer
+anéantir;détruire;emporter;exterminer;supprimer;tuer
+anéantir;détruire;emporter;rompre
+anéantir;détruire;engloutir;enterrer
+anéantir;détruire;enlever;extirper;supprimer
+anéantir;détruire;enlever;faire disparaître;supprimer
+anéantir;détruire;enlever;faucher
+anéantir;détruire;enterrer;étouffer
+anéantir;détruire;exterminer;extirper;supprimer
+anéantir;détruire;exterminer;liquider;supprimer;tuer
+anéantir;détruire;exterminer;liquider;supprimer;éteindre
+anéantir;détruire;faire disparaître;supprimer;tuer
+anéantir;détruire;pulvériser;réduire en cendres
+anéantir;détruire;supprimer;tuer;étouffer
+anéantir;détruire;supprimer;éteindre;étouffer
+anéantir;détruire;tuer;écraser;étouffer
+atomiser;désintégrer;détruire
+atomiser;détruire;pulvériser
+atrophier;diminuer;dégrader;détruire
+attaquer;battre en brèche;détruire;ébranler
+attaquer;bombarder;canonner;détruire
+attaquer;corroder;corrompre;détruire
+attaquer;corroder;détruire;entamer;mordre;ronger
+attaquer;corroder;détruire;miner;mordre;ronger
+attaquer;discréditer;déprécier;détruire
+attaquer;discréditer;détruire;nuire
+attaquer;détruire;miner;ébranler
+battre en brèche;détruire;infirmer;ruiner
+battre en brèche;détruire;ruiner;ébranler
+biffer;détruire;effacer;enlever;supprimer;ôter
+biffer;détruire;effacer;radier;rayer;supprimer;ôter
+biffer;détruire;enlever;retrancher;supprimer;ôter
+biffer;détruire;radier;rayer;retrancher;supprimer;ôter
+bombarder;détruire;foudroyer;écraser
+bombarder;détruire;jeter
+bouleverser;briser;broyer;casser;détruire
+bouleverser;casser;défaire;détruire
+bouleverser;désorganiser;détruire;troubler
+bouleverser;détruire;faire sauter;renverser
+bouleverser;détruire;ravager;ruiner;saccager
+bouleverser;détruire;renverser;ruiner;saccager
+bouleverser;détruire;renverser;troubler
+bousiller;démolir;détruire;massacrer;tuer
+bousiller;démolir;détruire;ruiner;tuer
+bousiller;détruire;fusiller;tuer
+bousiller;détruire;pulvériser;écraser
+bousiller;détruire;ruiner;tuer;écraser
+briser;broyer;casser;détruire;rompre
+briser;broyer;casser;détruire;écraser
+briser;broyer;détruire;pulvériser;réduire en poudre;triturer;écraser
+briser;casser;disloquer;démanteler;démolir;détruire
+briser;casser;disloquer;détruire;rompre
+briser;casser;dissoudre;détruire;rompre
+briser;casser;dégrader;démolir;détruire
+briser;casser;démanteler;démolir;détruire;supprimer
+briser;casser;détruire;effondrer;rompre
+briser;casser;détruire;fracasser;rompre
+briser;dissoudre;détruire;faire cesser
+briser;défoncer;dégrader;détruire
+briser;défoncer;détruire;effondrer
+briser;défoncer;détruire;enfoncer
+briser;dégrader;démolir;détruire;ruiner
+briser;détruire;enfoncer;pulvériser;écraser
+briser;détruire;enfoncer;rompre
+briser;détruire;faire cesser;supprimer;étouffer
+briser;détruire;fracasser;hacher
+briser;détruire;fracasser;pulvériser
+briser;détruire;infirmer;pulvériser
+briser;détruire;mettre en pièces;rompre
+broyer;détruire;mordre;triturer
+brûler;consommer;consumer;détruire
+brûler;consumer;corroder;détruire;miner;ronger
+brûler;consumer;dessécher;détruire;dévorer
+brûler;consumer;détruire;dévorer;embraser;ravager
+brûler;consumer;détruire;dévorer;miner;ravager;ronger
+brûler;consumer;détruire;embraser;incendier
+brûler;discréditer;détruire
+brûler;détruire;réduire en cendres
+casser;disloquer;désagréger;détruire
+casser;dissoudre;défaire;détruire;rompre
+casser;dissoudre;désagréger;détruire
+casser;défaire;démanteler;démolir;détruire
+casser;démolir;dépecer;détruire
+casser;démolir;détruire;supprimer;tuer
+casser;désagréger;détruire;supprimer
+casser;détruire;entamer
+casser;détruire;tuer;écraser
+causer la ruine;détruire;perdre;ruiner
+chasser;dissiper;détruire;faire cesser
+chasser;dissiper;détruire;faire disparaître;éliminer
+chasser;dissiper;détruire;repousser;éliminer
+chasser;détruire;extirper;ôter
+chasser;détruire;faire cesser;ôter
+chasser;détruire;faire disparaître;ôter
+consumer;corroder;détruire;miner;ronger;saper
+consumer;corroder;détruire;miner;ronger;user
+consumer;dessécher;détruire;dévorer;épuiser
+consumer;diminuer;détruire;miner;ronger;saper
+consumer;diminuer;détruire;miner;ronger;user;épuiser
+consumer;détruire;dévorer;miner;ravager;ronger;ruiner
+consumer;détruire;dévorer;miner;ronger;ruiner;user;épuiser
+consumer;détruire;miner;ronger;ruiner;saper
+corroder;désagréger;détruire;miner;ronger;saper
+corroder;détruire;entamer;mordre;ronger;user
+corroder;détruire;miner;mordre;ronger;saper
+corroder;détruire;miner;mordre;ronger;user
+corrompre;décomposer;désorganiser;détruire;troubler
+corrompre;dégrader;détruire;gâter;perdre;pourrir
+culbuter;défaire;détruire;enfoncer;rompre
+culbuter;défoncer;détruire;enfoncer
+culbuter;détruire;enfoncer;entamer
+culbuter;détruire;repousser
+dilapider;dissiper;détruire;dévorer;engloutir;épuiser
+dilapider;dissiper;détruire;perdre
+diminuer;discréditer;dégrader;déprécier;détruire;perdre
+diminuer;dégrader;détruire;gâter;perdre
+diminuer;dégrader;détruire;ronger;saper
+diminuer;détruire;enlever;retrancher;ôter
+diminuer;détruire;entamer;ronger;user
+diminuer;détruire;gâter;user
+diminuer;détruire;perdre;étouffer
+discréditer;décréditer;déprécier;détruire
+discréditer;dégrader;démolir;détruire;perdre
+discréditer;détruire;nuire;perdre
+dissiper;détruire;faire cesser;supprimer
+dissiper;détruire;faire disparaître;supprimer;éliminer
+dissiper;détruire;perdre;ruiner
+dissoudre;décomposer;défaire;détruire
+dissoudre;décomposer;désagréger;détruire
+dissoudre;désagréger;détruire;ronger
+dissoudre;détruire;faire cesser;résilier
+dissoudre;détruire;mordre;ronger
+dissoudre;détruire;ronger;ruiner
+décapiter;découronner;détruire
+décapiter;détruire;exterminer;tuer
+décevoir;désillusionner;désoler;détruire
+décimer;détruire;exterminer;faucher;massacrer;tuer
+décimer;détruire;faucher;moissonner;tuer
+décomposer;dépecer;détruire
+décomposer;désagréger;désintégrer;désorganiser;détruire
+décomposer;désagréger;détruire;pourrir
+défaire;détruire;enlever;ôter
+dégrader;démolir;détruire;perdre;ruiner
+dégrader;démolir;détruire;ruiner;saper
+dégrader;détruire;gâter;perdre;ruiner
+dégrader;détruire;gâter;ravager;ruiner;saccager
+dégrader;détruire;ravager;ronger;ruiner
+dégrader;détruire;ronger;ruiner;saper
+démanteler;désorganiser;détruire
+démolir;détruire;dévaster;raser;ruiner
+démolir;détruire;dévaster;ruiner;saper
+démolir;détruire;mordre;saper
+déraciner;détruire;enlever;extirper
+déraciner;détruire;exterminer;extirper
+désagréger;désintégrer;détruire;miner;saper
+désagréger;détruire;pourrir;ronger
+désagréger;détruire;pulvériser
+désintégrer;détruire;miner;ruiner;saper
+désoler;détruire;dévaster;ravager;ruiner;saccager
+détruire;dévaster;emporter
+détruire;dévaster;miner;ravager;ronger;ruiner
+détruire;dévaster;miner;ronger;ruiner;saper
+détruire;dévorer;grignoter;ronger
+détruire;dévorer;ravager;ruiner;saccager
+détruire;effacer;enlever;faire disparaître;supprimer;éliminer
+détruire;effacer;enlever;faire disparaître;supprimer;ôter
+détruire;effacer;enlever;faire passer
+détruire;effacer;faire disparaître;radier;supprimer;ôter
+détruire;effacer;rayer;supprimer;éliminer
+détruire;enfoncer;engloutir;enterrer
+détruire;engloutir;ensevelir;enterrer
+détruire;enlever;extirper;supprimer;ôter
+détruire;enlever;faire cesser;supprimer;ôter
+détruire;enlever;retrancher;supprimer;éliminer
+détruire;entamer;grignoter;ronger
+détruire;entamer;rayer
+détruire;entamer;ronger;ruiner;user
+détruire;faire cesser;supprimer;tuer;étouffer
+détruire;faire sauter;tuer
+détruire;faucher;hacher
+détruire;foudroyer;fusiller;tuer
+détruire;hacher;ravager
+détruire;infirmer;ruiner;réfuter
+détruire;jeter;liquider
+détruire;jeter;repousser
+détruire;juguler;tuer;étouffer;étrangler
+détruire;miner;ruiner;tuer;user;épuiser
+détruire;moissonner;saper
+détruire;nuire;perdre;ruiner
+détruire;rayer;retrancher;supprimer;éliminer
+détruire;repousser;réfuter
+détruire;rompre;troubler
+détruire;ruiner;tuer;étrangler
+détruire;supprimer;tuer;étouffer;étrangler
+ 

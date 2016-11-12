@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<openbexiCreative>
+    <classe name="ob_explorer">
+        <object name="file">
+            <attribute filename="ob_file_viewer.js" name="filename"/>
+            <attribute name="specification_en" specification_en="File viewer."/>
+            <attribute name="specification_fr"
+                       specification_fr="File viewer."/>
+            <attribute name="type" type="javascripts"/>
+            <attribute name="icon" icon="ob_file_viewer.png"/>
+            <attribute name="parameterCount" parameterCount="8"/>
+
+            <attribute name="parameterName_0" parameterName_0="widget_id"/>
+            <attribute name="parameterType_0" parameterType_0="string"/>
+
+            <attribute name="parameterName_1" parameterName_1="Directory"/>
+            <attribute name="parameterType_1" parameterType_1="string"/>
+
+            <attribute name="parameterName_2" parameterName_2="Filter"/>
+            <attribute name="parameterType_2" parameterType_2="string"/>
+
+            <attribute name="parameterName_3" parameterName_3="css"/>
+            <attribute name="parameterType_3" parameterType_3="string"/>
+
+            <attribute name="parameterName_4" parameterName_4="css_text"/>
+            <attribute name="parameterType_4" parameterType_4="string"/>
+            <attribute name="parameterDefault_4" parameterDefault_4=""/>
+
+            <attribute name="parameterName_5" parameterName_5="TextRegexSelection"/>
+            <attribute name="parameterType_5" parameterType_5="string"/>
+            <attribute name="parameterDefault_5" parameterDefault_5=""/>
+
+            <attribute name="parameterName_6" parameterName_6="TextLightingSelection"/>
+            <attribute name="parameterType_6" parameterType_6="string"/>
+            <attribute name="parameterDefault_6" parameterDefault_6="true"/>
+
+            <attribute name="parameterName_7" parameterName_7="TextSelectionColor"/>
+            <attribute name="parameterType_7" parameterType_7="string"/>
+            <attribute name="parameterDefault_7" parameterDefault_7="red"/>
+
+            <attribute name="event" event="none"/>
+            <attribute name="return" return="none"/>
+        </object>
+    </classe>
+</openbexiCreative>

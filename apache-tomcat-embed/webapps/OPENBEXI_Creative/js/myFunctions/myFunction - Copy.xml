@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<openbexiCreative>
+    <classe name="ob_explorer">
+        <object name="file">
+            <attribute filename="myFunction.js" name="filename"/>
+            <attribute name="type" type="javascripts"/>
+            <attribute name="specification_en" specification_en="Dialogue box that pops up a message"/>
+            <attribute name="specification_fr" specification_fr="boite de dialogue qui affiche un message"/>
+            <attribute icon="alert.jpg" name="icon"/>
+            <attribute event="" name="event"/>
+            <attribute name="return" return=""/>
+            <attribute list="" name="list"/>
+            <attribute name="parameterCount" parameterCount="2"/>
+            <attribute name="parameterName_0" parameterName_0="widget_id"/>
+            <attribute name="parameterSpecification_0_en" parameterSpecification_0_en=""/>
+            <attribute name="parameterSpecification_0_fr" parameterSpecification_0_fr=""/>
+            <attribute name="parameterType_0" parameterType_0="string"/>
+            <attribute name="parameterName_1" parameterName_1="message"/>
+            <attribute name="parameterType_1" parameterType_1="string"/>
+            <attribute name="parameterSpecification_1_en" parameterSpecification_1_en="Please, enter the alert message"/>
+            <attribute name="parameterSpecification_1_fr" parameterSpecification_1_fr=""/>
+        </object>
+    </classe>
+</openbexiCreative>

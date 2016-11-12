@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<openbexiCreative>
+    <classe name="request">
+        <object name="ob_request">
+            <attribute name="subtype" subtype="local"/>
+        </object>
+    </classe>
+    <classe name="ob_explorer">
+        <object name="dir">
+            <attribute name="type" type="none"/>
+            <attribute name="path" path="images"/>
+            <attribute filter="none" name="filter"/>
+            <attribute filename="images" name="filename"/>
+            <attribute name="parent" parent="/"/>
+        </object>
+        <object name="dirUp">
+            <attribute name="path" path="none"/>
+        </object>
+        <object name="file_0">
+            <attribute filename="black.gif" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_1">
+            <attribute filename="bug.jpg" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_2">
+            <attribute filename="contact_us.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_3">
+            <attribute filename="de.gif" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_4">
+            <attribute filename="dot.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_5">
+            <attribute filename="download.jpg" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_6">
+            <attribute filename="en.gif" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_7">
+            <attribute filename="en_us.gif" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_8">
+            <attribute filename="es.gif" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_9">
+            <attribute filename="faqs.jpg" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_10">
+            <attribute filename="fisheye.jpg" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_11">
+            <attribute filename="forum.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_12">
+            <attribute filename="fr.gif" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_13">
+            <attribute filename="frame_shadow.jpg" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_14">
+            <attribute filename="icon_browser.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_15">
+            <attribute filename="icon_calendar.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_16">
+            <attribute filename="icon_email.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_17">
+            <attribute filename="icon_texteditor.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_18">
+            <attribute filename="icon_update.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_19">
+            <attribute filename="icon_users.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_20">
+            <attribute filename="images.jpg" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_21">
+            <attribute filename="link.jpg" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_22">
+            <attribute filename="links.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_23">
+            <attribute filename="links_1.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_24">
+            <attribute filename="openBexi_art3.jpg" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_25">
+            <attribute filename="openbexi_creative.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_26">
+            <attribute filename="quick_start.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_27">
+            <attribute filename="release.png" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_28">
+            <attribute filename="screenshot.jpg" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_29">
+            <attribute filename="smlogo.jpg" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="file_30">
+            <attribute filename="Thumbs.db" name="filename"/>
+            <attribute name="type" type="thumbs"/>
+        </object>
+        <object name="file_31">
+            <attribute filename="tutorial.jpg" name="filename"/>
+            <attribute name="type" type="img"/>
+        </object>
+        <object name="pager">
+            <attribute name="number" number="0"/>
+            <attribute maxNumber="0" name="maxNumber"/>
+        </object>
+        <object name="file">
+            <attribute filter="none" name="filter"/>
+            <attribute name="objectCount" objectCount="32"/>
+            <attribute name="objectMaxCount" objectMaxCount="32"/>
+        </object>
+        <object name="status">
+            <attribute name="text" text="done"/>
+        </object>
+        <object name="list">
+            <attribute name="nextPreviousStatus" nextPreviousStatus="none"/>
+            <attribute maxItems="50" name="maxItems"/>
+            <attribute name="posCurrentItem" posCurrentItem="0"/>
+            <attribute name="nextFlag" nextFlag="null"/>
+            <attribute name="previousFlag" previousFlag="null"/>
+        </object>
+    </classe>
+</openbexiCreative>

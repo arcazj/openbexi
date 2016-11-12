@@ -1,0 +1,400 @@
+year	year	noun
+years	year	noun:plural
+yo-ho-ho	yo-ho-ho	interjection
+Yugoslavia	Yugoslavia	proper noun
+yesterday	yesterday	noun
+yesterday	yesterday	adverbe
+Yemen	Yemen	proper noun
+yes	yes	adverbe
+yes	yes	interjection
+yes	yes	noun
+yeses	yes	noun:plural
+yes	yes	verb:simple_present+transitive
+yess	yes	verb:simple_present+transitive
+yesed	yes	verb:simple_past+transitive
+yesed	yes	verb:past_participle+transitive
+yesing	yes	verb:present_participle+transitive
+yes	yes	adverbe
+yeti	yeti	noun
+yetis	yeti	noun:plural
+yowie	yowie	noun
+Yiddish	Yiddish	noun
+Yiddish	Yiddish	adjective
+yeevil	yeevil	noun
+yeevil	yeevil	proper noun
+yellow	yellow	noun
+yellow	yellow	adjective
+younger	younger	adjective
+young	young	adjective
+young	young	noun
+you	you	nominative pronoun
+you	you	accusative pronoun
+you	you	personal pronoun
+you	you	personal pronoun:plural second person
+you	you	personal pronoun:singular second person
+yet	yet	adverbe
+yet	yet	conjonction
+yak	yak	noun
+yak	yak	verb:simple_present+
+yaks	yak	verb:simple_present+
+yaked	yak	verb:simple_past+
+yaked	yak	verb:past_participle+
+yaking	yak	verb:present_participle+
+yakking	yak	verb:present_participle
+yak	yak	noun
+yacht	yacht	noun
+yacht	yacht	verb:simple_present+intransitive
+yachts	yacht	verb:simple_present+intransitive
+yachted	yacht	verb:simple_past+intransitive
+yachted	yacht	verb:past_participle+intransitive
+yachting	yacht	verb:present_participle+intransitive
+yeast	yeast	noun
+yeasts	yeast	noun:plural
+yegg	yegg	noun
+yeah	yeah	adverbe
+yeah	yeah	interjection
+Yahweh	Yahweh	proper noun
+YHVH	YHVH	proper noun
+Yellowknife	Yellowknife	proper noun
+ye	ye	preposition
+yon	yon	adjective
+yon	yon	adverbe
+yonder	yonder	adverbe
+yonder	yonder	adjective
+yous	yous	accusative pronoun
+yous	yous	personal pronoun
+yous	yous	personal pronoun:plural second person
+yttrium	yttrium	noun
+ytterbium	ytterbium	noun
+yearly	yearly	adjective
+yearly	yearly	adverbe
+yearly	yearly	noun
+york	york	proper noun
+york	york	verb:simple_present+intransitive
+yorks	york	verb:simple_present+intransitive
+yorked	york	verb:simple_past+intransitive
+yorked	york	verb:past_participle+intransitive
+yorking	york	verb:present_participle+intransitive
+yellowish	yellowish	adjective
+Yoshi	Yoshi	proper noun
+yemeni	yemeni	noun
+yemeni	yemeni	adjective
+yambol	yambol	proper noun
+yore	yore	noun
+yaw	yaw	verb:simple_present+
+yaws	yaw	verb:simple_present+
+yawed	yaw	verb:simple_past+
+yawed	yaw	verb:past_participle+
+yawing	yaw	verb:present_participle+
+yawing	yaw	verb:present_participle
+yaw	yaw	noun
+yawn	yawn	verb:simple_present+
+yawns	yawn	verb:simple_present+
+yawned	yawn	verb:simple_past+
+yawned	yawn	verb:past_participle+
+yawning	yawn	verb:present_participle+
+yawn	yawn	noun
+yawns	yawn	noun:plural
+yam	yam	noun
+yams	yam	noun:plural
+yangon	yangon	proper noun
+yogh	yogh	noun
+ymne	ymne	noun
+ymnes	ymne	noun:plural
+ymne	ymne	noun
+ymnes	ymne	noun:plural
+yucatan	yucatan	proper noun
+yeh	yeh	interjection
+yin	yin	noun
+yang	yang	noun
+yin-yang	yin-yang	noun
+yard	yard	noun
+yards	yard	noun:plural
+yard	yard	noun
+yards	yard	noun:plural
+yottagram	yottagram	noun
+yoctogram	yoctogram	noun
+you-know-who	you-know-who	proper noun
+yottasecond	yottasecond	noun
+yoctosecond	yoctosecond	noun
+Yankee	Yankee	noun
+yakuza	yakuza	noun
+yuck	yuck	interjection
+yuck	yuck	noun
+yum	yum	interjection
+yummy	yummy	adjective
+yonk	yonk	noun
+yonks	yonk	noun:plural
+yay	yay	interjection
+Yale	Yale	proper noun
+yokel	yokel	noun
+yob	yob	noun
+yobs	yob	noun:plural
+yill	yill	noun
+yamato	yamato	proper noun
+y-axis	y-axis	noun
+yode	yode	verb:simple_present+
+yodes	yode	verb:simple_present+
+yoded	yode	verb:simple_past+
+yoded	yode	verb:past_participle+
+yoding	yode	verb:present_participle+
+yew	yew	noun
+yews	yew	noun:plural
+yew	yew	adjective
+yappy	yappy	adjective
+yap	yap	noun
+yaps	yap	noun:plural
+yap	yap	verb:simple_present+intransitive
+yaps	yap	verb:simple_present+intransitive
+yaped	yap	verb:simple_past+intransitive
+yaped	yap	verb:past_participle+intransitive
+yaping	yap	verb:present_participle+intransitive
+yugoslavian	yugoslavian	adjective
+yugoslavian	yugoslavian	noun
+yo	yo	interjection
+yo	yo	proper noun
+yoink	yoink	interjection
+year-to-date	year-to-date	adjective
+yell	yell	verb:simple_present+
+yells	yell	verb:simple_present+
+yelled	yell	verb:simple_past+
+yelled	yell	verb:past_participle+
+yelling	yell	verb:present_participle+
+yelling	yell	verb:present_participle
+youch	youch	interjection
+yowch	yowch	interjection
+yelm	yelm	noun
+yelms	yelm	noun:plural
+yelm	yelm	verb:simple_present+
+yelms	yelm	verb:simple_present+
+yelmed	yelm	verb:simple_past+
+yelmed	yelm	verb:past_participle+
+yelming	yelm	verb:present_participle+
+yelming	yelm	verb:present_participle
+yardang	yardang	noun
+yea	yea	adverbe
+yea	yea	interjection
+yarder	yarder	noun
+yinka	yinka	noun
+yalany	yalany	noun
+yabby	yabby	noun
+yabby	yabby	verb:simple_present+
+yabbies	yabby	verb:simple_present+
+yabbied	yabby	verb:simple_past+
+yabbied	yabby	verb:past_participle+
+yabbying	yabby	verb:present_participle+
+yen	yen	noun
+yen	yen	noun
+yens	yen	noun:plural
+yen	yen	verb:simple_present+intransitive
+yens	yen	verb:simple_present+intransitive
+yened	yen	verb:simple_past+intransitive
+yened	yen	verb:past_participle+intransitive
+yening	yen	verb:present_participle+intransitive
+yarraaman	yarraaman	noun
+yurrandaali	yurrandaali	noun
+yabaa	yabaa	noun
+yakka	yakka	noun
+yakka	yakka	verb:simple_present+
+yakkas	yakka	verb:simple_present+
+yakkad	yakka	verb:simple_past+
+yakkad	yakka	verb:past_participle+
+yakking	yakka	verb:present_participle+
+yurt	yurt	noun
+yoghurt	yoghurt	noun
+yahudi	yahudi	noun
+yammer	yammer	verb:simple_present+intransitive
+yammers	yammer	verb:simple_present+intransitive
+???	yammer	verb:simple_past+intransitive
+???	yammer	verb:past_participle+intransitive
+yammering	yammer	verb:present_participle+intransitive
+yammer	yammer	verb:simple_present+transitive
+yammers	yammer	verb:simple_present+transitive
+???	yammer	verb:simple_past+transitive
+???	yammer	verb:past_participle+transitive
+yammering	yammer	verb:present_participle+transitive
+yammer	yammer	noun
+yawl	yawl	noun
+yawl	yawl	verb:simple_present+
+yawls	yawl	verb:simple_present+
+yawled	yawl	verb:simple_past+
+yawled	yawl	verb:past_participle+
+yawling	yawl	verb:present_participle+
+yaws	yaws	noun
+yip	yip	noun
+yoke	yoke	noun
+yond	yond	adjective
+yucca	yucca	noun
+yoof	yoof	noun
+yoofs	yoof	noun:plural
+youth	youth	noun
+youths	youth	noun:plural
+yule	yule	noun
+yep	yep	adverbe
+yep	yep	noun
+yeps	yep	noun:plural
+ypocras	ypocras	proper noun
+ypocras	ypocras	noun
+youse	youse	nominative pronoun
+youse	youse	accusative pronoun
+youse	youse	personal pronoun
+youse	youse	personal pronoun:plural second person
+yodh	yodh	noun
+yat	yat	noun
+yimmichi	yimmichi	verb:simple_present+
+yimmichis	yimmichi	verb:simple_present+
+yimmichied	yimmichi	verb:simple_past+
+yimmichied	yimmichi	verb:past_participle+
+yimmichiing	yimmichi	verb:present_participle+
+Yoda	Yoda	proper noun
+Yorkshire	Yorkshire	proper noun
+yarn	yarn	noun
+yarns	yarn	noun:plural
+yank	yank	noun
+yanks	yank	noun:plural
+yank	yank	verb:simple_present+transitive
+yanks	yank	verb:simple_present+transitive
+yanked	yank	verb:simple_past+transitive
+yanked	yank	verb:past_participle+transitive
+yanking	yank	verb:present_participle+transitive
+yanking	yank	verb:present_participle
+ysgol	ysgol	noun
+yield	yield	verb:simple_present+
+yields	yield	verb:simple_present+
+yielded	yield	verb:simple_past+
+yielded	yield	verb:past_participle+
+yielding	yield	verb:present_participle+
+yield	yield	noun
+years	years	noun
+yoga	yoga	noun
+yoni	yoni	noun
+you-uns	you-uns	nominative pronoun
+you-uns	you-uns	accusative pronoun
+you-uns	you-uns	personal pronoun
+you-uns	you-uns	personal pronoun:plural second person
+youthful	youthful	adjective
+yammery	yammery	adjective
+yago	yago	adjective
+yago	yago	proper noun
+yelp	yelp	noun
+yelp	yelp	verb:simple_present+
+yelps	yelp	verb:simple_present+
+yelped	yelp	verb:simple_past+
+yelped	yelp	verb:past_participle+
+yelping	yelp	verb:present_participle+
+yiff	yiff	interjection
+yiff	yiff	verb:simple_present+
+yiffs	yiff	verb:simple_present+
+yiffed	yiff	verb:simple_past+
+yiffed	yiff	verb:past_participle+
+yiffing	yiff	verb:present_participle+
+yiffing	yiff	verb:present_participle
+yiff	yiff	noun
+yiff	yiff	adjective
+yiffer	yiffer	noun
+yiffer	yiffer	adjective
+yiffest	yiffest	adjective
+yiffable	yiffable	adjective
+yiffy	yiffy	adjective
+yiffing	yiffing	verb:simple_present+
+yiffings	yiffing	verb:simple_present+
+yiffinged	yiffing	verb:simple_past+
+yiffinged	yiffing	verb:past_participle+
+yiffinging	yiffing	verb:present_participle+
+yiffed	yiffed	verb:simple_present+
+yiffeds	yiffed	verb:simple_present+
+???	yiffed	verb:simple_past+
+???	yiffed	verb:past_participle+
+???	yiffed	verb:present_participle+
+yiffs	yiffs	verb:simple_present+
+yiffss	yiffs	verb:simple_present+
+yiffsed	yiffs	verb:simple_past+
+yiffsed	yiffs	verb:past_participle+
+yiffsing	yiffs	verb:present_participle+
+yiffs	yiffs	noun
+yachtsman	yachtsman	noun
+yachtswoman	yachtswoman	noun
+yackety-yak	yackety-yak	noun
+yackety-yak	yackety-yak	verb:simple_present+intransitive
+yackety-yaks	yackety-yak	verb:simple_present+intransitive
+yackety-yaked	yackety-yak	verb:simple_past+intransitive
+yackety-yaked	yackety-yak	verb:past_participle+intransitive
+yackety-yaking	yackety-yak	verb:present_participle+intransitive
+yah	yah	noun
+yardarm	yardarm	noun
+yawning	yawning	verbal noun
+yawning	yawning	adjective
+yearbook	yearbook	noun
+yearn	yearn	verb:simple_present+intransitive
+yearns	yearn	verb:simple_present+intransitive
+yearned	yearn	verb:simple_past+intransitive
+yearned	yearn	verb:past_participle+intransitive
+yearning	yearn	verb:present_participle+intransitive
+yearning	yearning	noun
+yielding	yielding	adjective
+yielding	yielding	noun
+yippie	yippie	noun
+yodel	yodel	verb:simple_present+
+yodels	yodel	verb:simple_present+
+???	yodel	verb:simple_past+
+???	yodel	verb:past_participle+
+???	yodel	verb:present_participle+
+yodel	yodel	noun
+yolk	yolk	noun
+youngster	youngster	noun
+youthfulness	youthfulness	noun
+yugoslav	yugoslav	adjective
+yugoslav	yugoslav	noun
+yuppie	yuppie	noun
+yusta	yusta	adjective
+yaro	yaro	noun
+yeoman	yeoman	noun
+yorker	yorker	noun
+yobbo	yobbo	noun
+yobbos	yobbo	noun:plural
+yo-yo	yo-yo	noun
+yo-yos	yo-yo	noun:plural
+yo-yo	yo-yo	verb:simple_present+intransitive
+yo-yoes	yo-yo	verb:simple_present+intransitive
+yo-yoed	yo-yo	verb:simple_past+intransitive
+yo-yoed	yo-yo	verb:past_participle+intransitive
+yo-yoing	yo-yo	verb:present_participle+intransitive
+yogi	yogi	noun
+yogini	yogini	noun
+Yemenite	Yemenite	proper noun
+yup	yup	adverbe
+yonic	yonic	adjective
+yawp	yawp	verb:simple_present+intransitive
+yawps	yawp	verb:simple_present+intransitive
+yawped	yawp	verb:simple_past+intransitive
+yawped	yawp	verb:past_participle+intransitive
+yawping	yawp	verb:present_participle+intransitive
+yawp	yawp	noun
+yesteryear	yesteryear	noun
+yesteryear	yesteryear	adjective
+Yoder	Yoder	proper noun
+yahoo	yahoo	proper noun
+yahoo	yahoo	noun
+Yeshua	Yeshua	proper noun
+yaldabaoth	yaldabaoth	proper noun
+yanuyanu	yanuyanu	noun
+yikes	yikes	interjection
+Yank	Yank	proper noun
+Yanks	Yank	proper noun:plural
+York	York	proper noun
+You-know-who	You-know-who	proper noun
+Yokohama	Yokohama	proper noun
+ych	ych	noun
+ychen	ych	noun:plural
+ychen	ychen	noun
+Yoism	Yoism	proper noun
+Yoan	Yoan	proper noun
+yards	yards	noun
+yielded	yielded	verb:simple_present+
+yieldeds	yielded	verb:simple_present+
+???	yielded	verb:simple_past+
+???	yielded	verb:past_participle+
+???	yielded	verb:present_participle+
+yuppy	yuppy	noun
+your	your	determiner
+your	your	determiner

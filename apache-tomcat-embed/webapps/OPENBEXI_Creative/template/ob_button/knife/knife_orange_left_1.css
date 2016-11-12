@@ -1,0 +1,19 @@
+.ob_button_knife_orange_left_1 {
+    width: 95%;
+    height: 100%;
+    color: rgb(153, 99, 0);
+    background-color: rgb(255, 166, 0);
+    -webkit-box-shadow: rgba(255, 254, 255, 0.589844) 0px 0.3em 0.3em inset, rgba(0, 0, 0, 0.148438) 0px -0.1em 0.3em inset, rgb(204, 133, 0) 0px 0.1em 3px, rgb(153, 99, 0) 0px 0.3em 1px, rgba(0, 0, 0, 0.199219) 0px 0.5em 5px;
+    box-shadow: rgba(255, 254, 255, 0.589844) 0px 0.3em 0.3em inset, rgba(0, 0, 0, 0.148438) 0px -0.1em 0.3em inset, rgb(204, 133, 0) 0px 0.1em 3px, rgb(153, 99, 0) 0px 0.3em 1px, rgba(0, 0, 0, 0.199219) 0px 0.5em 5px;
+    border-top-left-radius: 0.5em 0.5em;
+    border-top-right-radius: 0.5em 0.5em;
+    border-bottom-right-radius: 1em 1em;
+    border-bottom-left-radius: 6em 4em;
+}
+ .ob_button_knife_orange_left_1:hover {
+   background-color: hsl(39, 100%, 65%);
+}
+
+
+
+

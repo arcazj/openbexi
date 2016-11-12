@@ -1,0 +1,84 @@
+#WARNING:ne pas mettre le caractere' (exemple d' un)
+####################################create_class####################################
+if [verbe] construire;créer [déterminant] _X1 [nom] classe;table [nom] _X3|create_class _X3|créer une classe mot|BEXI|1
+#
+####################################select_class####################################
+#if [verbe] donner;montrer [déterminant] _X1 [nom] classe;table [nom] _X3|select_class _X3|montrer la classe mot|BEXI|1
+if [verbe] donner;montrer [déterminant] _X1 [nom] classe;table [any] _X3|select_class _X3|montrer la classe mot|BEXI|1
+#
+####################################delete_class####################################
+if [verbe] détruire;enlever;supprimer [déterminant] _X1 [nom] classe [nom] _X3|delete_class _X3|détruire la classe mot|BEXI|1
+#
+####################################create_class_attribut####################################
+if [déterminant] _X0 [nom] _X1 [verbe] avoir [déterminant] _X3 [nom] _X4|create_class_attribut _X1 _X4|un mot avoir une flexion|BEXI|1
+#if [déterminant] _X0 [nom] _X1 [verbe] a [déterminant] _X3 [nom] _X4|create_class_attribut _X1 _X4|un mot a un synonyme |BEXI|1
+#
+####################################delete_class_attribut####################################
+if [verbe] détruire;enlever;supprimer [nom] attribut [nom] _X2 [déterminant] _X3 [déterminant] _X4 [nom] classe [nom] _X6|delete_class_attribut _X2 _X6|détruire attribut prénom de la classe homme|BEXI|1
+#
+####################################create_class_link####################################
+if [déterminant] _X0 [nom] _X1 [verbe] _X2 [déterminant] _X3 [nom] _X4|create_class_link _X1 _X2 _X4|une expression contient des mots|BEXI|1
+if [déterminant] _X0 [nom] _X1 [verbe] est [verbe] _X3 [préposition] a [déterminant] _X5 [nom] _X6|create_class_link _X1 _X3 _X6|un mot est associer a une contexte|BEXI|1
+#
+####################################delete_class_link####################################
+if [verbe] détruire;enlever;supprimer [nom] _X1 [verbe] _X2 [nom] _X3|delete_class_link _X1 _X2 _X3 |détruire mot contient expression|BEXI|1
+if [verbe] détruire;enlever;supprimer [déterminant] le [nom] lien [verbe] _X3 [préposition] entre [déterminant] la [nom] classe [nom] _X7 [conjonction] et [nom] _X9|delete_class_link _X7 _X3 _X9|détruire le lien contient entre la classe mot et expression|BEXI|1
+#
+####################################create_class_object####################################
+if [verbe] construire;créer [déterminant] _X1 [nom] _X2 [any] _X3|create_class_object _X2 _X3|créer le mot donner|BEXI|1
+#
+####################################delete_class_object####################################
+if [déterminant] _X0 [nom] _X1 [any] _X2 [adjectif;nom;verbe] _X3 [verbe] détruire;enlever;supprimer|delete_class_object _X1 _X2|le mot donner est détruit|BEXI|1
+if [verbe] détruire;enlever;supprimer [nom;pronom] _X1 [déterminant] _X2 [nom] _X3 [any] _X4|delete_class_object _X3 _X4|détruisez moi le mot donner|BEXI|1
+if [verbe] détruire;enlever;supprimer [déterminant] _X1 [nom] _X2 [any] _X3|delete_class_object _X2 _X3|détruire le mot donner|BEXI|1
+#
+####################################create_class_object_attribut####################################
+if [déterminant] _X0 [nom] _X1 [déterminant] _X2 [nom] _X3 [any] _X4 [verbe] être [déterminant] _X6 [any] _X7|create_class_object_attribut _X3 _X4 _X1 _X7|le type du mot venir est un verbe|BEXI|1
+if [déterminant] _X0 [nom] _X1 [déterminant] _X2 [nom] _X3 [any] _X4 [verbe] être [any] _X6|create_class_object_attribut _X3 _X4 _X1 _X6|la racine du mot venir est venir|BEXI|1
+#
+####################################delete_classe_object_attribut####################################
+if [verbe] détruire;enlever;supprimer [déterminant] _X1 [nom] _X2 [déterminant] _X3 [nom] _X4 [any] _X5|delete_classe_object_attribut _X4 _X5 _X2|détruire le type du mot venir|BEXI|1
+#
+####################################create_class_object_link####################################
+if [déterminant] _X0 [nom] _X1 [any] _X2 [verbe] _X3 [déterminant] _X4 [nom] _X5 [any] _X6|create_class_object_link _X1 _X2 _X3 _X5 _X6|le mot détruire possède le synonyme enlever|BEXI|1
+#
+####################################delete_class_object_link####################################
+if [déterminant] _X0 [nom] _X1 [any] _X2 [adverbe] ne [verbe] _X4 [adverbe] _X5 [déterminant] _X6 [nom] _X7 [any] _X8|delete_class_object_link _X1 _X2 _X4 _X7 _X8|le mot détruire ne possède plus le synonyme enlever|BEXI|1
+#
+####################################select_classes####################################
+if [verbe] donner;montrer [déterminant] tout [déterminant] _X2 [nom] classes|select_classes|donner toutes les classes|BEXI|1
+if [verbe] donner;montrer [déterminant] _X2 [nom] classes|select_classes|donner les classes|BEXI|1
+#
+####################################select_class_object_link####################################
+if [verbe] donner;montrer [déterminant] _X1 [nom] _X2 [conjonction] que [verbe] _X4 [déterminant] _X5 [nom] _X6 [any] _X7|select_class_object_link _X6 _X7 _X4 _X2|donner les synonymes que possèdent le mot détruire|BEXI|1
+#
+####################################select_class_attributs####################################
+if [any] _X0 [verbe] _X1 [nom;pronom;déterminant] _X2 [nom;verbe] _X3 [déterminant] _X4 [nom] attribut [déterminant] _X6 [adjectif;déterminant;nom] _X7 [nom] _X8|select_class_attributs _X8|Je voudrais la liste des attributs d un enfant|BEXI|1
+if [déterminant;pronom] _X0 [any] _X1 [déterminant] _X2 [nom] attribut [déterminant] _X4 [adjectif;déterminant;nom] _X5 [nom] _X6|select_class_attributs _X6|quels sont les attributs d un enfant|BEXI|1
+if [déterminant;pronom] _X0 [any] _X1 [déterminant] _X2 [nom] attribut [déterminant] _X4 [nom] _X5|select_class_attributs _X5|quel sont les attributs des enfants|BEXI|1
+if [verbe] donner;montrer [déterminant] _X1 [nom] attribut [déterminant] _X3 [nom] _X4|select_class_attributs _X4|donner les attributs des enfants|BEXI|1
+if [verbe] donner;montrer [déterminant] tout [déterminant] _X2 [nom] attribut [déterminant] _X4 [déterminant] _X5 [nom] _X6|select_class_attributs _X6|donner tous les attributs d un mot|BEXI|1
+if [verbe] donner;montrer [déterminant] _X1 [nom] attribut [déterminant] _X3 [déterminant] _X4 [nom] _X5 [nom] _X6|select_class_attributs _X6|donner les attributs de la classe mot|BEXI|1
+if [verbe] donner;montrer [déterminant] du [nom] attribut [déterminant] _X3 [déterminant] _X4 [nom] _X5|select_random_class_attributs _X5|donner des attributs d un mot|BEXI|1
+if [verbe] donner;montrer [déterminant] un [nom] attribut [déterminant] _X3 [déterminant] _X4 [nom] _X5|select_one_class_attribut _X5|donner un attributs d un mot|BEXI|1
+if [verbe] donner;montrer [nom;pronom] _X1 [déterminant] _X2 [nom] attribut [déterminant] _X4 [déterminant] _X5 [nom] _X6 [nom] _X7|select_class_attributs _X7|donner moi tous les attributs d un mot|BEXI|1
+if [verbe] donner;montrer [nom;pronom] _X1 [pronom;déterminant] _X2 [déterminant] _X3 [nom] attribut [déterminant] _X5 [adjectif;déterminant;nom] _X6 [nom] _X7|select_class_attributs _X7|donner moi tous les attributs d un enfant|BEXI|1
+#
+####################################select_class_attributs#################################### (note: dont use the word "les"
+if [any] _X0 [verbe] _X1 [nom;pronom;déterminant] _X2 [nom;verbe] _X3 [déterminant] _X4 [nom] attribut [déterminant] _X6 [adjectif;déterminant;nom] _X7 [nom] _X8|select_class_attributs _X8|Je voudrais la liste des attributs d un enfant|BEXI|1
+if [déterminant;pronom] _X0 [any] _X1 [déterminant] _X2 [nom] attribut [déterminant] _X4 [adjectif;déterminant;nom] _X5 [nom] _X6|select_class_attributs _X6|quels sont les attributs d un enfant|BEXI|1
+if [déterminant;pronom] _X0 [any] _X1 [déterminant] _X2 [nom] attribut [déterminant] _X4 [nom] _X5|select_class_attributs _X5|quel sont les attributs des enfants|BEXI|1
+if [verbe] donner;montrer [déterminant] _X1 [nom] attribut [déterminant] _X3 [nom] _X4|select_class_attributs _X4|donner les attributs des enfants|BEXI|1
+if [verbe] donner;montrer [déterminant] tout [déterminant] _X2 [nom] attribut [déterminant] _X4 [nom] _X5 [any] _X6|select_class_attributs _X5|donner tous les attributs du mot venir|BEXI|1
+if [verbe] donner;montrer [déterminant] _X1 [nom] attribut [déterminant] _X3 [nom] _X4 [any] _X5|select_class_attributs _X4|donner les attributs du mot venir|BEXI|1
+if [verbe] donner;montrer [déterminant] du [nom] attribut [déterminant] _X3 [nom] _X4 [any] _X5|select_random_class_attributs _X4|donner des attributs du mot venir|BEXI|1
+if [verbe] donner;montrer [déterminant] un [nom] attribut [déterminant] _X3 [nom] _X4 [any] _X5|select_one_class_attribut _X4|donner un attribut du mot venir|BEXI|1
+#
+####################################select_class_object_attributs####################################
+if [verbe] donner;montrer [déterminant] _X1 [nom] _X2 [déterminant] _X3 [nom] _X4 [nom] _X5 [any] _X6|select_class_object_attributs _X2 _X4 _X5 _X6|donner les flexions du mot racine détruire|BEXI|1
+if [verbe] donner;montrer [déterminant] tout [déterminant] _X2 [nom] _X3 [déterminant] _X4 [nom] _X5 [nom] _X6 [any] _X7|select_class_object_attributs _X3 _X5 _X6 _X7|donner toutes les flexions du mot racine détruire|BEXI|1
+if [verbe] donner;montrer [pronom] moi [déterminant] _X2 [nom] _X3 [déterminant] _X4 [nom] _X5 [any] _X6|select_class_object_attributs _X5 _X3 _X6|donner moi le genre du mot venir|BEXI|1
+if [verbe] donner;montrer [déterminant] _X1 [nom] _X2 [déterminant] _X3 [nom] _X4 [any] _X5|select_class_object_attributs _X4 _X2 _X5|donner la racine du mot contient|BEXI|1
+if [verbe] donner;montrer [déterminant] tout [déterminant] _X2 [nom] _X3 [déterminant] _X4 [nom] _X5 [any] _X6|select_class_object_attributs _X5 _X3 _X6|donner toutes les flexions du mot détruire|BEXI|1
+if [verbe] donner;montrer [déterminant] du [nom] _X2 [déterminant] _X3 [nom] _X4 [any] _X5|select_random_class_object_attributs _X4 _X2 _X5|donner des flexions du mot venir|BEXI|1
+#

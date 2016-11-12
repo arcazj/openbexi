@@ -1,0 +1,18 @@
+.ob_link_hover {
+    background: none;
+    background-color: transparent;
+    color: black;
+    border: "0px solid black";
+    link {color:#FF0000;}    /* unvisited link */
+    visited {color:#00FF00;} /* visited link */
+    hover {color:#FF00FF;}   /* mouse over link */
+    active {color:#0000FF;}  /* selected link */
+}
+.ob_link_hover:link {color:#FF0000;}    /* unvisited link */
+.ob_link_hover:visited {color:#00FF00;} /* visited link */
+.ob_link_hover:hover {color:#FF00FF;}   /* mouse over link */
+.ob_link_hover:active {color:#0000FF;}  /* selected link */
+
+
+
+

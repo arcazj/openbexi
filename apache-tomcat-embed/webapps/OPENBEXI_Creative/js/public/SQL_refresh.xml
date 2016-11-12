@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openbexiCreative>
+    
+<classe name="ob_explorer">
+        
+    <object name="file">
+            <attribute filename="SQL_refresh.js" name="filename"/>
+            <attribute list="openbexi_list|openbexi_dojo|openbexi_form" name="list"/>
+            <attribute name="specification_en" specification_en="Call a SQL request and update the appropriate widget."/>
+            <attribute name="specification_fr" specification_fr="Execute une requête SQL and modifie la table ou liste associé."/>
+            <attribute name="type" type="javascripts"/>
+            <attribute icon="SQL_refresh.gif" name="icon"/>
+            <attribute name="parameterCount" parameterCount="8"/>
+
+            <attribute name="parameterName_0" parameterName_0="widget_id"/>
+            <attribute name="parameterType_0" parameterType_0="string"/>
+
+            <attribute name="parameterName_1" parameterName_1="widget_type"/>
+            <attribute name="parameterType_1" parameterType_1="string"/>
+
+            <attribute name="parameterName_2" parameterName_2="query"/>
+            <attribute name="parameterSpecification_2_en" parameterSpecification_2_en="Please, enter your request - Example: select * from tableName"/>
+            <attribute name="parameterSpecification_2_fr" parameterSpecification_2_fr="TBD"/>
+            <attribute name="parameterType_2" parameterType_2="string"/>
+
+            <attribute name="parameterName_3" parameterName_3="query_type"/>
+            <attribute name="parameterType_3" parameterType_3="string"/>
+            <attribute name="parameterDefault_3" parameterDefault_3="sql"/>
+
+
+            <attribute name="parameterName_4" parameterName_4="database_driver"/>
+            <attribute name="parameterSpecification_4_en" parameterSpecification_4_en="Please, enter the database driver"/>
+            <attribute name="parameterSpecification_4_fr" parameterSpecification_4_fr="TBD"/>
+            <attribute name="parameterType_4" parameterType_4="string"/>
+
+            <attribute name="parameterName_5" parameterName_5="database_url"/>
+            <attribute name="parameterSpecification_5_en" parameterSpecification_5_en="Please, enter the URL driver"/>
+            <attribute name="parameterSpecification_5_fr" parameterSpecification_5_fr="TBD"/>
+            <attribute name="parameterType_5" parameterType_5="string"/>
+
+            <attribute name="parameterName_6" parameterName_6="database_user"/>
+            <attribute name="parameterSpecification_6_en" parameterSpecification_6_en="Database user login"/>
+            <attribute name="parameterSpecification_6_fr" parameterSpecification_6_fr="TBD"/>
+            <attribute name="parameterType_6" parameterType_6="string"/>
+
+            <attribute name="parameterName_7" parameterName_7="database_passwd"/>
+            <attribute name="parameterSpecification_7_en" parameterSpecification_7_en="Database password"/>
+            <attribute name="parameterSpecification_7_fr" parameterSpecification_7_fr="TBD"/>
+            <attribute name="parameterType_7" parameterType_7="string"/>
+            <attribute event="" name="event"/>
+            
+        <attribute name="return" return=""/><attribute name="parameterSpecification_0_en" parameterSpecification_0_en=""/><attribute name="parameterSpecification_0_fr" parameterSpecification_0_fr="TBD"/><attribute name="parameterSpecification_1_en" parameterSpecification_1_en=""/><attribute name="parameterSpecification_1_fr" parameterSpecification_1_fr="TBD"/><attribute name="parameterSpecification_3_en" parameterSpecification_3_en=""/><attribute name="parameterSpecification_3_fr" parameterSpecification_3_fr="TBD"/></object></classe></openbexiCreative>

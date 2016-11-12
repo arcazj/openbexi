@@ -1,0 +1,155 @@
+--- ATTENTION : CONSERVEZ CETTE LICENCE SI VOUS REDISTRIBUEZ CE FICHIER ---
+License ABU
+-=-=-=-=-=-
+Version 1.1, Aout 1999
+
+Copyright (C) 1999 Association de Bibliophiles Universels
+   http://abu.cnam.fr/
+   abu@cnam.fr
+
+La base de textes de l'Association des Bibliophiles Universels (ABU)
+est une oeuvre de compilation, elle peut être copiée, diffusée et
+modifiée dans les conditions suivantes :
+
+1.  Toute copie à des fins privées, à des fins d'illustration de l'enseignement
+    ou de recherche scientifique est autorisée.
+
+2.  Toute diffusion ou inclusion dans une autre oeuvre doit
+
+     a) soit inclure la presente licence s'appliquant a l'ensemble de la
+        diffusion ou de l'oeuvre dérivee.
+
+     b) soit permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement une version
+        numérisée de chaque texte inclu, muni de la présente licence.  Cette
+        possibilité doit être mentionnée explicitement et de façon claire,
+        ainsi que le fait que la présente notice s'applique aux documents
+        extraits.
+
+     c) permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement la version
+        numérisée originale, munie le cas échéant des améliorations visées au
+        paragraphe 6, si elles sont présentent dans la diffusion ou la nouvelle
+        oeuvre. Cette possibilité doit être mentionnée explicitement et de
+        façon claire, ainsi que le fait que la présente notice s'applique aux
+        documents extraits.
+
+   Dans tous les autres cas, la présente licence sera réputée s'appliquer
+   à l'ensemble de la diffusion ou de l'oeuvre dérivée.
+
+
+3. L'en-tête qui accompagne chaque fichier doit être intégralement 
+   conservée au sein de la copie.
+
+4. La mention du producteur original doit être conservée, ainsi
+   que celle des contributeurs ultérieurs.
+
+5. Toute modification ultérieure, par correction d'erreurs,
+   additions de variantes, mise en forme dans un autre format, ou autre,
+   doit être indiquée.  L'indication des diverses contributions devra être
+   aussi précise que possible, et datée.
+
+6. Ce copyright s'applique obligatoirement à toute amélioration
+   par simple correction d'erreurs ou d'oublis mineurs (orthographe,
+   phrase manquante, ...), c'est-à-dire ne correspondant pas à
+   l'adjonction d'une autre variante connue du texte, qui devra donc
+   comporter la présente notice.
+
+----------------------- FIN DE LA LICENCE ABU --------------------------------
+
+yachting	yachting	Nom:Mas+SG
+yachtman	yachtman	Nom:Mas+SG
+yachtmen	yachtman	Nom:Mas+PL
+yachtsman	yachtsman	Nom:Mas+SG
+yachtsmen	yachtsman	Nom:Mas+PL
+yachtswoman	yachtswoman	Nom:Fem+SG
+yachtswomen	yachtswoman	Nom:Fem+PL
+yachts	yacht	Nom:Mas+PL
+yachtwoman	yachtwoman	Nom:Fem+SG
+yacht	yacht	Nom:Mas+SG
+yacht-clubs	yacht-club	Nom:Mas+PL
+yacht-club	yacht-club	Nom:Mas+SG
+yacks	yack	Nom:Mas+PL
+yack	yack	Nom:Mas+SG
+yaks	yak	Nom:Mas+PL
+yak	yak	Nom:Mas+SG
+yang	yang	Nom:Mas+SG
+yankee	yankee	Adj:InvGen+SG
+yaourtières	yaourtière	Nom:Fem+PL
+yaourtière	yaourtière	Nom:Fem+SG
+yaourts	yaourt	Nom:Mas+PL
+yaourt	yaourt	Nom:Mas+SG
+yards	yard	Nom:Mas+PL
+yard	yard	Nom:Mas+SG
+yatagans	yatagan	Nom:Mas+PL
+yatagan	yatagan	Nom:Mas+SG
+yawl	yawl	Nom:Mas+SG
+yearling	yearling	Nom:Mas+SG
+yèble	yèble	Nom:Fem+SG
+yéménite	yéménite	Adj:InvGen+SG
+yéménite	yéménite	Nom:InvGen+SG
+yens	yen	Nom:Mas+PL
+yen	yen	Nom:Mas+SG
+yeomanry	yeomanry	Nom:Fem+SG
+yeoman	yeoman	Nom:Mas+SG
+yeomen	yeoman	Nom:Mas+PL
+yétis	yéti	Nom:Mas+PL
+yéti	yéti	Nom:Mas+SG
+yeuses	yeuse	Nom:Fem+PL
+yeuses	yeux	Nom:Mas+PL
+yeuse	yeuse	Nom:Fem+SG
+yé	yé	Adj:InvGen+SG:InvGen+PL
+yé	yé	Nom:InvGen+SG:InvGen+PL
+yé-yé	yé-yé	Adj:InvGen+SG
+yé-yé	yé-yé	Nom:InvGen+SG
+yé-yé	yé-yé	Nom:Mas+InvPL
+yiddish	yiddish	Adj:InvGen+SG:InvGen+PL
+yiddish	yiddish	Nom:Mas+InvPL
+yin	yin	Nom:Mas+SG
+ylang	ylang	Nom:Mas+SG
+yod	yod	Nom:Mas+SG
+yogas	yoga	Nom:Mas+PL
+yoga	yoga	Nom:Mas+SG
+yoghourt	yoghourt	Nom:Mas+SG
+yogis	yogi	Nom:Mas+PL
+yogi	yogi	Nom:Mas+SG
+yogourts	yogourt	Nom:Mas+PL
+yogourt	yogourt	Nom:Mas+SG
+yohimbehe	yohimbehe	Nom:Mas+SG
+yohimbine	yohimbine	Nom:Fem+SG
+yole	yole	Nom:Fem+SG
+yonnais	yonnais	Adj:Mas+InvPL
+yorkais	yorkais	Adj:Mas+InvPL
+yorkais	yorkais	Nom:Mas+InvPL
+yougoslaves	yougoslave	Adj:InvGen+PL
+yougoslaves	yougoslave	Nom:InvGen+PL
+yougoslave	yougoslave	Adj:InvGen+SG
+youpines	youpin	Adj:Fem+PL
+youpines	youpin	Nom:Fem+PL
+youpine	youpin	Adj:Fem+SG
+youpine	youpin	Nom:Fem+SG
+youpin	youpin	Adj:Mas+SG
+youpin	youpin	Nom:Mas+SG
+yourtes	yourte	Nom:Fem+PL
+yourte	yourte	Nom:Fem+SG
+youtre	youtre	Nom:Fem+SG
+youyous	youyou	Nom:Mas+PL
+youyou	youyou	Nom:Mas+SG
+yo-yo	yo-yo	Nom:Mas+InvPL
+ypérite	ypérite	Nom:Fem+SG
+yponomeute	yponomeute	Nom:Mas+SG
+ypréaux	ypréau	Nom:Mas+PL
+ypréau	ypréau	Nom:Mas+SG
+ysopet	ysopet	Nom:Mas+SG
+ytterbine	ytterbine	Nom:Fem+SG
+ytterbium	ytterbium	Nom:Mas+SG
+yttrialite	yttrialite	Nom:Fem+SG
+yttria	yttria	Nom:Mas+SG
+yttrifère	yttrifère	Adj:InvGen+SG
+yttrique	yttrique	Adj:InvGen+SG
+yttrium	yttrium	Nom:Mas+SG
+yuan	yuan	Nom:Mas+SG
+yucca	yucca	Nom:Mas+SG
+y	y	Adv
+
+------------------------- FIN DU FICHIER --------------------------------

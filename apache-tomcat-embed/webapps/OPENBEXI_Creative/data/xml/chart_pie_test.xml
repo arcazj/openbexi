@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openbexiCreative>
+    <classe name="chart">
+        <object name="pie">
+            <attribute name="output" output="png"/>
+            <attribute name="type" type="pie"/>
+            <attribute name="subtype" subtype="PieChart3D"/>
+            <attribute name="title" title="PieChart3D"/>
+            <attribute name="legende" legende="true"/>
+            <attribute name="filepath" filepath=""/>
+            <attribute name="png" png="PieChart3D.png"/>
+            <attribute name="height" height="300"/>
+            <attribute name="width" width="400"/>
+            <attribute name="labelGap" labelGap="0.02"/>
+            <attribute name="foregroundAlpha" foregroundAlpha="0.6f"/>
+            <attribute name="background" background="white"/>
+            <attribute name="explodeNumber" explodeNumber="1"/>
+            <attribute name="explode" explode="0.19"/>
+            <attribute name="data_0" data_0="One;33.3;Two;33.3;Three;33.3"/>
+        </object>
+    </classe>
+</openbexiCreative>

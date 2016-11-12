@@ -1,0 +1,36 @@
+
+
+.ob_img_morphing_style_2 {
+	position: relative;
+
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+}
+
+.ob_img_morphing_style_2:hover {
+	-webkit-border-radius: 30em;
+	-moz-border-radius: 30em;
+	border-radius: 30em;
+}
+
+.ob_img_morphing_style_2:after {
+	position: absolute;
+	content: ' ';
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+
+	-webkit-border-radius: 30em;
+	-moz-border-radius: 30em;
+	border-radius: 30em;
+}

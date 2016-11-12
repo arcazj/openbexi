@@ -1,0 +1,33 @@
+/* This notice must be untouched at all times.
+
+wz_dragdrop.js	v. 4.88
+The latest version is available at
+http://www.walterzorn.com
+or http://www.devira.com
+or http://www.walterzorn.de
+
+Copyright (c) 2002-2007 Walter Zorn. All rights reserved.
+Created 26. 8. 2002 by Walter Zorn (Web: http://www.walterzorn.com )
+Last modified: 31. 1. 2007
+
+This DHTML & Drag&Drop Library adds Drag&Drop functionality
+to the following types of html-elements:
+- images, even if not positioned via layers,
+  nor via stylesheets or any other kind of "hard-coding"
+- relatively and absolutely positioned layers (DIV elements).
+Moreover, it provides extended DHTML abilities.
+
+LICENSE: LGPL
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License (LGPL) as published by the Free Software Foundation; either
+version 2.1 of the License, or (at your option) any later version.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+For more details on the GNU Lesser General Public License,
+see http://www.gnu.org/copyleft/lesser.html
+*/

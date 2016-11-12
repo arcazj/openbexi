@@ -1,0 +1,25 @@
+.ob_list_default_bg_default {
+    border: 0px white solid;
+    overflow: auto;
+}
+
+.ul_default_bg_default {
+    list-style-type: none;
+    padding-left: 2.1em;
+    margin: 0;
+}
+
+.li_default_bg_default {
+    list-style-image: url( "gif/ArrowR4_orange.gif" );
+    background-image: url( "gif/fagedefault.jpg" );
+    background-repeat: no-repeat;
+    padding: 0.1em;
+}
+.li_default_bg_default:hover {
+     background-color: orange;
+     padding: 0.2em
+}
+
+
+
+

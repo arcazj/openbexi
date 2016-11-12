@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openbexiCreative>
+    
+<classe name="ob_explorer">
+        
+    <object name="file">
+            <attribute filename="ob_CSS_style.js" name="filename"/>
+            <attribute name="specification_en" specification_en="Update CSS style."/>
+            <attribute name="specification_fr" specification_fr="Modifie le style CSS."/>
+            <attribute name="type" type="javascripts"/>
+            <attribute icon="ob_CSS_style.jpg" name="icon"/>
+            <attribute name="parameterCount" parameterCount="3"/>
+
+            <attribute name="parameterName_0" parameterName_0="widget_id"/>
+            <attribute name="parameterType_0" parameterType_0="string"/>
+
+            <attribute name="parameterName_1" parameterName_1="widget_type"/>
+            <attribute name="parameterType_1" parameterType_1="string"/>
+
+            <attribute name="parameterName_2" parameterName_2="CSS"/>
+            <attribute name="parameterSpecification_2_en" parameterSpecification_2_en="Enter CSS style - Ex: background:red"/>
+            <attribute name="parameterSpecification_2_fr" parameterSpecification_2_fr="TBD"/>
+            <attribute name="parameterType_2" parameterType_2="string"/>
+
+            <attribute event="" name="event"/>
+
+            <attribute name="return" return=""/>
+            <attribute list="" name="list"/>
+            <attribute name="parameterSpecification_0_en" parameterSpecification_0_en=""/>
+            <attribute name="parameterSpecification_0_fr" parameterSpecification_0_fr="TBD"/>
+            <attribute name="parameterSpecification_1_en" parameterSpecification_1_en=""/>
+
+            
+        <attribute name="parameterSpecification_1_fr" parameterSpecification_1_fr="TBD"/></object></classe></openbexiCreative>

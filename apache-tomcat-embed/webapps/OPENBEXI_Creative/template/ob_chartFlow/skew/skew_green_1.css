@@ -1,0 +1,20 @@
+.ob_chartFlow_skew_green_1 {
+    width: 95%;
+    height: 100%;
+    color: rgb(80, 130, 23) ;
+    background-color: rgb(158, 225, 81);
+    -webkit-box-shadow: rgba(255, 254, 255, 0.589844) 0px 0.3em 0.3em inset, rgba(0, 0, 0, 0.148438) 0px -0.1em 0.3em inset, rgb(107, 174, 30) 0px 0.1em 3px, rgb(80, 130, 23) 0px 0.3em 1px, rgba(0, 0, 0, 0.199219) 0px 0.5em 5px;
+    box-shadow: rgba(255, 254, 255, 0.589844) 0px 0.3em 0.3em inset, rgba(0, 0, 0, 0.148438) 0px -0.1em 0.3em inset, rgb(107, 174, 30) 0px 0.1em 3px, rgb(80, 130, 23) 0px 0.3em 1px, rgba(0, 0, 0, 0.199219) 0px 0.5em 5px;
+    padding-right: 1.2em;
+    padding-left: 0.8em;
+    border-top-left-radius: 5em 5em;
+    border-top-right-radius: 1em 1em;
+    border-bottom-right-radius: 5em 5em;
+    border-bottom-left-radius: 1em 1em;
+}
+
+.ob_chartFlow_skew_green_1:hover {
+    background-color: hsl(88, 70%, 75%);
+}
+
+

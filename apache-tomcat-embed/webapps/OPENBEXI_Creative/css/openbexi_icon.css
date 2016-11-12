@@ -1,0 +1,247 @@
+.nihilo .dijitTreeIcon {
+    width: 32px;
+    height: 32px;
+}
+
+.nihilo .dijitLeaf {
+    height: 32px;
+    width: 32px;
+}
+.soria .dijitTreeIcon {
+    width: 32px;
+    height: 32px;
+}
+
+.soria .dijitLeaf {
+    height: 32px;
+    width: 32px;
+}
+.tundra .dijitTreeIcon {
+    width: 32px;
+    height: 32px;
+}
+
+.tundra .dijitLeaf {
+    height: 32px;
+    width: 32px;
+}
+.claro .dijitTreeIcon {
+    width: 32px;
+    height: 32px;
+}
+
+.claro .dijitLeaf {
+    height: 32px;
+    width: 32px;
+}
+
+.ob_project_icon {
+    background: url( '../gif/ob_project.png' ) no-repeat center center;
+}
+.ob_none_icon {
+    background: url( '../gif/ob_none.png') no-repeat center center;
+}
+.ob_transparent_icon {
+    background: url( '../gif/ob_transparent.png') no-repeat center center;
+}
+.ob_ok_icon {
+    background: url( '../gif/ob_ok_x22.png') no-repeat center center;
+}
+.ob_info_icon {
+    background: url( '../gif/ob_info_x22.png') no-repeat center center;
+}
+.ob_warning_icon {
+    background: url( '../gif/ob_warning_x22.png') no-repeat center center;
+}
+.ob_error_icon {
+    background: url( '../gif/ob_error_x22.png') no-repeat center center;
+}
+.ob_event_icon {
+    background: url( '../gif/ob_event_x22.png') no-repeat center center;
+}
+.ob_bug_icon { 
+    background: url( '../gif/ob_bug_x22.png') no-repeat center center;
+}
+
+.ob_html_icon {
+    background: url( '../gif/ob_html_x32.png' ) no-repeat center center;
+}
+
+.ob_zip_icon {
+    background: url( '../gif/ob_zip_x32.png' ) no-repeat center center;
+}
+
+.ob_exe_icon {
+    background: url( '../gif/ob_exe_x32.png' ) no-repeat center center;
+}
+
+.ob_hourglass_icon {
+    background: url( '../gif/Hourglass_icon.gif' ) no-repeat center center;
+}
+
+.ob_html_remove_icon {
+    background: url( '../gif/ob_html_remove_x32.png' ) no-repeat center center;
+}
+
+.ob_close_folder {
+    background: url( '../gif/ob_close_folder_x32.png' ) no-repeat center center;
+}
+
+.ob_folder_up {
+    background: url( '../gif/ob_folder_up_x32.png' ) no-repeat center center;
+}
+
+.ob_close_folder_remove {
+    background: url( '../gif/ob_close_folder_remove_x32.png' ) no-repeat center center;
+}
+
+.ob_open_folder {
+    background: url( '../gif/ob_open_folder_x32.png' ) no-repeat center center;
+}
+
+.ob_open_folder_remove {
+    background: url( '../gif/ob_open_folder_remove_x32.png' ) no-repeat center center;
+}
+
+.ob_css_icon {
+    background: url( '../gif/ob_css_x32.png' ) no-repeat center center;
+}
+
+.ob_color_icon {
+    background: url( '../gif/background_color_x32.png' ) no-repeat center center;
+}
+
+.ob_sql_icon {
+    background: url( '../gif/ob_sql_x32.png' ) no-repeat center center;
+}
+
+.ob_table_icon {
+    background: url( '../gif/ob_table_x32.png' ) no-repeat center center;
+}
+
+.ob_list_icon {
+    background: url( '../gif/ob_list_x32.png' ) no-repeat center center;
+}
+
+.ob_xml_icon {
+    background: url( '../gif/ob_xml_x32.png' ) no-repeat center center;
+}
+
+.ob_xml_remove_icon {
+    background: url( '../gif/ob_xml_remove_x32.png' ) no-repeat center center;
+}
+
+.ob_txt_icon {
+    background: url( '../gif/C.png' ) no-repeat center center;
+}
+
+.ob_txt_remove_icon {
+    background: url( '../gif/ob_txt_remove_x32.png' ) no-repeat center center;
+}
+
+.ob_jar_icon {
+    background: url( '../gif/ob_jar_x32.png' ) no-repeat center center;
+}
+
+.ob_ptt_icon {
+    background: url( '../gif/ob_ptt_x32.png' ) no-repeat center center;
+}
+
+.ob_rtf_icon {
+    background: url( '../gif/ob_rtf_x32.png' ) no-repeat center center;
+}
+
+.ob_rpm_icon {
+    background: url( '../gif/ob_rpm_x32.png' ) no-repeat center center;
+}
+
+.ob_php_icon {
+    background: url( '../gif/ob_php_x32.png' ) no-repeat center center;
+}
+
+.ob_pl_icon {
+    background: url( '../gif/ob_pl_x32.png' ) no-repeat center center;
+}
+
+.ob_php_remove_icon {
+    background: url( '../gif/ob_php_remove_x32.png' ) no-repeat center center;
+}
+
+.ob_root_path_icon {
+    background: url( '../gif/ob_root_path_x32.png' ) no-repeat center center;
+}
+
+.ob_xls_icon {
+    background: url( '../gif/ob_xls_x32.png' ) no-repeat center center;
+}
+
+.ob_pdf_icon {
+    background: url( '../gif/ob_pdf_x32.png' ) no-repeat center center;
+}
+
+.ob_java_icon {
+    background: url( '../gif/ob_java_x32.png' ) no-repeat center center;
+}
+
+.ob_js_icon {
+    background: url( '../gif/js_x32.png' ) no-repeat center center;
+}
+
+.ob_trigger_icon {
+    background: url( '../gif/ob_trigger2_x32.png' ) no-repeat center center;
+}
+
+.ob_eps_icon {
+    background: url( '../gif/ob_eps_x32.png' ) no-repeat center center;
+}
+
+.ob_psd_icon {
+    background: url( '../gif/ob_psd_x32.png' ) no-repeat center center;
+}
+
+.ob_audio_icon {
+    background: url( '../gif/ob_audio_x32.png' ) no-repeat center center;
+}
+
+.ob_svg_icon {
+    background: url( '../gif/ob_svg_x32.png' ) no-repeat center center;
+}
+
+.ob_psd_icon {
+    background: url( '../gif/ob_psd_x32.png' ) no-repeat center center;
+}
+
+.ob_video_icon {
+    background: url( '../gif/ob_video_x32.png' ) no-repeat center center;
+}
+
+.ob_img_remove_icon {
+    background: url( '../gif/ob_img_remove_x32.png' ) no-repeat center center;
+}
+
+.ob_img_icon {
+    background: url( '../gif/ob_img_x32.png' ) no-repeat center center;
+}
+
+.ob_script_icon {
+    background: url( '../gif/ob_script_x32.png' ) no-repeat center center;
+}
+
+.ob_file_icon {
+    background: url( '../gif/ob_file_x32.png' ) no-repeat center center;
+}
+
+.ob_file_remove_icon {
+    background: url( '../gif/ob_file_remove_x32.png' ) no-repeat center center;
+}
+
+.ob_addftp_icon {
+    background: url( '../gif/ob_addFTP_x32.png' ) no-repeat center center;
+}
+
+.ob_ftp_icon {
+    background: url( '../gif/ob_FTP_x32.png' ) no-repeat center center;
+}
+.ob_satellite_icon {
+    background: url( '../gif/satellite_x24.png' ) no-repeat center center;
+}

@@ -1,0 +1,2 @@
+function ob_alert(  ) {
+}

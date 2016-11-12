@@ -1,0 +1,21 @@
+.ob_list_default_bg_blue {
+    overflow: auto;
+}
+
+.ul_default_bg_blue {
+    list-style-type: none;
+    padding-left: 2.1em;
+    margin: 0;
+}
+
+.li_default_bg_blue {
+    list-style-image: url( "gif/ArrowR1_black.gif" );
+    background-image: url( "gif/fageblue100x100.jpg" );
+    background-repeat: no-repeat;
+    padding: 0.1em;
+}
+
+.li_default_bg_blue:hover {
+    background-color: #d3c3ff;
+    padding: 0.2em
+}

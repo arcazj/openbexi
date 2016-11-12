@@ -1,0 +1,135 @@
+/* This notice must be untouched at all times.
+
+Copyright (c) 2005-2012 JC Arcaz. All rights reserved.
+ OPEN OPENBEXI HTML Builder for generating dynanic HTML page and html code source from browsers.
+updated: January 22 2012 version 4.0
+ The latest version is available at http://www.openbexi.com
+
+ This program is free software; you can redistribute it and/or
+ modify it under the terms of the GNU General Public License
+ as published by the Free Software Foundation; either version 2
+ of the License, or (at your option) any later version.
+
+ This program is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+
+ You should have received a copy of the GNU General Public License
+ along with this program; if not, write to the Free Software
+ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+ Note:
+ OPEN OPENBEXI htmlbuilder uses dojo 1.0 (BSD License).
+ OPEN OPENBEXI htmlbuilder uses the DHTML libraries from www.walterzorn.com for resizing and dragging pictures and layers (LGPL).
+ */
+ 
+#pragma version "1.0"
+module OPENBEXI_Timeline
+{
+
+enum timeline_alive { T_ON, T_OFF};
+enum timeline_status {T_OK, T_NOK};
+enum session_status {S_ABORTED, S_RUNNING, S_FINISHED, S_DELETED, S_NOT_AUTHORIZED, S_NEED_ACKNOWLEDGEMENT, S_ACKNOWLEDGED};
+enum activity_status {A_SCHEDULED, A_STARTING, A_ABORTED, A_RUNNING, A_FINISHED, A_PAUSED, A_DELETED, A_ASKING};
+enum event_status { E_SCHEDULED, E_RUNNING, E_FINISHED, E_DELETED};
+enum type_session { T_EVENT, T_SESSION};
+
+struct css{
+    string id;
+    string name;
+    string textColor;
+    string tapeImage;
+    string tapeRepeat;
+    string caption;
+    string link;
+    string icon;
+    string image;
+    string color;
+    string text;
+    string css_file;
+};
+
+struct resource{
+   string id;
+   string name;
+   boolean shared;
+   string driver;
+};
+
+struct driver{
+   string id;
+   string name;
+   string type;
+   string function_name;
+};
+
+struct activity {
+   string id;
+   string name;
+   string type;
+   activity_status status;
+};
+
+struct session {
+    string id;
+    string name;
+    type_session type;
+    string subtype;
+    string title;
+    string start;
+    long startL;
+    string end;
+    long endL;
+    string isDuration;
+    string latestStart;
+    string earliestEnd;
+    string priority;
+    string tolerance;
+    session_status status;
+    sequence<string> precedences;
+    sequence<resource> resources;
+    sequence<activity> activities;
+    css properties;
+};
+
+struct timeline{
+    string id;
+    string name;
+    string status;
+    string host;
+    string port;
+    sequence<session> sessions;
+    sequence<resource> resources;
+    css properties;
+};
+
+typedef sequence<timeline> timelines ;
+typedef sequence<resource> resources ;
+typedef sequence<session> sessions ;
+
+interface OPENBEXI_timeline_orb{
+
+    timelines get_Timelines();
+    timeline_alive contact_Timelines(in wstring id);
+
+    timeline_status add_Timeline_ressources(in wstring id, in resources res);
+    timeline_status delete_Timeline_ressources(in wstring id, in resources res);
+    timeline_status update_Timeline_ressources(in wstring id, in resources res);
+    resources get_Timeline_ressources(in wstring id);
+
+    timeline_status add_Timeline_sessions(in wstring id, in sessions res);
+    timeline_status delete_Timeline_sessions(in wstring id, in sessions res);
+    timeline_status update_Timeline_sessions(in wstring id, in sessions res);
+    sessions get_Timeline_sessions(in wstring id);
+    session get_Timeline_session(in wstring id, in wstring session_id);
+
+    timeline_status update_Timeline_css(in wstring id, in css properties);
+
+    void print( in timelines timelines);
+                                                                                          
+};
+               
+
+};
+

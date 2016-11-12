@@ -1,0 +1,60 @@
+<?xml version="1.0"?>
+<openbexiCreative>
+	<classe name="request">
+		<object name="ob_request">
+			<attribute name="subtype" subtype="webPages"/>
+		</object>
+	</classe>
+	<classe name="file">
+		<object name="html">
+			<attribute name="no_name.html"/>
+		</object>
+	</classe>
+	<classe name="openbexi_creative">
+		<object name="application">
+			<attribute name="status" status="ok"/>
+		</object>
+	</classe>
+	<classe name="ob_request">
+		<object name="request">
+			<attribute name="type" type="openbexi_deleteFile"/>
+			<attribute name="subtype" subtype="webPages"/>
+		</object>
+	</classe>
+	<classe name="ob_explorer">
+		<object name="dir">
+			<attribute name="type" type="none"/>
+			<attribute name="path" path="."/>
+			<attribute filter="none" name="filter"/>
+			<attribute filename="none" name="filename"/>
+			<attribute name="parent" parent="/"/>
+		</object>
+		<object name="dirUp">
+			<attribute name="path" path="none"/>
+		</object>
+		<object name="file_0">
+			<attribute filename="Create a new page" name="filename"/>
+			<attribute name="type" type="web"/>
+		</object>
+		<object name="pager">
+			<attribute name="number" number="0"/>
+			<attribute maxNumber="0" name="maxNumber"/>
+		</object>
+		<object name="status">
+			<attribute name="text" text="done"/>
+		</object>
+		<object name="list">
+			<attribute name="nextPreviousStatus" nextPreviousStatus="none"/>
+			<attribute maxItems="10" name="maxItems"/>
+			<attribute name="posCurrentItem" posCurrentItem="0"/>
+			<attribute name="nextFlag" nextFlag="null"/>
+			<attribute name="previousFlag" previousFlag="null"/>
+		</object>
+                <object name="file">
+			<attribute filter="none" name="filter"/>
+			<attribute name="objectMaxCount" objectMaxCount="1"/>
+			<attribute name="objectCount" objectCount="1"/>
+		</object>
+	</classe>
+</openbexiCreative>
+

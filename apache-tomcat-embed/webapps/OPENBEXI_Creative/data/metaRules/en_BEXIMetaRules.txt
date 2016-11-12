@@ -1,0 +1,26 @@
+#WARNING:ne pas mettre le caractere' (exemple d' un)
+####################################create_class####################################
+if [verb] create;generate;make [determiner] _X1 [noun] _X2 [noun] class;table|create_class _X2|create the author class|BEXI|1
+#
+####################################delete_class####################################
+if [verb] delete;remove;drop [determiner] _X1 [noun] _X2 [noun] class|delete_class _X2|delete the author class|BEXI|1
+#
+####################################create_class_attribut####################################
+if [determiner] _X0 [noun] _X1 [verb] have [determiner] _X3 [noun] _X4|create_class_attribut _X1 _X4|an author have a name|BEXI|1
+if [determiner] _X0 [noun] _X1 [verb] have [noun] _X3|create_class_attribut _X1 _X3|a book has pages|BEXI|1
+#
+####################################delete_class_attribut####################################
+if [verb] delete;remove;drop [noun] _X1 [noun] _X2 [noun] attribute|delete_class_attribut _X2 _X1|delete author name attribute|BEXI|1
+#
+####################################create_class_link####################################
+if [determiner] _X0 [noun] _X1 [verb] _X2 [noun] _X3|create_class_link _X1 _X2 _X3|An author write books|BEXI|1
+#
+####################################delete_class_link####################################
+if [verb] delete;remove;drop [noun] _X1 [verb] _X2 [noun] _X3|delete_class_link _X1 _X2 _X3 |delete author write books|BEXI|1
+#
+####################################delete_class_link####################################
+if [verb] delete;remove;drop [noun] _X1 [verb] _X2 [noun] _X3|delete_class_link _X1 _X2 _X3 |delete author write books|BEXI|1
+#
+####################################create_class_object####################################
+if [verb] create;generate;make [determiner] _X1 [noun] _X2 [any] _X3|create_class_object _X2 _X3|create the author Vernes|BEXI|1
+#

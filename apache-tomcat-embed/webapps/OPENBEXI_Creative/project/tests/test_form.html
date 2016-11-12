@@ -1,0 +1,398 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title></title>
+
+    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=ISO-8859-1">
+    <META name="description" content=>
+    <META name="keywords" content=>
+
+    <link rel="stylesheet" href="css/openbexi.css">
+    <link rel="stylesheet" href="css/timeline.css">
+    <link rel="stylesheet" href="css/openbexi_icon.css">
+
+    <link rel="stylesheet" href="javascript/CodeMirror/lib/codemirror.css">
+    <link rel="stylesheet" href="javascript/CodeMirror/theme/night.css">
+
+    <link rel="stylesheet" href="default" type="text/css" />
+    <link rel="stylesheet" href="" type="text/css" />
+    <link rel="stylesheet" href="" type="text/css" />
+    <link rel="stylesheet" href="" type="text/css" />
+    <link rel="stylesheet" href="" type="text/css" />
+    <link rel="stylesheet" href="template/ob_dojo_editor/default.css" type="text/css" />
+    <link rel="stylesheet" href="template/ob_img/default.css" type="text/css" />
+    <link rel="stylesheet" href="" type="text/css" />
+    <link rel="stylesheet" href="" type="text/css" />
+    <style type="text/css">
+          @import "dojox/grid/resources/Grid.css";
+          @import "dojox/widget/FisheyeList/FisheyeList.css";
+   </style>
+    <style type="text/css">
+        body {
+               background:url('#ffffff');
+               background-color:#ffffff;
+               background-repeat:repeat;
+        }
+        #form0{
+            position: absolute;
+             border: 0.25em solid rgb(221, 221, 221);
+             opacity: 1;
+             width: 754px;
+             height: 379px;
+             z-index: 0;
+             left: 46px;
+             top: 212px;
+             cursor: default;
+             border-top-left-radius: 1em;
+             border-top-right-radius: 1em;
+             border-bottom-right-radius: 1em;
+             border-bottom-left-radius: 1em;
+             background-image: url(project/tests/gif/fading_background_10.png);
+            }
+        #label_dojo1{
+            position: absolute;
+             border: 1px solid black;
+             width: 90px;
+             height: 25px;
+             z-index: 1;
+             cursor: default;
+             opacity: 1;
+             top: 61px;
+             border-bottom-right-radius: 1em;
+             left: 10px;
+             overflow: hidden;
+             background-image: url(project/tests/gif/fading_background_12.png);
+            }
+        #dojo1{
+            position: absolute;
+             border: 1px solid black;
+             opacity: 1;
+             width: 167px;
+             height: 23px;
+             z-index: 2;
+             cursor: default;
+             top: 61px;
+             border-bottom-right-radius: 0em;
+             left: 106px;
+            }
+        #label_dojo2{
+            position: absolute;
+             border: 1px solid black;
+             width: 90px;
+             height: 25px;
+             z-index: 3;
+             cursor: default;
+             opacity: 1;
+             top: 90px;
+             border-bottom-right-radius: 1em;
+             left: 10px;
+             overflow: hidden;
+             background-image: url(project/tests/gif/fading_background_8.png);
+            }
+        #dojo2{
+            position: absolute;
+             border: 1px solid black;
+             width: 165px;
+             height: 23px;
+             z-index: 4;
+             cursor: default;
+             opacity: 1;
+             top: 90px;
+             border-bottom-right-radius: 0em;
+             left: 106px;
+            }
+        #label_dojo3{
+            position: absolute;
+             border: 1px solid black;
+             width: 90px;
+             height: 25px;
+             z-index: 5;
+             cursor: default;
+             opacity: 1;
+             top: 119px;
+             border-bottom-right-radius: 1em;
+             left: 10px;
+             overflow: hidden;
+             background-image: url(project/tests/gif/fading_background_8.png);
+            }
+        #dojo3{
+            position: absolute;
+             border: 1px solid black;
+             width: 167px;
+             height: 23px;
+             z-index: 6;
+             cursor: default;
+             opacity: 1;
+             top: 119px;
+             border-bottom-right-radius: 0em;
+             left: 106px;
+            }
+        #dojo4{
+            position: absolute;
+             border-color: white;
+             opacity: 1;
+             width: 1px;
+             height: 217px;
+             left: 312px;
+             top: 58px;
+             z-index: 7;
+             cursor: default;
+             background-image: url(project/tests/gif/fading_background_8.png);
+            }
+        #label_dojo5{
+            position: absolute;
+             border: 1px solid black;
+             opacity: 1;
+             width: 90px;
+             height: 25px;
+             z-index: 8;
+             cursor: default;
+             top: 298px;
+             border-bottom-right-radius: 1em;
+             left: 10px;
+             overflow: hidden;
+             background-image: url(project/tests/gif/fading_background_8.png);
+            }
+        #dojo5{
+            position: absolute;
+             border: 1px solid black;
+             width: 446px;
+             height: 24px;
+             z-index: 9;
+             cursor: default;
+             opacity: 1;
+             top: 298px;
+             border-bottom-right-radius: 0em;
+             left: 115px;
+            }
+        #label_dojo6{
+            position: absolute;
+             border: 1px solid black;
+             opacity: 1;
+             width: 90px;
+             height: 25px;
+             z-index: 10;
+             cursor: default;
+             top: 348px;
+             border-bottom-right-radius: 1em;
+             left: 10px;
+             overflow: hidden;
+             background-image: url(project/tests/gif/fading_background_8.png);
+            }
+        #dojo6{
+            position: absolute;
+             border-color: white;
+             width: 1px;
+             height: 23px;
+             left: 113px;
+             top: 348px;
+             z-index: 11;
+             cursor: default;
+             opacity: 1;
+             background-image: url(project/tests/gif/fading_background_8.png);
+            }
+        #template_div0{
+            border: 0px solid black;
+             opacity: 1;
+             font-size: 20px;
+             font-family: 'Adobe Poetica';
+             font-style: normal;
+             border-bottom-right-radius: 1em;
+             position: absolute;
+             overflow: hidden;
+             width: 811.830320520585px;
+             height: 179.006535947712px;
+             z-index: 12;
+             left: 1px;
+             top: 1px;
+             cursor: default;
+             box-shadow: rgba(255, 254, 255, 0.592157) 0px 0.3em 0.3em inset, rgba(0, 0, 0, 0.14902) 0px -0.1em 0.3em inset, rgb(204, 133, 0) 0px 0.1em 3px, rgb(153, 99, 0) 0px 0.3em 1px, rgba(0, 0, 0, 0.2) 0px 0.5em 5px;
+             color: black;
+             background-image: url(project/tests/gif/fading_background_12.png);
+            }
+        #template_div1{
+            width: 301.48915621175px;
+             height: 30px;
+             border: 0px solid black;
+             top: 155px;
+             border-bottom-right-radius: 1em;
+             left: 488px;
+             position: absolute;
+             opacity: 0.9;
+             cursor: default;
+             z-index: 13;
+             overflow: hidden;
+             background: transparent;
+            }
+        #template_div2{
+            width: 219px;
+             height: 133px;
+             border: 0px solid white;
+             top: 36px;
+             border-bottom-right-radius: 1em;
+             left: 70px;
+             position: absolute;
+             cursor: default;
+             z-index: 14;
+             visibility: visible;
+             background: transparent;
+            }
+        #fck0{
+            border: 0px solid black;
+             position: absolute;
+             opacity: 1;
+             overflow: hidden;
+             width: 300px;
+             height: 30px;
+             z-index: 19;
+             left: 183px;
+             top: 718px;
+             cursor: default;
+            }
+        #form0_pager{
+            border: 0.25em solid rgb(221, 221, 221);
+             position: absolute;
+             visibility: visible;
+             opacity: 1;
+             width: 754px;
+             height: 23px;
+             z-index: 20;
+             left: 46px;
+             top: 601px;
+             cursor: default;
+             border-top-left-radius: 1em;
+             border-top-right-radius: 1em;
+             border-bottom-right-radius: 1em;
+             border-bottom-left-radius: 1em;
+             background-image: none;
+             background-attachment: scroll;
+             background: white;
+             background-position: 0% 50%;
+            }
+    </style>
+
+    <script type="text/javascript">      var OPENBEXI_PUBLIC_CONTEXT_XML = '<openbexiCreative><classe name="ob_ssh"><object name="connection_0"><attribute name="host" host="Create a new website"/><attribute name="user" user=""/><attribute name="passwd" passwd=""/><attribute name="PublicKey" PublicKey="ssh-dss"/><attribute name="SocketTimeout" SocketTimeout="30000"/><attribute name="connected" connected="false"/></object><object name="connection_1"><attribute name="host" host="host1"/><attribute name="user" user=""/><attribute name="passwd" passwd=""/><attribute name="PublicKey" PublicKey="ssh-dss"/><attribute name="SocketTimeout" SocketTimeout="30000"/><attribute name="connected" connected="false"/></object><object name="connection"><attribute name="count" count="2"/></object></classe><classe name="ob_server"><object name="connection_0"><attribute port="8282" name="port"/><attribute name="url" url="new OPENBEXI server"/><attribute name="user" user=""/><attribute name="password" password=""/><attribute name="path" path=""/><attribute name="protocole" protocole="http"/><attribute name="connected" connected="false"/></object><object name="connection_1"><attribute port="8282" name="port"/><attribute name="url" url="http://localhost:8282/openbexi.do"/><attribute name="user" user=""/><attribute name="password" password=""/><attribute name="path" path=""/><attribute name="protocole" protocole="http"/><attribute name="connected" connected="true"/></object><object name="connection"><attribute name="count" count="2"/></object></classe><classe name="bexicontext"><object name="browser"><attribute name=""/></object><object name="os"><attribute name=""/></object><object name="connection"><attribute name="url" url="http://localhost:8282/openbexi.do"/><attribute name="port" port="80"/><attribute name="asynchron" asynchron="true"/><attribute name="synchron" synchron="false"/><attribute name="post" post="true"/><attribute name="get" get="false"/><attribute name="user" user="root"/><attribute name="passwd" passwd=""/></object><object name="language"><attribute name="en"/></object></classe><classe name="ob_database"><object name="databaseAdmin"><attribute driver="org.hsqldb.jdbcDriver" name="driver"/><attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/bexi_admin"/><attribute name="user" user="sa"/><attribute name="password" password=""/><attribute name="connected" connected="false"/></object><object name="database_0"><attribute driver="org.hsqldb.jdbcDriver" name="driver"/><attribute name="url" url="new database"/><attribute name="user" user="root"/><attribute name="password" password=""/><attribute name="connected" connected="false"/></object><object name="database_1"><attribute driver="org.hsqldb.jdbcDriver" name="driver"/><attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/bexi_en"/><attribute name="user" user="root"/><attribute name="password" password=""/><attribute name="connected" connected="false"/></object><object name="database_2"><attribute driver="org.hsqldb.jdbcDriver" name="driver"/><attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/bexi_fr"/><attribute name="user" user="root"/><attribute name="password" password=""/><attribute name="connected" connected="false"/></object><object name="database"><attribute name="count" count="4"/></object><object name="connection"><attribute name="connected" connected="false"/></object><object name="databaseCurrent"><attribute name="password" password=""/><attribute name="connected" connected="false"/><attribute name="myName" myName="myName3"/><attribute name="url" url="database3"/><attribute name="user" user=""/><attribute name="passwd" passwd=""/><attribute driver="" name="driver"/></object><object name="database_3"><attribute name="myName" myName="test"/><attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/test"/><attribute name="user" user="sa"/><attribute name="passwd" passwd=""/><attribute name="driver" driver="org.hsqldb.jdbcDriver"/></object></classe></openbexiCreative>'</script>
+    <script type="text/javascript">      var OPENBEXI_PRIVATE_CONTEXT_XML = '<?xml version="1.0" encoding="iso-8859-1"?><openbexiCreative>	<classe name="ob_server">		<object name="connection_0">			<attribute name="port" port="8282"/>			<attribute name="url" url="new OPENBEXI server"/>			<attribute name="user" user=""/>			<attribute name="passwd" passwd=""/>			<attribute name="path" path=""/>			<attribute name="protocole" protocole="http"/>			<attribute name="connected" connected="false"/>		</object>		<object name="connection_1">			<attribute name="port" port="8282"/>			<attribute name="url" url="http://localhost:8282/openbexi.do"/>			<attribute name="user" user=""/>			<attribute name="passwd" passwd=""/>			<attribute name="path" path=""/>			<attribute name="protocole" protocole="http"/>			<attribute name="connected" connected="true"/>		</object>		<object name="connection">			<attribute name="count" count="2"/>		</object>	</classe>	<classe name="bexicontext">		<object name="browser">			<attribute name=""/>		</object>		<object name="os">			<attribute name=""/>		</object>		<object name="connection">			<attribute name="url" url="http://localhost:8282/openbexi.do"/>			<attribute name="port" port="80"/>			<attribute name="asynchron" asynchron="true"/>			<attribute name="synchron" synchron="false"/>			<attribute name="post" post="true"/>			<attribute name="get" get="false"/>			<attribute name="user" user="root"/>			<attribute name="passwd" passwd=""/>		</object>		<object name="page_draft">			<attribute name="no_name_draft.html"/></object><object name="language">			<attribute name="en"/></object><object name="ob_navigator"><attribute name="mode" mode="ob_project"/></object><object name="mode">			<attribute name="projects"/></object><object name="project">			<attribute name="tests"/></object><object name="page">			<attribute name="test_form.html"/></object></classe><classe name="ob_ssh">		<object name="connection_0">			<attribute name="website" website="new_FTP_connection"/>			<attribute name="host" host="new_FTP_connection"/>			<attribute name="user" user=""/>			<attribute name="PublicKey" PublicKey="ssh-dss"/>			<attribute name="SocketTimeout" SocketTimeout="30000"/>			<attribute name="connected" connected="false"/>			<attribute name="passwd" passwd=""/>		</object>		<object name="connection">			<attribute name="tests" tests="6"/>			<attribute name="no_name" no_name="4"/>			<attribute name="connected" connected="false"/><attribute name="count" count="4"/><attribute name="number" number="1"/></object><object name="connection_1">			<attribute name="website" website="local"/><attribute name="host" host="127.0.0.1"/><attribute name="user" user="openbexi"/><attribute name="PublicKey" PublicKey="FTP"/><attribute name="SocketTimeout" SocketTimeout="30000"/><attribute name="path" path="/"/><attribute name="passwd" passwd=""/></object><object name="connection_2"><attribute name="website" website="openbexi web site"/><attribute name="host" host="75.131.48.177"/><attribute name="user" user="bexiadmin"/><attribute name="PublicKey" PublicKey="ssh-dss"/><attribute name="SocketTimeout" SocketTimeout="30000"/><attribute name="path" path="../public_html"/><attribute name="passwd" passwd=""/></object><object name="connection_3"><attribute name="website" website="sftp_local"/><attribute name="host" host="127.0.0.1"/><attribute name="user" user="openbexi_secure"/><attribute name="PublicKey" PublicKey="ssh-dss"/><attribute name="SocketTimeout" SocketTimeout="30000"/><attribute name="path" path="/"/><attribute name="passwd" passwd=""/></object></classe><classe name="ob_database">		<object name="databaseAdmin">			<attribute name="driver" driver="org.hsqldb.jdbcDriver"/>			<attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/bexi_admin"/>			<attribute name="user" user="sa"/>			<attribute name="passwd" passwd=""/>			<attribute name="connected" connected="false"/>		</object>		<object name="database_0">			<attribute name="driver" driver="org.hsqldb.jdbcDriver"/>			<attribute name="url" url="new database"/>			<attribute name="user" user="root"/>			<attribute name="passwd" passwd=""/>			<attribute name="connected" connected="false"/>		</object>		<object name="connection">			<attribute name="connected" connected="false"/><attribute name="count" count="4"/><attribute name="number" number="3"/></object><object name="databaseCurrent">			<attribute name="connected" connected="false"/>			<attribute name="myName" myName="test"/><attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/test"/><attribute name="user" user="sa"/><attribute name="passwd" passwd=""/><attribute name="driver" driver="org.hsqldb.jdbcDriver"/></object><object name="database_1">			<attribute name="connected" connected="false"/>			<attribute name="myName" myName="fr"/>			<attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/bexi_fr"/>			<attribute name="user" user="sa"/>			<attribute name="driver" driver="org.hsqldb.jdbcDriver"/>			<attribute name="passwd" passwd=""/></object><object name="database_2">			<attribute name="connected" connected="false"/>			<attribute name="myName" myName="en"/>			<attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/bexi_en"/>			<attribute name="user" user="sa"/>			<attribute name="driver" driver="org.hsqldb.jdbcDriver"/>			<attribute name="passwd" passwd=""/></object><object name="database_3">			<attribute name="connected" connected="false"/>			<attribute name="myName" myName="test"/><attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/test"/><attribute name="user" user="sa"/><attribute name="driver" driver="org.hsqldb.jdbcDriver"/><attribute name="passwd" passwd=""/></object></classe></openbexiCreative>'</script>
+    <script type="text/javascript">      var OPENBEXI_PAGES_DATA_XML = '<openbexiCreative><object name="init"><attribute init="init" name="init"/></object><classe name="fck"><object name="label_dojo0"><attribute name="subtype" subtype="label"/></object><object name="label_dojo4"><attribute name="subtype" subtype="label"/></object><object name="label_dojo1"><attribute name="subtype" subtype="label"/></object><object name="label_dojo2"><attribute name="subtype" subtype="label"/></object><object name="label_dojo3"><attribute name="subtype" subtype="label"/></object><object name="label_dojo5"><attribute name="subtype" subtype="label"/></object><object name="label_dojo6"><attribute name="subtype" subtype="label"/></object><object name="fck0"><attribute name="subtype" subtype="none"/></object><object name="fck1"><attribute name="subtype" subtype="none"/></object></classe><classe name="imgs"/><classe name="url"><object name="form0"><attribute name="table" table="PAINTING"/><attribute attribut="undefined" name="attribut"/><attribute action="Edit" name="action"/><attribute lang="en" name="lang"/></object></classe><classe name="url_0"><object name="form0"><attribute functionName="ob_form_submit" name="functionName"/><attribute name="scriptName" scriptName="js/public/ob_form_submit.js"/><attribute name="protocole" protocole="javascript"/><attribute name="trigger" trigger="onload"/><attribute name="specification" specification="Update a database from a form."/><attribute name="parameterCount" parameterCount="9"/><attribute name="parameterName_0" parameterName_0="widget_id"/><attribute name="parameterType_0" parameterType_0="string"/><attribute name="parameterSpecification0" parameterSpecification0=""/><attribute name="parameterName_1" parameterName_1="widget_type"/><attribute name="parameterType_1" parameterType_1="string"/><attribute name="parameterSpecification1" parameterSpecification1=""/><attribute name="parameterName_2" parameterName_2="query"/><attribute name="parameterType_2" parameterType_2="string"/><attribute name="parameterSpecification2" parameterSpecification2="Please, enter your request - Example: select * from tableName"/><attribute name="parameterName_3" parameterName_3="query_type"/><attribute name="parameterType_3" parameterType_3="string"/><attribute name="parameterSpecification3" parameterSpecification3=""/><attribute name="parameterName_4" parameterName_4="database_driver"/><attribute name="parameterType_4" parameterType_4="string"/><attribute name="parameterSpecification4" parameterSpecification4="Please, enter the database driver"/><attribute name="parameterName_5" parameterName_5="database_url"/><attribute name="parameterType_5" parameterType_5="string"/><attribute name="parameterSpecification5" parameterSpecification5="Please, enter the URL driver"/><attribute name="parameterName_6" parameterName_6="database_user"/><attribute name="parameterType_6" parameterType_6="string"/><attribute name="parameterSpecification6" parameterSpecification6="Database user login"/><attribute name="parameterName_7" parameterName_7="database_passwd"/><attribute name="parameterType_7" parameterType_7="string"/><attribute name="parameterSpecification7" parameterSpecification7="Database password"/><attribute database_passwd="" name="database_passwd"/><attribute name="parameterName_8" parameterName_8="action"/><attribute name="parameterType_8" parameterType_8="string"/><attribute name="parameterSpecification8" parameterSpecification8="action (update/delete/create/submit)"/><attribute action="" name="action"/><attribute message="" name="message"/><attribute name="widget_id" widget_id="form0"/><attribute name="widget_type" widget_type="openbexi_form"/><attribute name="query_type" query_type="sql"/><attribute database_driver="org.hsqldb.jdbcDriver" name="database_driver"/><attribute database_url="jdbc:hsqldb:file:hsqldb/data/test" name="database_url"/><attribute database_user="sa" name="database_user"/><attribute name="query" query="select * from PAINTING"/></object></classe><classe name="database"><object name="PAINTING"><attribute metaData="_ID_PAINTING;NAME;DATE;ARTIST;PICTURE;WIKIPEDIA;CHECKED;" name="metaData"/></object><object name="form0"><attribute name="url" url="jdbc:hsqldb:file:hsqldb/data/test"/><attribute driver="org.hsqldb.jdbcDriver" name="driver"/><attribute name="user" user="sa"/><attribute name="passwd" passwd=""/></object></classe><classe name="urls"><object name="form0"><attribute index="1" name="index"/></object></classe><classe name="url_1"><object name="form0"><attribute functionName="ob_form_submit" name="functionName"/><attribute name="scriptName" scriptName="js/public/ob_form_submit.js"/><attribute name="protocole" protocole="javascript"/><attribute name="trigger" trigger="onload"/><attribute name="specification" specification=""/><attribute name="parameterCount" parameterCount="9"/><attribute name="parameterName_0" parameterName_0="widget_id"/><attribute name="parameterType_0" parameterType_0="string"/><attribute name="widget_id" widget_id="form0"/><attribute name="parameterName_1" parameterName_1="widget_type"/><attribute name="parameterType_1" parameterType_1="string"/><attribute name="widget_type" widget_type="openbexi_form"/><attribute name="parameterName_2" parameterName_2="query"/><attribute name="parameterType_2" parameterType_2="string"/><attribute name="query" query="select * from $table"/><attribute name="parameterName_3" parameterName_3="query_type"/><attribute name="parameterType_3" parameterType_3="string"/><attribute name="query_type" query_type="sql"/><attribute name="parameterName_4" parameterName_4="database_driver"/><attribute name="parameterType_4" parameterType_4="string"/><attribute database_driver="org.hsqldb.jdbcDriver" name="database_driver"/><attribute name="parameterName_5" parameterName_5="database_url"/><attribute name="parameterType_5" parameterType_5="string"/><attribute database_url="jdbc:hsqldb:file:hsqldb/data/test" name="database_url"/><attribute name="parameterName_6" parameterName_6="database_user"/><attribute name="parameterType_6" parameterType_6="string"/><attribute database_user="sa" name="database_user"/><attribute name="parameterName_7" parameterName_7="database_passwd"/><attribute name="parameterType_7" parameterType_7="string"/><attribute database_passwd="" name="database_passwd"/><attribute name="parameterName_8" parameterName_8="action"/><attribute name="parameterType_8" parameterType_8="string"/><attribute action="Edit" name="action"/></object></classe><classe name="ob_ssh"><object name="connection"><attribute name="number" number="0"/></object></classe><classe name="chartflow"><object name="node"><attribute name="count" count="0"/></object></classe><classe name="dijit.form.ValidationTextBox"><object name="trim"><attribute example="true or false" name="example"/></object><object name="required"><attribute example="true or false" name="example"/></object><object name="signed"><attribute example="true or false" name="example"/></object><object name="dojo4"><attribute name="value" value=""/><attribute name="trim" trim="true"/><attribute name="required" required="false"/><attribute name="signed" signed="false"/><attribute invalidMessage="" name="invalidMessage"/><attribute missingMessage="" name="missingMessage"/><attribute name="separator" separator=""/></object></classe><classe name="dijit.form.TextBox"><object name="dojo0"><attribute name="value" value=""/><attribute name="trim" trim="true"/><attribute name="required" required="false"/><attribute name="signed" signed="false"/><attribute invalidMessage="" name="invalidMessage"/><attribute missingMessage="" name="missingMessage"/><attribute name="separator" separator=""/></object><object name="dojo4"><attribute name="value" value=""/><attribute name="trim" trim="true"/><attribute name="required" required="false"/><attribute name="signed" signed="false"/><attribute invalidMessage="" name="invalidMessage"/><attribute missingMessage="" name="missingMessage"/><attribute name="separator" separator=""/></object><object name="dojo6"><attribute name="value" value=""/><attribute name="trim" trim="true"/><attribute name="required" required="false"/><attribute name="signed" signed="false"/><attribute invalidMessage="" name="invalidMessage"/><attribute missingMessage="" name="missingMessage"/><attribute name="separator" separator=""/></object><object name="dojo1"><attribute name="value" value=""/><attribute name="trim" trim="true"/><attribute name="required" required="false"/><attribute name="signed" signed="false"/><attribute invalidMessage="" name="invalidMessage"/><attribute missingMessage="" name="missingMessage"/><attribute name="separator" separator=""/></object><object name="dojo2"><attribute name="value" value=""/><attribute name="trim" trim="true"/><attribute name="required" required="false"/><attribute name="signed" signed="false"/><attribute invalidMessage="" name="invalidMessage"/><attribute missingMessage="" name="missingMessage"/><attribute name="separator" separator=""/></object><object name="dojo3"><attribute name="value" value=""/><attribute name="trim" trim="true"/><attribute name="required" required="false"/><attribute name="signed" signed="false"/><attribute invalidMessage="" name="invalidMessage"/><attribute missingMessage="" name="missingMessage"/><attribute name="separator" separator=""/></object><object name="trim"><attribute example="true or false" name="example"/></object><object name="required"><attribute example="true or false" name="example"/></object><object name="signed"><attribute example="true or false" name="example"/></object><object name="dojo5"><attribute name="value" value=""/><attribute name="trim" trim="true"/><attribute name="required" required="false"/><attribute name="signed" signed="false"/><attribute invalidMessage="" name="invalidMessage"/><attribute missingMessage="" name="missingMessage"/><attribute name="separator" separator=""/></object></classe><classe name="dijit.form.CheckBox"><object name="dojo6"><attribute name="value" value="false"/></object></classe><classe name="img"><object name="template_div2"><attribute id="template_div2_img" name="id"/><attribute caption="" name="caption"/><attribute name="selected" selected="false"/><attribute base64="false" name="base64"/></object><object name="lefttopdiv"><attribute id="lefttop" name="id"/><attribute caption="" name="caption"/><attribute name="selected" selected="false"/><attribute base64="false" name="base64"/></object><object name="righttopdiv"><attribute id="righttop" name="id"/><attribute caption="" name="caption"/><attribute name="selected" selected="false"/><attribute base64="false" name="base64"/></object><object name="rightbottomdiv"><attribute id="rightbottom" name="id"/><attribute caption="" name="caption"/><attribute name="selected" selected="false"/><attribute base64="false" name="base64"/></object><object name="leftbottomdiv"><attribute id="leftbottom" name="id"/><attribute caption="" name="caption"/><attribute name="selected" selected="false"/><attribute base64="false" name="base64"/></object></classe><classe name="DOJOeditor"><object name="label_dojo0"><attribute name="subtype" subtype="label"/></object><object name="label_dojo4"><attribute name="subtype" subtype="label"/></object><object name="label_dojo1"><attribute name="subtype" subtype="label"/></object><object name="label_dojo2"><attribute name="subtype" subtype="label"/></object><object name="label_dojo3"><attribute name="subtype" subtype="label"/></object><object name="label_dojo5"><attribute name="subtype" subtype="label"/></object><object name="label_dojo6"><attribute name="subtype" subtype="label"/></object><object name="template_div0"><attribute name="subtype" subtype=""/></object><object name="template_div1"><attribute name="subtype" subtype=""/></object><object name="fck0"><attribute name="subtype" subtype=""/></object></classe><classe name="page"><object name="img"><attribute file_0="project/tests/gif/fading_background_17.png" name="file_0"/><attribute file_1="gif/no-photo.jpg" name="file_1"/><attribute file_2="project/tests//gif/bexi.png" name="file_2"/><attribute file_3="project/tests//gif/fading_background_15.png" name="file_3"/><attribute file_4="project/tests//gif/fading_background_14.png" name="file_4"/><attribute file_5="project/tests//gif/fading_background_10.png" name="file_5"/><attribute file_6="project/tests//gif/fading_background_20.png" name="file_6"/><attribute file_7="project/tests//gif/fading_background_19.png" name="file_7"/><attribute file_8="project/tests//gif/fading_background_13_50x1200.png" name="file_8"/><attribute file_9="project/tests/gif/" name="file_9"/><attribute file_10="project/tests//gif/fading_background_8.png" name="file_10"/><attribute file_11="project/tests//gif/fading_background_12.png" name="file_11"/><attribute file_12="project/tests//gif/fading_background_17.png" name="file_12"/><attribute file_13="project/tests//gif/fading_background_17 - Copy.png" name="file_13"/><attribute file_14="project/tests//gif/fading_background_16.png" name="file_14"/></object><object name="form0_pager"><attribute name="type" type="openbexi_div"/><attribute name="subtype" subtype="undefined"/><attribute name="parentId" parentId="BODY"/><attribute name="parentType" parentType="undefined"/><attribute cursor="undefined" name="cursor"/><attribute background="project/tests/gif/fading_background_10.png" name="background"/></object><object name=""><attribute listStyleImage="" name="listStyleImage"/></object><object name="ob_menu_widget"><attribute name="type" type="openbexi_div"/><attribute name="subtype" subtype="undefined"/><attribute name="parentId" parentId="BODY"/><attribute name="parentType" parentType="undefined"/><attribute cursor="undefined" name="cursor"/></object><object name="ob_menu_PictureBrowser"><attribute name="type" type="openbexi_div"/><attribute name="subtype" subtype="undefined"/><attribute name="parentId" parentId="BODY"/><attribute name="parentType" parentType="undefined"/><attribute cursor="undefined" name="cursor"/></object><object name="javascript"><attribute file_0="js/public/ob_form_submit.js" name="file_0"/><attribute file_1="javascript/openbexi_xml.js" name="file_1"/><attribute file_2="project/tests/gif/" name="file_2"/><attribute file_3="javascript/openbexi_json.js" name="file_3"/><attribute file_4="javascript/openbexi_DOJO_editor.js" name="file_4"/><attribute file_5="js/public/ob_form_submit.js" name="file_5"/><attribute file_6="javascript/prototype.js" name="file_6"/><attribute file_7="javascript/scriptaculous.js" name="file_7"/><attribute file_8="javascript/effects.js" name="file_8"/><attribute file_9="javascript/slider.js" name="file_9"/></object><object name="fade"><attribute name="status" status="false"/></object><object name="body"><attribute image="" name="image"/><attribute bgColor="#ffffff" name="bgColor"/><attribute name="backgroundImage" backgroundImage=""/><attribute background="#ffffff" name="background"/><attribute backgroundRepeat="repeat" name="backgroundRepeat"/></object><object name="css"><attribute default="template/ob_img/default.css" name="default"/></object><object name="dir"><attribute file_0="template/ob_DOJO_editor/gif/*" name="file_0"/><attribute name="file_1" file_1="template/ob_dojo_editor/none/gif/*"/><attribute name="file_2" file_2="template/ob_img/none/gif/*"/></object><object name="version"><attribute code="5.0 Beta" name="code"/></object><object name="form0"><attribute csv_file="" name="csv_file"/><attribute name="sql_table" sql_table="PAINTING"/><attribute name="sql_request" sql_request="select * from PAINTING"/><attribute background="project/tests/gif/fading_background_10.png" name="background"/><attribute name="obzindex" obzindex="4"/><attribute name="type" type="openbexi_form"/><attribute name="subtype" subtype="undefined"/><attribute name="parentId" parentId="BODY"/><attribute name="parentType" parentType="openbexi_body"/><attribute fieldsetText="undefined" name="fieldsetText"/><attribute messageText="undefined" name="messageText"/></object><object name="label_dojo1"><attribute name="subtype" subtype="undefined"/><attribute background="project/tests/gif/fading_background_12.png" name="background"/><attribute name="subtheme" subtheme=""/><attribute name="obzindex" obzindex="14"/><attribute name="type" type="openbexi_DOJO_editor"/><attribute name="parentId" parentId="form0"/><attribute name="parentType" parentType="undefined"/><attribute cursor="undefined" name="cursor"/><attribute name="rss" rss=""/><attribute name="theme" theme="template/ob_dojo_editor/default.css"/><attribute name="template" template="template/ob_dojo_editor/default.css"/></object><object name="dojo1"><attribute cursor="undefined" name="cursor"/><attribute name="obzindex" obzindex="15"/><attribute name="theme" theme="default"/><attribute name="template" template="default"/><attribute name="type" type="openbexi_dojo"/><attribute name="parentId" parentId="form0"/><attribute name="parentType" parentType="openbexi_form"/><attribute divname="PAINTING.NAME" name="divname"/><attribute name="subtype" subtype="dijit.form.TextBox"/><attribute name="subsubtype" subsubtype="TextBox"/></object><object name="label_dojo2"><attribute name="subtype" subtype="undefined"/><attribute name="subtheme" subtheme=""/><attribute name="obzindex" obzindex="16"/><attribute name="type" type="openbexi_DOJO_editor"/><attribute name="parentId" parentId="form0"/><attribute name="parentType" parentType="undefined"/><attribute cursor="undefined" name="cursor"/><attribute name="rss" rss=""/><attribute name="theme" theme="dijit/themes/default/default.css"/><attribute name="template" template="template/ob_dojo_editor/default.css"/></object><object name="dojo2"><attribute cursor="undefined" name="cursor"/><attribute name="obzindex" obzindex="17"/><attribute name="theme" theme="default"/><attribute name="template" template="default"/><attribute name="type" type="openbexi_dojo"/><attribute name="parentId" parentId="form0"/><attribute name="parentType" parentType="openbexi_form"/><attribute divname="PAINTING.DATE" name="divname"/><attribute name="subtype" subtype="dijit.form.TextBox"/><attribute name="subsubtype" subsubtype="TextBox"/></object><object name="label_dojo3"><attribute name="subtype" subtype="undefined"/><attribute name="subtheme" subtheme=""/><attribute name="obzindex" obzindex="18"/><attribute name="type" type="openbexi_DOJO_editor"/><attribute name="parentId" parentId="form0"/><attribute name="parentType" parentType="undefined"/><attribute cursor="undefined" name="cursor"/><attribute name="rss" rss=""/><attribute name="theme" theme="dijit/themes/default/default.css"/><attribute name="template" template="template/ob_dojo_editor/default.css"/></object><object name="dojo3"><attribute cursor="undefined" name="cursor"/><attribute name="obzindex" obzindex="19"/><attribute name="theme" theme="default"/><attribute name="template" template="default"/><attribute name="type" type="openbexi_dojo"/><attribute name="parentId" parentId="form0"/><attribute name="parentType" parentType="openbexi_form"/><attribute divname="PAINTING.ARTIST" name="divname"/><attribute name="subtype" subtype="dijit.form.TextBox"/><attribute name="subsubtype" subsubtype="TextBox"/></object><object name="dijit.form.ValidationTextBox"><attribute name="template" template="default"/></object><object name="dojo4"><attribute cursor="undefined" name="cursor"/><attribute name="obzindex" obzindex="20"/><attribute name="theme" theme="default"/><attribute name="template" template="default"/><attribute name="type" type="openbexi_dojo"/><attribute name="parentId" parentId="form0"/><attribute name="parentType" parentType="openbexi_form"/><attribute divname="PAINTING.PICTURE" name="divname"/><attribute name="subtype" subtype="dijit.form.ValidationTextBox"/><attribute name="subsubtype" subsubtype="Image"/></object><object name="label_dojo5"><attribute name="subtype" subtype="undefined"/><attribute name="subtheme" subtheme=""/><attribute name="obzindex" obzindex="21"/><attribute name="type" type="openbexi_DOJO_editor"/><attribute name="parentId" parentId="form0"/><attribute name="parentType" parentType="undefined"/><attribute cursor="undefined" name="cursor"/><attribute name="rss" rss=""/><attribute name="theme" theme="dijit/themes/default/default.css"/><attribute name="template" template="template/ob_dojo_editor/default.css"/></object><object name="dijit.form.TextBox"><attribute name="template" template="default"/></object><object name="dojo5"><attribute cursor="undefined" name="cursor"/><attribute name="obzindex" obzindex="22"/><attribute name="theme" theme="default"/><attribute name="template" template="default"/><attribute name="type" type="openbexi_dojo"/><attribute name="parentId" parentId="form0"/><attribute name="parentType" parentType="openbexi_form"/><attribute divname="PAINTING.WIKIPEDIA" name="divname"/><attribute name="subtype" subtype="dijit.form.TextBox"/><attribute name="subsubtype" subsubtype="TextBox"/></object><object name="label_dojo6"><attribute name="subtype" subtype="undefined"/><attribute name="subtheme" subtheme=""/><attribute name="obzindex" obzindex="23"/><attribute name="type" type="openbexi_DOJO_editor"/><attribute name="parentId" parentId="form0"/><attribute name="parentType" parentType="undefined"/><attribute cursor="undefined" name="cursor"/><attribute name="rss" rss=""/><attribute name="theme" theme="dijit/themes/default/default.css"/><attribute name="template" template="template/ob_dojo_editor/default.css"/></object><object name="dijit.form.CheckBox"><attribute name="template" template="default"/></object><object name="dojo6"><attribute cursor="undefined" name="cursor"/><attribute name="obzindex" obzindex="24"/><attribute name="theme" theme="default"/><attribute name="template" template="default"/><attribute name="type" type="openbexi_dojo"/><attribute name="parentId" parentId="form0"/><attribute name="parentType" parentType="openbexi_form"/><attribute divname="PAINTING.CHECKED" name="divname"/><attribute name="subtype" subtype="dijit.form.CheckBox"/><attribute name="subsubtype" subsubtype="CheckBox"/></object><object name="template_div0"><attribute name="obzindex" obzindex="0"/><attribute name="subtheme" subtheme="none"/><attribute name="type" type="openbexi_dojo_editor"/><attribute name="parentId" parentId="BODY"/><attribute name="parentType" parentType="undefined"/><attribute cursor="undefined" name="cursor"/><attribute name="rss" rss=""/><attribute name="theme" theme="default"/><attribute name="template" template="template/ob_dojo_editor/default.css"/></object><object name="template_div1"><attribute name="obzindex" obzindex="1"/><attribute name="subtheme" subtheme="none"/><attribute name="type" type="openbexi_dojo_editor"/><attribute name="parentId" parentId="BODY"/><attribute name="parentType" parentType="undefined"/><attribute cursor="undefined" name="cursor"/><attribute name="rss" rss=""/><attribute name="theme" theme="default"/><attribute name="template" template="template/ob_dojo_editor/default.css"/></object><object name="template_div2"><attribute name="obzindex" obzindex="2"/><attribute name="theme" theme="default"/><attribute name="subtheme" subtheme="none"/><attribute name="template" template="template/ob_img/default.css"/></object><object name="lefttopdiv"><attribute file="" name="file"/><attribute name="theme" theme="default"/><attribute name="subtheme" subtheme="none"/><attribute name="template" template="template/ob_img/default.css"/></object><object name="righttopdiv"><attribute file="" name="file"/><attribute name="theme" theme="default"/><attribute name="subtheme" subtheme="none"/><attribute name="template" template="template/ob_img/default.css"/></object><object name="rightbottomdiv"><attribute file="" name="file"/><attribute name="theme" theme="default"/><attribute name="subtheme" subtheme="none"/><attribute name="template" template="template/ob_img/default.css"/></object><object name="leftbottomdiv"><attribute file="" name="file"/><attribute name="theme" theme="default"/><attribute name="subtheme" subtheme="none"/><attribute name="template" template="template/ob_img/default.css"/></object><object name="fck0"><attribute name="subtype" subtype="undefined"/><attribute name="obzindex" obzindex="0"/><attribute name="type" type="openbexi_DOJO_editor"/><attribute name="parentId" parentId="BODY"/><attribute name="parentType" parentType="undefined"/><attribute cursor="undefined" name="cursor"/><attribute name="rss" rss=""/><attribute name="theme" theme="template/project/tests/gif//default"/><attribute name="template" template="template/ob_dojo_editor/default.css"/></object></classe></openbexiCreative>'</script>
+
+    <script type="text/javascript" src="javascript/jquery/jquery.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="javascript/jquery/jQueryRotate.js"></script>
+    <script type="text/javascript"> var $ob_jquery = jQuery.noConflict();</script>
+    <script type="text/javascript">var djConfig = {isDebug: false, parseOnLoad: true, extraLocale: ['en - us']};</script>
+    <script type="text/javascript" src="dojo/dojo.js"></script>
+    <script type="text/javascript" src="dijit/dijit.js"></script>
+    <script type="text/javascript" src="dijit/_Calendar.js"></script>
+    <script type="text/javascript" src="javascript/openbexi_LN.js"></script>
+    <script type="text/javascript" src="javascript/openbexi_navigator.js"></script>
+    <script type="text/javascript" src="javascript/openbexi_pager.js"></script>
+    <script type="text/javascript">          dojo.require("dijit.form.TextBox");          dojo.require("dijit.form.ComboBox");          dojo.require("dijit.form.CheckBox");          dojo.require("dijit.form.ValidationTextBox");          dojo.require("dijit.form.NumberTextBox");          dojo.require("dijit.form.CurrencyTextBox");          dojo.require("dijit.form.DateTextBox");          dojo.require("dojo.currency");          dojo.require("dojo.data.ItemFileReadStore");          dojo.require("dojo.data.ItemFileWriteStore");          dojo.require("dijit.Tree");          dojo.require("dojox.grid.EnhancedGrid");          dojo.require("dojox.data.CsvStore");          dojo.require("dojox.widget.FisheyeList");          dojo.require("dojo.date.locale");          dojo.require("dojo.parser");   </script>
+    <script type="text/javascript"> dojo.addOnLoad(function() {ob_form_submit('form0', 'openbexi_form', 'select * from PAINTING', 'sql', 'org.hsqldb.jdbcDriver', 'jdbc:hsqldb:file:hsqldb/data/test', 'sa', '', '');}); </script>
+    <script type="text/javascript" src="js/public/ob_form_submit.js"></script>
+    <script type="text/javascript" src="javascript/openbexi_xml.js"></script>
+    <script type="text/javascript" src="project/tests/gif/"></script>
+    <script type="text/javascript" src="javascript/openbexi_json.js"></script>
+    <script type="text/javascript" src="javascript/openbexi_DOJO_editor.js"></script>
+    <script type="text/javascript" src="js/public/ob_form_submit.js"></script>
+    <script type="text/javascript" src="javascript/prototype.js"></script>
+    <script type="text/javascript" src="javascript/scriptaculous.js"></script>
+    <script type="text/javascript" src="javascript/effects.js"></script>
+    <script type="text/javascript" src="javascript/slider.js"></script>
+    <script type="text/javascript" src="javascript/openbexi_dojo_editor.js"></script>
+<script type="text/javascript" src="javascript/prototype.js"></script><script type="text/javascript" src="javascript/scriptaculous.js"></script><script type="text/javascript" src="javascript/effects.js"></script><script type="text/javascript" src="javascript/slider.js"></script><script type="text/javascript" src="javascript/openbexi_xml.js"></script>
+</head>
+
+<body class="claro" style="background:#ffffff;" onload="ob_form_submit('form0', 'openbexi_form', 'select * from PAINTING', 'sql', 'org.hsqldb.jdbcDriver', 'jdbc:hsqldb:file:hsqldb/data/test', 'sa', '', '');ob_form_submit('form0', 'openbexi_form', 'select * from $table', 'sql', 'org.hsqldb.jdbcDriver', 'jdbc:hsqldb:file:hsqldb/data/test', 'sa', '', 'Edit');" onunload=""> 
+ <div classe="DIV_FORM" id="form0" ob_template="false" obzindex="0" creation_date="null" style="position: absolute; border: 0.25em solid rgb(221, 221, 221); opacity: 1; width: 754px; height: 379px; z-index: 0; left: 46px; top: 212px; cursor: default; border-top-left-radius: 1em; border-top-right-radius: 1em; border-bottom-right-radius: 1em; border-bottom-left-radius: 1em; background-image: url(project/tests/gif/fading_background_10.png);"> 
+  <div class="ob_dojo_editor_template/ob_dojo_editor/default.css" classe="DIV_DOJOTEXTAREA" id="label_dojo1" ob_template="true" obzindex="1" creation_date="null" style="position: absolute; border: 1px solid black; width: 90px; height: 25px; z-index: 1; cursor: default; opacity: 1; top: 61px; border-bottom-right-radius: 1em; left: 10px; overflow: hidden; background-image: url(project/tests/gif/fading_background_12.png);"> 
+  </div> 
+  <div classe="DIV_DOJO" name="PAINTING.NAME" id="dojo1" ob_template="undefined" creation_date="null" style="position: absolute; border: 1px solid black; opacity: 1; width: 167px; height: 23px; z-index: 2; cursor: default; top: 61px; border-bottom-right-radius: 0em; left: 106px;"> 
+   <input id="text_dojo1" name="PAINTING.NAME" type="text" dojotype="dijit.form.TextBox" creation_date="null" lowercase="true" style="width:100%;height:100%; background:" value="" trim="true" required="false" signed="false" invalidmessage="" missingmessage="" separator="" /> 
+  </div> 
+  <div class="ob_dojo_editor_dijit/themes/default/default.css" classe="DIV_DOJOTEXTAREA" id="label_dojo2" ob_template="true" obzindex="3" creation_date="null" style="position: absolute; border: 1px solid black; width: 90px; height: 25px; z-index: 3; cursor: default; opacity: 1; top: 90px; border-bottom-right-radius: 1em; left: 10px; overflow: hidden; background-image: url(project/tests/gif/fading_background_8.png);"> 
+  </div> 
+  <div classe="DIV_DOJO" name="PAINTING.DATE" id="dojo2" ob_template="undefined" creation_date="null" style="position: absolute; border: 1px solid black; width: 165px; height: 23px; z-index: 4; cursor: default; opacity: 1; top: 90px; border-bottom-right-radius: 0em; left: 106px;"> 
+   <input id="text_dojo2" name="PAINTING.DATE" type="text" dojotype="dijit.form.TextBox" creation_date="null" lowercase="true" style="width:100%;height:100%; background:" value="" trim="true" required="false" signed="false" invalidmessage="" missingmessage="" separator="" /> 
+  </div> 
+  <div class="ob_dojo_editor_dijit/themes/default/default.css" classe="DIV_DOJOTEXTAREA" id="label_dojo3" ob_template="true" obzindex="5" creation_date="null" style="position: absolute; border: 1px solid black; width: 90px; height: 25px; z-index: 5; cursor: default; opacity: 1; top: 119px; border-bottom-right-radius: 1em; left: 10px; overflow: hidden; background-image: url(project/tests/gif/fading_background_8.png);"> 
+  </div> 
+  <div classe="DIV_DOJO" name="PAINTING.ARTIST" id="dojo3" ob_template="undefined" creation_date="null" style="position: absolute; border: 1px solid black; width: 167px; height: 23px; z-index: 6; cursor: default; opacity: 1; top: 119px; border-bottom-right-radius: 0em; left: 106px;"> 
+   <input id="text_dojo3" name="PAINTING.ARTIST" type="text" dojotype="dijit.form.TextBox" creation_date="null" lowercase="true" style="width:100%;height:100%; background:" value="" trim="true" required="false" signed="false" invalidmessage="" missingmessage="" separator="" /> 
+  </div> 
+  <div classe="DIV_DOJO" name="PAINTING.PICTURE" id="dojo4" ob_template="undefined" creation_date="null" style="position: absolute; border-color: white; opacity: 1; width: 1px; height: 217px; left: 312px; top: 58px; z-index: 7; cursor: default; background-image: url(project/tests/gif/fading_background_8.png);"> 
+   <input id="dojo_dojo4" type="image" name="PAINTING.PICTURE" src="gif/no-photo.jpg" value="NO" style="height:100%;width:100%;" class="default" /> 
+  </div> 
+  <div class="ob_dojo_editor_dijit/themes/default/default.css" classe="DIV_DOJOTEXTAREA" id="label_dojo5" ob_template="true" obzindex="8" creation_date="null" style="position: absolute; border: 1px solid black; opacity: 1; width: 90px; height: 25px; z-index: 8; cursor: default; top: 298px; border-bottom-right-radius: 1em; left: 10px; overflow: hidden; background-image: url(project/tests/gif/fading_background_8.png);"> 
+  </div> 
+  <div classe="DIV_DOJO" name="PAINTING.WIKIPEDIA" id="dojo5" ob_template="undefined" creation_date="null" style="position: absolute; border: 1px solid black; width: 446px; height: 24px; z-index: 9; cursor: default; opacity: 1; top: 298px; border-bottom-right-radius: 0em; left: 115px;"> 
+   <input id="text_dojo5" name="PAINTING.WIKIPEDIA" type="text" dojotype="dijit.form.TextBox" creation_date="null" lowercase="true" style="width:100%;height:100%; background:" value="" trim="true" required="false" signed="false" invalidmessage="" missingmessage="" separator="" /> 
+  </div> 
+  <div class="ob_dojo_editor_dijit/themes/default/default.css" classe="DIV_DOJOTEXTAREA" id="label_dojo6" ob_template="true" obzindex="10" creation_date="null" style="position: absolute; border: 1px solid black; opacity: 1; width: 90px; height: 25px; z-index: 10; cursor: default; top: 348px; border-bottom-right-radius: 1em; left: 10px; overflow: hidden; background-image: url(project/tests/gif/fading_background_8.png);"> 
+  </div> 
+  <div classe="DIV_DOJO" name="PAINTING.CHECKED" id="dojo6" ob_template="undefined" creation_date="null" style="position: absolute; border-color: white; width: 1px; height: 23px; left: 113px; top: 348px; z-index: 11; cursor: default; opacity: 1; background-image: url(project/tests/gif/fading_background_8.png);"> 
+   <input id="text_dojo6" name="PAINTING.CHECKED" type="checkbox" style=" background:url(http://localhost:8080/OPENBEXI_Creative/project/tests/gif/fading_background_8.png)" value="false" /> 
+  </div> 
+ </div> 
+ <div class="ob_dojo_editor_default" classe="DIV_DOJOTEXTAREA" id="template_div0" ob_template="true" obzindex="12" creation_date="null" style="border: 0px solid black; opacity: 1; font-size: 20px; font-family: 'Adobe Poetica'; font-style: normal; border-bottom-right-radius: 1em; position: absolute; overflow: hidden; width: 811.830320520585px; height: 179.006535947712px; z-index: 12; left: 1px; top: 1px; cursor: default; box-shadow: rgba(255, 254, 255, 0.592157) 0px 0.3em 0.3em inset, rgba(0, 0, 0, 0.14902) 0px -0.1em 0.3em inset, rgb(204, 133, 0) 0px 0.1em 3px, rgb(153, 99, 0) 0px 0.3em 1px, rgba(0, 0, 0, 0.2) 0px 0.5em 5px; color: black; background-image: url(project/tests/gif/fading_background_12.png);"> 
+  <div ob_template="true" style="text-align: right;"> 
+   <b ob_template="true"><br ob_template="true" /></b> 
+  </div> 
+  <div ob_template="true" style="text-align: right;"> 
+   <b ob_template="true"><br ob_template="true" /></b> 
+  </div> 
+  <div ob_template="true" style="text-align: right;"> 
+   <b ob_template="true"><br ob_template="true" /></b> 
+  </div> 
+  <blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"> 
+   <blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"> 
+    <blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"> 
+     <blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"> 
+      <blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"> 
+       <blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"> 
+        <div ob_template="true" style="text-align: center;"> 
+         <b ob_template="true">Write or copy and paste your text here!</b> 
+        </div> 
+       </blockquote> 
+      </blockquote> 
+     </blockquote> 
+    </blockquote> 
+   </blockquote> 
+  </blockquote> 
+ </div> 
+ <div class="ob_dojo_editor_default" classe="DIV_DOJOTEXTAREA" id="template_div1" ob_template="true" obzindex="13" creation_date="null" style="width: 301.48915621175px; height: 30px; border: 0px solid black; top: 155px; border-bottom-right-radius: 1em; left: 488px; position: absolute; opacity: 0.9; cursor: default; z-index: 13; overflow: hidden; background: transparent;"> 
+  <div style="text-align: center;" ob_template="true">
+    &copy; 2013. OpenBEXI. All Rights Reserved 
+  </div> 
+ </div> 
+ <div class="ob_img_default" classe="DIV_IMG" id="template_div2" ob_template="true" obzindex="14" creation_date="null" style="width: 219px; height: 133px; border: 0px solid white; top: 36px; border-bottom-right-radius: 1em; left: 70px; position: absolute; cursor: default; z-index: 14; visibility: visible; background: transparent;"> 
+  <img id="template_div2_img" classe="IMG" src="http://localhost:8080/OPENBEXI_Creative/project/tests/gif/bexi.png" class="ob_image" style="width: 100%; height: 100%;" ob_template="true" title="" /> 
+ </div> 
+ <div class="template/project/tests/gif//default" classe="DIV_DOJOTEXTAREA" id="fck0" ob_template="false" obzindex="19" creation_date="null" style="border: 0px solid black; position: absolute; opacity: 1; overflow: hidden; width: 300px; height: 30px; z-index: 19; left: 183px; top: 718px; cursor: default;">
+   Copyright 2012. Open BEXI. All Rights Reserved 
+ </div> 
+ <div classe="DIV_PAGER" id="form0_pager" ob_template="false" obzindex="20" creation_date="null" style="border: 0.25em solid rgb(221, 221, 221); position: absolute; visibility: visible; opacity: 1; width: 754px; height: 23px; z-index: 20; left: 46px; top: 601px; cursor: default; border-top-left-radius: 1em; border-top-right-radius: 1em; border-bottom-right-radius: 1em; border-bottom-left-radius: 1em; background-image: none; background-attachment: scroll; background: white; background-position: 0% 50%;"> 
+  <div title="Begin" style="background: transparent; background-image: url(&quot;gif/Bprevious_small.jpg&quot;); background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; position: absolute; cursor: pointer; visibility: visible; top: 0px; left: 2px; width: 25px; height: 23px; -moz-background-inline-policy: -moz-initial;" id="form0_pagerPreviousDivBegin" align="center" ob_template="false"></div> 
+  <div title="Previous" style="background-color: transparent; background-image: url(&quot;gif/previous_small.jpg&quot;); background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; position: absolute; cursor: pointer; visibility: visible; top: 0px; left: 29px; width: 25px; height: 23px; -moz-background-inline-policy: -moz-initial;" id="form0_pagerPreviousDiv" align="center" ob_template="false"></div> 
+  <div style="background-color: white; background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; position: absolute; cursor: pointer; width: 15px; top: 0px; left: 56px; height: 23px; -moz-background-inline-policy: -moz-initial; visibility: visible;" id="form0_pagerNextDiv0" align="center" ob_template="false">
+    0 
+  </div> 
+  <div style="background-color: white; background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; position: absolute; cursor: pointer; width: 15px; top: 0px; left: 73px; height: 23px; -moz-background-inline-policy: -moz-initial; visibility: visible;" id="form0_pagerNextDiv1" align="center">
+    1 
+  </div> 
+  <div style="background-color: white; background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; position: absolute; cursor: pointer; width: 15px; top: 0px; left: 90px; height: 23px; -moz-background-inline-policy: -moz-initial; visibility: visible;" id="form0_pagerNextDiv2" align="center">
+    2 
+  </div> 
+  <div style="background-color: white; background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; position: absolute; cursor: pointer; width: 15px; top: 0px; left: 107px; height: 23px; -moz-background-inline-policy: -moz-initial; visibility: visible;" id="form0_pagerNextDiv3" align="center">
+    3 
+  </div> 
+  <div style="background-color: white; background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; position: absolute; cursor: pointer; width: 15px; top: 0px; left: 124px; height: 23px; -moz-background-inline-policy: -moz-initial; visibility: visible;" id="form0_pagerNextDiv4" align="center">
+    4 
+  </div> 
+  <div style="background-color: white; background-image: none; background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; position: absolute; cursor: pointer; width: 15px; top: 0px; left: 141px; height: 23px; -moz-background-inline-policy: -moz-initial; visibility: visible;" id="form0_pagerNextDiv5" align="center">
+    5 
+  </div> 
+  <div title="End" style="background-color: transparent; background-image: url(&quot;gif/next_small.jpg&quot;); background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; position: absolute; cursor: pointer; visibility: visible; width: 25px; top: 0px; left: 158px; height: 23px; -moz-background-inline-policy: -moz-initial;" id="form0_pagerNextDiv" align="center"></div> 
+  <div style="background-color: transparent; background-image: url(&quot;gif/Enext_small.jpg&quot;); background-repeat: repeat; background-attachment: scroll; background-position: 0% 50%; position: absolute; cursor: pointer; visibility: visible; top: 0px; left: 185px; width: 25px; height: 23px; -moz-background-inline-policy: -moz-initial;" id="form0_pagerNextDivEnd" align="center"></div> 
+ </div> 
+</body></html>
+

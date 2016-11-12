@@ -1,0 +1,142 @@
+XXXX	XXXX	proper noun
+XXXX	XXXX	adjective
+x	x	letter
+x	x	adjective
+x	x	proper noun
+xylophone	xylophone	noun
+X-ray	X-ray	noun
+X-ray	X-ray	verb:simple_present+transitive
+X-rays	X-ray	verb:simple_present+transitive
+X-rayed	X-ray	verb:simple_past+transitive
+X-rayed	X-ray	verb:past_participle+transitive
+X-raying	X-ray	verb:present_participle+transitive
+X-ray	X-ray	adjective
+xerox	xerox	noun
+xerox	xerox	verb:simple_present+
+xeroxs	xerox	verb:simple_present+
+???	xerox	verb:simple_past+
+???	xerox	verb:past_participle+
+???	xerox	verb:present_participle+
+x-axis	x-axis	noun
+XXX	XXX	adjective
+xenon	xenon	noun
+Xe	Xe	proper noun
+xenophobe	xenophobe	noun
+Xhosa	Xhosa	proper noun
+xor	xor	noun
+xylograph	xylograph	noun
+xylographer	xylographer	noun
+xylography	xylography	noun
+xylographic	xylographic	adjective
+xylographical	xylographical	adjective
+xylose	xylose	noun
+xenophobia	xenophobia	noun
+xenophobic	xenophobic	adjective
+xavier	xavier	proper noun
+xanthippe	xanthippe	noun
+xyster	xyster	noun
+xylograf	xylograf	noun
+xanadu	xanadu	proper noun
+xylem	xylem	noun
+xylene	xylene	noun
+xenotransplantation	xenotransplantation	noun
+Xena	Xena	proper noun
+xebec	xebec	noun
+xebecs	xebec	noun:plural
+xenophile	xenophile	noun
+xylyl	xylyl	noun
+X-rated	X-rated	adjective
+xenobiotic	xenobiotic	adjective
+xiphoid	xiphoid	adjective
+xanthous	xanthous	adjective
+xigua	xigua	noun
+xenophanes	xenophanes	proper noun
+xenophilia	xenophilia	noun
+xerography	xerography	noun
+xerograph	xerograph	noun
+xerographic	xerographic	adjective
+xylitol	xylitol	noun
+xanthophobia	xanthophobia	noun
+xenogamy	xenogamy	noun
+xpist	xpist	noun
+xeecoj	xeecoj	noun
+xiphopagus	xiphopagus	noun
+xian	xian	noun
+xian	xian	adjective
+xianity	xianity	noun
+xenocide	xenocide	noun
+xanthosis	xanthosis	noun
+xanthic	xanthic	adjective
+xu	xu	noun
+xarit	xarit	noun
+XXXX	XXXX	proper noun
+XXXX	XXXX	adjective
+x	x	letter
+x	x	adjective
+x	x	proper noun
+xylophone	xylophone	noun
+X-ray	X-ray	noun
+X-ray	X-ray	verb:simple_present+transitive
+X-rays	X-ray	verb:simple_present+transitive
+X-rayed	X-ray	verb:simple_past+transitive
+X-rayed	X-ray	verb:past_participle+transitive
+X-raying	X-ray	verb:present_participle+transitive
+X-ray	X-ray	adjective
+xerox	xerox	noun
+xerox	xerox	verb:simple_present+
+xeroxs	xerox	verb:simple_present+
+???	xerox	verb:simple_past+
+???	xerox	verb:past_participle+
+???	xerox	verb:present_participle+
+x-axis	x-axis	noun
+XXX	XXX	adjective
+xenon	xenon	noun
+Xe	Xe	proper noun
+xenophobe	xenophobe	noun
+Xhosa	Xhosa	proper noun
+xor	xor	noun
+xylograph	xylograph	noun
+xylographer	xylographer	noun
+xylography	xylography	noun
+xylographic	xylographic	adjective
+xylographical	xylographical	adjective
+xylose	xylose	noun
+xenophobia	xenophobia	noun
+xenophobic	xenophobic	adjective
+xavier	xavier	proper noun
+xanthippe	xanthippe	noun
+xyster	xyster	noun
+xylograf	xylograf	noun
+xanadu	xanadu	proper noun
+xylem	xylem	noun
+xylene	xylene	noun
+xenotransplantation	xenotransplantation	noun
+Xena	Xena	proper noun
+xebec	xebec	noun
+xebecs	xebec	noun:plural
+xenophile	xenophile	noun
+xylyl	xylyl	noun
+X-rated	X-rated	adjective
+xenobiotic	xenobiotic	adjective
+xiphoid	xiphoid	adjective
+xanthous	xanthous	adjective
+xigua	xigua	noun
+xenophanes	xenophanes	proper noun
+xenophilia	xenophilia	noun
+xerography	xerography	noun
+xerograph	xerograph	noun
+xerographic	xerographic	adjective
+xylitol	xylitol	noun
+xanthophobia	xanthophobia	noun
+xenogamy	xenogamy	noun
+xpist	xpist	noun
+xeecoj	xeecoj	noun
+xiphopagus	xiphopagus	noun
+xian	xian	noun
+xian	xian	adjective
+xianity	xianity	noun
+xenocide	xenocide	noun
+xanthosis	xanthosis	noun
+xanthic	xanthic	adjective
+xu	xu	noun
+xarit	xarit	noun

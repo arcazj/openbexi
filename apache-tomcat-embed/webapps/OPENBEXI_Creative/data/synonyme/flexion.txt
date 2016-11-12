@@ -1,0 +1,2 @@
+déclinaison,désinence,flexion
+désinence,flexion,terminaison

@@ -1,0 +1,24 @@
+.ob_button_black_bg1 {
+    background: transparent;
+    background-color: transparent;
+    color: black;
+    font-family: arial, verdana, ms sans serif;
+    font-size: 12pt;
+    top: "0px";
+    left: "0px";
+    width: "100%";
+    height: "100%";
+    border: 0px;
+
+}
+
+.ob_button_black_bg1:hover {
+    font-weight: bold;
+    background-image: url(gif/grey_button_110x35.png);
+    background-repeat: no-repeat;
+    background-attachement: center;
+    background-position: center;
+    background-color: transparent;
+    color: white;
+
+}

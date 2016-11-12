@@ -1,0 +1,248 @@
+--- ATTENTION : CONSERVEZ CETTE LICENCE SI VOUS REDISTRIBUEZ CE FICHIER ---
+License ABU
+-=-=-=-=-=-
+Version 1.1, Aout 1999
+
+Copyright (C) 1999 Association de Bibliophiles Universels
+   http://abu.cnam.fr/
+   abu@cnam.fr
+
+La base de textes de l'Association des Bibliophiles Universels (ABU)
+est une oeuvre de compilation, elle peut être copiée, diffusée et
+modifiée dans les conditions suivantes :
+
+1.  Toute copie à des fins privées, à des fins d'illustration de l'enseignement
+    ou de recherche scientifique est autorisée.
+
+2.  Toute diffusion ou inclusion dans une autre oeuvre doit
+
+     a) soit inclure la presente licence s'appliquant a l'ensemble de la
+        diffusion ou de l'oeuvre dérivee.
+
+     b) soit permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement une version
+        numérisée de chaque texte inclu, muni de la présente licence.  Cette
+        possibilité doit être mentionnée explicitement et de façon claire,
+        ainsi que le fait que la présente notice s'applique aux documents
+        extraits.
+
+     c) permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement la version
+        numérisée originale, munie le cas échéant des améliorations visées au
+        paragraphe 6, si elles sont présentent dans la diffusion ou la nouvelle
+        oeuvre. Cette possibilité doit être mentionnée explicitement et de
+        façon claire, ainsi que le fait que la présente notice s'applique aux
+        documents extraits.
+
+   Dans tous les autres cas, la présente licence sera réputée s'appliquer
+   à l'ensemble de la diffusion ou de l'oeuvre dérivée.
+
+
+3. L'en-tête qui accompagne chaque fichier doit être intégralement 
+   conservée au sein de la copie.
+
+4. La mention du producteur original doit être conservée, ainsi
+   que celle des contributeurs ultérieurs.
+
+5. Toute modification ultérieure, par correction d'erreurs,
+   additions de variantes, mise en forme dans un autre format, ou autre,
+   doit être indiquée.  L'indication des diverses contributions devra être
+   aussi précise que possible, et datée.
+
+6. Ce copyright s'applique obligatoirement à toute amélioration
+   par simple correction d'erreurs ou d'oublis mineurs (orthographe,
+   phrase manquante, ...), c'est-à-dire ne correspondant pas à
+   l'adjonction d'une autre variante connue du texte, qui devra donc
+   comporter la présente notice.
+
+----------------------- FIN DE LA LICENCE ABU --------------------------------
+
+--- ATTENTION : CONSERVEZ CET EN-TETE SI VOUS REDISTRIBUEZ CE FICHIER ---
+<ARCHIVE http://www.abu.org/ >
+<IDENT pays>
+<VERSION 1>
+<DROITS 0>
+<AUTEUR Anonyme>
+<TITRE Liste de pays>
+<COPISTE Transmis par Bruno Paul>
+
+
+----------------------- FIN DE L'EN-TETE --------------------------------
+
+------------------------- DEBUT DU FICHIER DICO/pays --------------------------------
+
+Afghanistan 
+Afrique 
+Afrique du Sud 
+Albanie 
+AlgÈrie 
+Allemagne 
+Amériques 
+Amérique centrale 
+Amérique du Nord 
+Amérique du Sud 
+Angola 
+Antilles 
+Arabie Saoudite 
+Argentine 
+ArmÈnie 
+Asie 
+Australie 
+Autriche 
+Azerbaïdjan 
+Bangladesh 
+Belgique 
+Bénin 
+Bhoutan 
+Biélorussie 
+Birmanie 
+Bolivie 
+Bosnie-Herzégovine 
+Botswana 
+Brésil 
+Brunei 
+Bulgarie 
+Burkina 
+Burundi 
+Cambodge 
+Cameroun 
+Canada 
+Chili 
+Chine 
+Chypre 
+Colombie 
+Congo 
+Corée du Nord 
+Corée du Sud 
+Costa Rica 
+Côte d'Ivoire 
+Croatie 
+Cuba 
+Danemark 
+Danemark : Groenland 
+Égypte 
+Émirats arabes unis 
+Équateur 
+Érythrée 
+Espagne 
+Estonie 
+États-Unis 
+États-Unis : Porto Rico 
+Éthiopie 
+Europe 
+Finlande 
+France 
+Gabon 
+Gambie 
+Géorgie 
+Ghana 
+Grêce 
+Groenland (Danemark) 
+Guatemala 
+Guinée 
+Guinée Èquatoriale 
+Guinée-Bissau 
+Guyana 
+Guyane française 
+Haïti 
+Honduras 
+Hongrie 
+Inde 
+Indonésie 
+Irak 
+Iran 
+Irlande 
+Islande 
+Israël 
+Italie 
+Jamaïque 
+Japon 
+Jordanie 
+Kazakhstan 
+Kenya 
+Kirghizstan 
+Koweït 
+Laos 
+Lesotho 
+Lettonie 
+Liban 
+Liberia 
+Libye 
+Lituanie 
+Luxembourg 
+Macédoine 
+Madagascar 
+Malaisie 
+Malawi 
+Mali 
+Maroc 
+Mauritanie 
+Mexique 
+Moldavie 
+Mongolie 
+Moyen-Orient 
+Mozambique 
+Namibie 
+NÈpal 
+Nicaragua 
+Niger 
+Nigeria 
+Norvêge 
+Nouvelle-Zélande 
+Océanie 
+Oman 
+Ouganda 
+Ouzbékistan 
+Pakistan 
+Panama 
+Paraguay 
+Pays-Bas 
+Pérou 
+Philippines 
+Pologne 
+Porto Rico (États-Unis) 
+Portugal 
+Qatar 
+République Centrafricaine 
+République Dominicaine 
+République Tchèque 
+Roumanie 
+Royaume-Uni 
+Russie 
+Rwanda 
+Salvador 
+Sénégal 
+Sierra Leone 
+Slovaquie 
+Slovénie 
+Somalie 
+Soudan 
+Sri Lanka 
+Suède 
+Suisse 
+Suriname 
+Swaziland 
+Syrie 
+Tadjikistan 
+Taïwan 
+Tanzanie 
+Tchad 
+Thaïlande 
+Togo 
+Tunisie 
+Turkménistan 
+Turquie 
+Ukraine 
+Uruguay 
+Vénézuela 
+Vietnam 
+Yémen 
+Yougoslavie 
+Zaïre 
+Zambie 
+Zimbabwe 
+
+
+
+
+------------------------- FIN DU FICHIER DICO/pays --------------------------------

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openbexiCreative>
+    <classe name="request">
+        <object name="ob_request">
+            <attribute name="subtype" subtype="template"/>
+        </object>
+    </classe>
+    <classe name="ob_explorer">
+        <object name="dir">
+            <attribute name="type" type="none"/>
+            <attribute name="path" path="template/"/>
+            <attribute filter="none" name="filter"/>
+            <attribute filename="template" name="filename"/>
+            <attribute name="parent" parent="/"/>
+        </object>
+        <object name="dirUp">
+            <attribute name="path" path="none"/>
+        </object>
+        <object name="file_0">
+            <attribute filename="default" name="filename"/>
+            <attribute name="type" type="templates"/>
+             <attribute name="icon" icon="default.jpg"/>
+        </object>
+        <object name="file_1">
+            <attribute filename="template1" name="filename"/>
+            <attribute name="type" type="templates"/>
+            <attribute name="icon" icon="template1.jpg"/>
+        </object>
+        <object name="pager">
+            <attribute name="number" number="0"/>
+            <attribute maxNumber="0" name="maxNumber"/>
+        </object>
+        <object name="file">
+            <attribute filter="none" name="filter"/>
+            <attribute name="objectCount" objectCount="2"/>
+            <attribute name="objectMaxCount" objectMaxCount="2"/>
+        </object>
+        <object name="status">
+            <attribute name="text" text="done"/>
+        </object>
+        <object name="list">
+            <attribute name="nextPreviousStatus" nextPreviousStatus="none"/>
+            <attribute maxItems="10" name="maxItems"/>
+            <attribute name="posCurrentItem" posCurrentItem="0"/>
+            <attribute name="nextFlag" nextFlag="null"/>
+            <attribute name="previousFlag" previousFlag="null"/>
+        </object>
+    </classe>
+</openbexiCreative>

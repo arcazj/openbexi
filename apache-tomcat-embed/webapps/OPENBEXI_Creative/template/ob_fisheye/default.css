@@ -1,0 +1,15 @@
+.ob_fisheye_default {
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em;
+  border-bottom-right-radius: 1em;
+  border-bottom-left-radius: 1em;
+  background-color: white;
+  opacity: 0.9;
+  border: 0.25em solid rgb(221, 221, 221);
+  position: absolute;
+  cursor: default;
+}
+
+
+
+

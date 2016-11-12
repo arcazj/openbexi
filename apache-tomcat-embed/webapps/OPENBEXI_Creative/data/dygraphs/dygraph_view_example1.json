@@ -1,0 +1,13 @@
+{"labels":["x",
+	 "A",
+	 "B"],
+	"labelsSeparateLines":true,
+	"labelsKMB":true,
+	"legend":"always",
+	"colors":["#009900",
+	 "#FF1919"],
+	"title":"Example1",
+	"xlabel":"Date",
+	"ylabel":"Count",
+	"axisLineColor":"white",
+	"drawXGrid":false}

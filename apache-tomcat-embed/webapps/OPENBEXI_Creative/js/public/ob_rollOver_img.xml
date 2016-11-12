@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<openbexiCreative>
+    
+<classe name="ob_explorer">
+        
+    <object name="file">
+            <attribute filename="ob_rollOver_img.js" name="filename"/>
+            <attribute list="openbexi_img" name="list"/>
+            <attribute name="specification_en" specification_en="Image roll over ."/>
+            <attribute name="specification_fr" specification_fr="Image tournante."/>
+            <attribute name="type" type="javascripts"/>
+            <attribute icon="ob_rollOver_img.jpg" name="icon"/>
+            <attribute name="parameterCount" parameterCount="3"/>
+
+            <attribute name="parameterName_0" parameterName_0="widget_id"/>
+            <attribute name="parameterType_0" parameterType_0="string"/>
+
+            <attribute name="parameterName_1" parameterName_1="widget_type"/>
+            <attribute name="parameterType_1" parameterType_1="string"/>
+
+            <attribute name="parameterName_2" parameterName_2="timeout"/>
+            <attribute name="parameterType_2" parameterType_2="string"/>
+
+            <attribute event="" name="event"/>
+            
+        <attribute name="return" return=""/><attribute name="parameterSpecification_0_en" parameterSpecification_0_en=""/><attribute name="parameterSpecification_0_fr" parameterSpecification_0_fr=""/><attribute name="parameterSpecification_1_en" parameterSpecification_1_en=""/><attribute name="parameterSpecification_1_fr" parameterSpecification_1_fr=""/><attribute name="parameterSpecification_2_en" parameterSpecification_2_en=""/><attribute name="parameterSpecification_2_fr" parameterSpecification_2_fr=""/></object></classe></openbexiCreative>

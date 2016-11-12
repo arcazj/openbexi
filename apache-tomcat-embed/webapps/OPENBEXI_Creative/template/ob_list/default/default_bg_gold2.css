@@ -1,0 +1,20 @@
+.ob_list_default_bg_gold2 {
+    overflow: auto;
+}
+
+.ul_default_bg_gold2 {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.li_default_bg_gold2 {
+    background-image: url( "gif/fagegold.jpg" );
+    background-repeat: no-repeat;
+    padding: 0.1em;
+}
+
+.li_default_bg_gold2:hover {
+    background-color: orange;
+    padding: 0.2em
+}

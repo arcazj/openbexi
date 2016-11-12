@@ -1,0 +1,500 @@
+--- ATTENTION : CONSERVEZ CETTE LICENCE SI VOUS REDISTRIBUEZ CE FICHIER ---
+License ABU
+-=-=-=-=-=-
+Version 1.1, Aout 1999
+
+Copyright (C) 1999 Association de Bibliophiles Universels
+   http://abu.cnam.fr/
+   abu@cnam.fr
+
+La base de textes de l'Association des Bibliophiles Universels (ABU)
+est une oeuvre de compilation, elle peut être copiée, diffusée et
+modifiée dans les conditions suivantes :
+
+1.  Toute copie à des fins privées, à des fins d'illustration de l'enseignement
+    ou de recherche scientifique est autorisée.
+
+2.  Toute diffusion ou inclusion dans une autre oeuvre doit
+
+     a) soit inclure la presente licence s'appliquant a l'ensemble de la
+        diffusion ou de l'oeuvre dérivee.
+
+     b) soit permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement une version
+        numérisée de chaque texte inclu, muni de la présente licence.  Cette
+        possibilité doit être mentionnée explicitement et de façon claire,
+        ainsi que le fait que la présente notice s'applique aux documents
+        extraits.
+
+     c) permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement la version
+        numérisée originale, munie le cas échéant des améliorations visées au
+        paragraphe 6, si elles sont présentent dans la diffusion ou la nouvelle
+        oeuvre. Cette possibilité doit être mentionnée explicitement et de
+        façon claire, ainsi que le fait que la présente notice s'applique aux
+        documents extraits.
+
+   Dans tous les autres cas, la présente licence sera réputée s'appliquer
+   à l'ensemble de la diffusion ou de l'oeuvre dérivée.
+
+
+3. L'en-tête qui accompagne chaque fichier doit être intégralement 
+   conservée au sein de la copie.
+
+4. La mention du producteur original doit être conservée, ainsi
+   que celle des contributeurs ultérieurs.
+
+5. Toute modification ultérieure, par correction d'erreurs,
+   additions de variantes, mise en forme dans un autre format, ou autre,
+   doit être indiquée.  L'indication des diverses contributions devra être
+   aussi précise que possible, et datée.
+
+6. Ce copyright s'applique obligatoirement à toute amélioration
+   par simple correction d'erreurs ou d'oublis mineurs (orthographe,
+   phrase manquante, ...), c'est-à-dire ne correspondant pas à
+   l'adjonction d'une autre variante connue du texte, qui devra donc
+   comporter la présente notice.
+
+----------------------- FIN DE LA LICENCE ABU --------------------------------
+
+kabbale	kabbale	Nom:Fem+SG
+kabbaliste	kabbaliste	Adj:InvGen+SG
+kabbaliste	kabbaliste	Nom:InvGen+SG
+kabbalistique	kabbalistique	Adj:InvGen+SG
+kabuki	kabuki	Nom:Mas+SG
+kabukis	kabuki	Nom:Mas+PL
+kabyle	kabyle	Adj:InvGen+SG
+kabyle	kabyle	Nom:InvGen+SG
+kabyle	kabyle	Nom:Mas+SG
+kabyles	kabyle	Adj:InvGen+PL
+kabyles	kabyle	Nom:InvGen+PL
+kacha	kacha	Nom:Fem+SG
+kache	kache	Nom:Fem+SG
+kadi	kadi	Nom:Mas+SG
+kafkaïen	kafkaïen	Adj:Mas+SG
+kafkaïenne	kafkaïen	Adj:Fem+SG
+kafkaïennes	kafkaïen	Adj:Fem+PL
+kafkaïens	kafkaïen	Adj:Mas+PL
+kaïnite	kaïnite	Nom:Fem+SG
+kaiser	kaiser	Nom:Mas+SG
+ka	ka	Nom:Mas+SG
+kakatoès	kakatoès	Nom:Mas+InvPL
+kakémono	kakémono	Nom:Mas+SG
+kaki	kaki	Adj:InvGen+SG:InvGen+PL
+kaki	kaki	Nom:Mas+SG
+kakis	kaki	Nom:Mas+PL
+kaléidoscope	kaléidoscope	Nom:Mas+SG
+kaléidoscopes	kaléidoscope	Nom:Mas+PL
+kaléidoscopique	kaléidoscopique	Adj:InvGen+SG
+kalicytie	kalicytie	Nom:Fem+SG
+kaliémie	kaliémie	Nom:Fem+SG
+kali	kali	Nom:Mas+SG
+kalium	kalium	Nom:Mas+SG
+kalmouke	kalmouk	Adj:Fem+SG
+kalmouk	kalmouk	Adj:Mas+SG
+kalmouk	kalmouk	Nom:Mas+SG
+kamala	kamala	Nom:Mas+SG
+kamichi	kamichi	Nom:Mas+SG
+kami	kami	Nom:Mas+SG
+kamikaze	kamikaze	Nom:InvGen+SG
+kamikazes	kamikaze	Nom:InvGen+PL
+kammerspiel	kammerspiel	Nom:Mas+SG
+kana	kana	Nom:Mas+SG
+kanak	kanak	Adj:Mas+SG
+kandjar	kandjar	Nom:Mas+SG
+kangourou	kangourou	Nom:Mas+SG
+kangourous	kangourou	Nom:Mas+PL
+kan	kan	Nom:Mas+SG
+kannara	kannara	Nom:Mas+SG
+kantien	kantien	Adj:Mas+SG
+kantienne	kantien	Adj:Fem+SG
+kantienne	kantien	Nom:Fem+SG
+kantiennes	kantien	Adj:Fem+PL
+kantiennes	kantien	Nom:Fem+PL
+kantiens	kantien	Adj:Mas+PL
+kantiens	kantien	Nom:Mas+PL
+kantisme	kantisme	Nom:Mas+SG
+kaoliang	kaoliang	Nom:Mas+SG
+kaolinisation	kaolinisation	Nom:Fem+SG
+kaolinite	kaolinite	Nom:Fem+SG
+kaolin	kaolin	Nom:Mas+SG
+kaolins	kaolin	Nom:Mas+PL
+kaon	kaon	Nom:Mas+SG
+kaons	kaon	Nom:Mas+PL
+kapokier	kapokier	Nom:Mas+SG
+kapok	kapok	Nom:Mas+SG
+kappa	kappa	Nom:Mas+InvPL
+karakul	karakul	Nom:Mas+SG
+karatéka	karatéka	Nom:InvGen+SG
+karaté	karaté	Nom:Mas+SG
+karatékas	karatéka	Nom:InvGen+PL
+karbau	karbau	Nom:Mas+SG
+karbaux	karbau	Nom:Mas+PL
+karité	karité	Nom:Mas+SG
+karma	karma	Nom:Mas+SG
+karman	karman	Nom:Mas+SG
+karpatique	karpatique	Adj:InvGen+SG
+karstique	karstique	Adj:InvGen+SG
+karst	karst	Nom:Mas+SG
+karting	karting	Nom:Mas+SG
+kart	kart	Nom:Mas+SG
+karts	kart	Nom:Mas+PL
+karyokinèse	karyokinèse	Nom:Fem+SG
+kascher	kascher	Adj:InvGen+SG:InvGen+PL
+kasher	kasher	Adj:InvGen+SG:InvGen+PL
+katchina	katchina	Nom:Mas+SG
+kava	kava	Nom:Mas+SG
+kawa	kawa	Nom:Mas+SG
+kawi	kawi	Nom:Mas+SG
+kayac	kayac	Nom:Mas+SG
+kayakiste	kayakiste	Nom:InvGen+SG
+kayak	kayak	Nom:Mas+SG
+kayaks	kayak	Nom:Mas+PL
+kazakh	kazakh	Adj:Mas+SG
+keepsake	keepsake	Nom:Mas+SG
+keffieh	keffieh	Nom:Mas+SG
+kéfir	kéfir	Nom:Mas+SG
+kelvin	kelvin	Adj:InvGen+SG:InvGen+PL
+kelvin	kelvin	Nom:Mas+SG
+kelvins	kelvin	Nom:Mas+PL
+kendo	kendo	Nom:Mas+SG
+kendos	kendo	Nom:Mas+PL
+kénotron	kénotron	Nom:Mas+SG
+kentia	kentia	Nom:Mas+SG
+kentrophylle	kentrophylle	Nom:Mas+SG
+képhir	képhir	Nom:Mas+SG
+képi	képi	Nom:Mas+SG
+képis	képi	Nom:Mas+PL
+kérabau	kérabau	Nom:Mas+SG
+kératine	kératine	Nom:Fem+SG
+kératines	kératine	Nom:Fem+PL
+kératinisaient	kératiniser	Ver:IImp+PL+P3
+kératinisai	kératiniser	Ver:IPSim+SG+P1
+kératinisais	kératiniser	Ver:IImp+SG+P1:IImp+SG+P2
+kératinisait	kératiniser	Ver:IImp+SG+P3
+kératinisa	kératiniser	Ver:IPSim+SG+P3
+kératinisâmes	kératiniser	Ver:IPSim+PL+P1
+kératinisant	kératiniser	Ver:PPre
+kératinisas	kératiniser	Ver:IPSim+SG+P2
+kératinisasse	kératiniser	Ver:SImp+SG+P1
+kératinisassent	kératiniser	Ver:SImp+PL+P3
+kératinisasses	kératiniser	Ver:SImp+SG+P2
+kératinisassiez	kératiniser	Ver:SImp+PL+P2
+kératinisassions	kératiniser	Ver:SImp+PL+P1
+kératinisâtes	kératiniser	Ver:IPSim+PL+P2
+kératinisation	kératinisation	Nom:Fem+SG
+kératinisations	kératinisation	Nom:Fem+PL
+kératinisât	kératiniser	Ver:SImp+SG+P3
+kératinisée	kératinisé	Adj:Fem+SG
+kératinisée	kératiniser	Ver:PPas+Fem+SG
+kératinisées	kératinisé	Adj:Fem+PL
+kératinisées	kératiniser	Ver:PPas+Fem+PL
+kératinisé	kératinisé	Adj:Mas+SG
+kératinise	kératiniser	Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2
+kératinisé	kératiniser	Ver:PPas+Mas+SG
+kératinisent	kératiniser	Ver:IPre+PL+P3:SPre+PL+P3
+kératinisèrent	kératiniser	Ver:IPSim+PL+P3
+kératiniser	kératiniser	Ver:Inf
+kératinises	kératiniser	Ver:IPre+SG+P2:SPre+SG+P2
+kératinisez	kératiniser	Ver:IPre+PL+P2:ImPre+PL+P2
+kératinisiez	kératiniser	Ver:IImp+PL+P2:SPre+PL+P2
+kératinisions	kératiniser	Ver:IImp+PL+P1:SPre+PL+P1
+kératinisons	kératiniser	Ver:IPre+PL+P1:ImPre+PL+P1
+kératite	kératite	Nom:Fem+SG
+kératocèle	kératocèle	Nom:Fem+SG
+kératocône	kératocône	Nom:Mas+SG
+kératolyse	kératolyse	Nom:Fem+SG
+kératolytique	kératolytique	Adj:InvGen+SG
+kératolytique	kératolytique	Nom:Mas+SG
+kératoplastique	kératoplastique	Adj:InvGen+SG
+kératoscopie	kératoscopie	Nom:Fem+SG
+kératose	kératose	Nom:Fem+SG
+kératotome	kératotome	Nom:Mas+SG
+kératotomie	kératotomie	Nom:Fem+SG
+kerdomètre	kerdomètre	Nom:Mas+SG
+kermès	kermès	Nom:Mas+InvPL
+kermesse	kermesse	Nom:Fem+SG
+kermesses	kermesse	Nom:Fem+PL
+kérogène	kérogène	Nom:Mas+SG
+kérosène	kérosène	Nom:Mas+SG
+kerria	kerria	Nom:Mas+SG
+ketch	ketch	Nom:Mas+SG
+ketchup	ketchup	Nom:Mas+InvPL
+ketmie	ketmie	Nom:Fem+SG
+keynésien	keynésien	Adj:Mas+SG
+keynésienne	keynésien	Adj:Fem+SG
+keynésiennes	keynésien	Adj:Fem+PL
+kg	kg	Abr
+khâgne	khâgne	Nom:Fem+SG
+khâgneuse	khâgneux	Adj:Fem+SG
+khâgneuse	khâgneux	Nom:Fem+SG
+khâgneuses	khâgneux	Adj:Fem+PL
+khâgneuses	khâgneux	Nom:Fem+PL
+khâgneux	khâgneux	Adj:Mas+InvPL
+khâgneux	khâgneux	Nom:Mas+InvPL
+khalifat	khalifat	Nom:Mas+SG
+khalife	khalife	Nom:Mas+SG
+khamsin	khamsin	Nom:Mas+SG
+khanat	khanat	Nom:Mas+SG
+khanats	khanat	Nom:Mas+PL
+khan	khan	Nom:Mas+SG
+khans	khan	Nom:Mas+PL
+kharidjisme	kharidjisme	Nom:Mas+SG
+kharidjite	kharidjite	Adj:InvGen+SG
+kharidjite	kharidjite	Nom:InvGen+SG
+khat	khat	Nom:Mas+SG
+khédivale	khédival	Adj:Fem+SG
+khédivales	khédival	Adj:Fem+PL
+khédival	khédival	Adj:Mas+SG
+khédivat	khédivat	Nom:Mas+SG
+khédivaux	khédival	Adj:Mas+PL
+khédive	khédive	Nom:Mas+SG
+khédives	khédive	Nom:Mas+PL
+khédiviale	khédivial	Adj:Fem+SG
+khédiviales	khédivial	Adj:Fem+PL
+khédivial	khédivial	Adj:Mas+SG
+khédiviat	khédiviat	Nom:Mas+SG
+khédiviaux	khédivial	Adj:Mas+PL
+khi	khi	Nom:Mas+InvPL
+khmère	khmer	Adj:Fem+SG
+khmère	khmer	Nom:Fem+SG
+khmères	khmer	Adj:Fem+PL
+khmères	khmer	Nom:Fem+PL
+khmer	khmer	Adj:Mas+SG
+khmer	khmer	Nom:Mas+SG
+khmers	khmer	Adj:Mas+PL
+khmers	khmer	Nom:Mas+PL
+khoin	khoin	Nom:Mas+SG
+khôl	khôl	Nom:Mas+SG
+khôls	khôl	Nom:Mas+PL
+kibboutzim	kibboutz	Nom:Mas+PL
+kibboutz	kibboutz	Nom:Mas+PL
+kibboutz	kibboutz	Nom:Mas+SG
+kichenotte	kichenotte	Nom:Fem+SG
+kick	kick	Nom:Mas+SG
+kidnappage	kidnappage	Nom:Mas+SG
+kidnappages	kidnappage	Nom:Mas+PL
+kidnappaient	kidnapper	Ver:IImp+PL+P3
+kidnappai	kidnapper	Ver:IPSim+SG+P1
+kidnappais	kidnapper	Ver:IImp+SG+P1:IImp+SG+P2
+kidnappait	kidnapper	Ver:IImp+SG+P3
+kidnappa	kidnapper	Ver:IPSim+SG+P3
+kidnappâmes	kidnapper	Ver:IPSim+PL+P1
+kidnappant	kidnapper	Ver:PPre
+kidnappas	kidnapper	Ver:IPSim+SG+P2
+kidnappasse	kidnapper	Ver:SImp+SG+P1
+kidnappassent	kidnapper	Ver:SImp+PL+P3
+kidnappasses	kidnapper	Ver:SImp+SG+P2
+kidnappassiez	kidnapper	Ver:SImp+PL+P2
+kidnappassions	kidnapper	Ver:SImp+PL+P1
+kidnappâtes	kidnapper	Ver:IPSim+PL+P2
+kidnappât	kidnapper	Ver:SImp+SG+P3
+kidnappée	kidnapper	Ver:PPas+Fem+SG
+kidnappées	kidnapper	Ver:PPas+Fem+PL
+kidnappe	kidnapper	Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2
+kidnappé	kidnapper	Ver:PPas+Mas+SG
+kidnappent	kidnapper	Ver:IPre+PL+P3:SPre+PL+P3
+kidnapperaient	kidnapper	Ver:CPre+PL+P3
+kidnapperai	kidnapper	Ver:IFut+SG+P1
+kidnapperais	kidnapper	Ver:CPre+SG+P1:CPre+SG+P2
+kidnapperait	kidnapper	Ver:CPre+SG+P3
+kidnappera	kidnapper	Ver:IFut+SG+P3
+kidnapperas	kidnapper	Ver:IFut+SG+P2
+kidnappèrent	kidnapper	Ver:IPSim+PL+P3
+kidnapperez	kidnapper	Ver:IFut+PL+P2
+kidnapperiez	kidnapper	Ver:CPre+PL+P2
+kidnapperions	kidnapper	Ver:CPre+PL+P1
+kidnapper	kidnapper	Ver:Inf
+kidnapperons	kidnapper	Ver:IFut+PL+P1
+kidnapperont	kidnapper	Ver:IFut+PL+P3
+kidnappes	kidnapper	Ver:IPre+SG+P2:SPre+SG+P2
+kidnappés	kidnapper	Ver:PPas+Mas+PL
+kidnappeur	kidnappeur	Nom:Mas+SG
+kidnappeurs	kidnappeur	Nom:Mas+PL
+kidnappeuse	kidnappeur	Nom:Fem+SG
+kidnappeuses	kidnappeur	Nom:Fem+PL
+kidnappez	kidnapper	Ver:IPre+PL+P2:ImPre+PL+P2
+kidnappiez	kidnapper	Ver:IImp+PL+P2:SPre+PL+P2
+kidnapping	kidnapping	Nom:Mas+SG
+kidnappings	kidnapping	Nom:Mas+PL
+kidnappions	kidnapper	Ver:IImp+PL+P1:SPre+PL+P1
+kidnappons	kidnapper	Ver:IPre+PL+P1:ImPre+PL+P1
+kief	kief	Nom:Mas+SG
+kieselguhr	kieselguhr	Nom:Mas+SG
+kiesérite	kiesérite	Nom:Fem+SG
+kiff	kiff	Nom:Mas+SG
+kif	kif	Nom:Mas+SG
+kif-kif	kif-kif	Adj:InvGen+InvPL
+kiki	kiki	Nom:Mas+SG
+kil	kil	Nom:Mas+SG
+kiloampère	kiloampère	Nom:Mas+SG
+kilocalorie	kilocalorie	Nom:Fem+SG
+kilocycle	kilocycle	Nom:Mas+SG
+kilogramme	kilogramme	Nom:Mas+SG
+kilogrammes	kilogramme	Nom:Mas+PL
+kilogrammètre	kilogrammètre	Nom:Mas+SG
+kilohertz	kilohertz	Nom:Mas+InvPL
+kilo	kilo	Nom:Mas+SG
+kilométrage	kilométrage	Nom:Mas+SG
+kilométrages	kilométrage	Nom:Mas+PL
+kilométrant	kilométrer	Ver:PPre
+kilométrant	kilométrer	Ver:PPre+Mas+SG
+kilomètre	kilomètre	Nom:Mas+SG
+kilomètre	kilométrer	Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2
+kilomètrent	kilométrer	Ver:IPre+PL+P3:SPre+PL+P3
+kilométrer	kilométrer	Ver:Inf
+kilomètres	kilomètre	Nom:Mas+PL
+kilomètres	kilométrer	Ver:IPre+SG+P2:SPre+SG+P2
+kilométrique	kilométrique	Adj:InvGen+SG
+kilométriques	kilométrique	Adj:InvGen+PL
+kilos	kilo	Nom:Mas+PL
+kilotonne	kilotonne	Nom:Fem+SG
+kilotonnique	kilotonnique	Adj:InvGen+SG
+kilovolt	kilovolt	Nom:Mas+SG
+kilowattheure	kilowattheure	Nom:Mas+SG
+kilowatt	kilowatt	Nom:Mas+SG
+kilowatts	kilowatt	Nom:Mas+PL
+kilowatt-heure	kilowatt-heure	Nom:Mas+SG
+kilt	kilt	Nom:Mas+SG
+kilts	kilt	Nom:Mas+PL
+kimono	kimono	Adj:InvGen+SG:InvGen+PL
+kimono	kimono	Nom:Mas+SG
+kimonos	kimono	Nom:Mas+PL
+kinase	kinase	Nom:Fem+SG
+kincajou	kincajou	Nom:Mas+SG
+kinescope	kinescope	Nom:Mas+SG
+kinésique	kinésique	Adj:InvGen+SG
+kinésithérapeute	kinésithérapeute	Nom:InvGen+SG
+kinésithérapeutes	kinésithérapeute	Nom:InvGen+PL
+kinésithérapie	kinésithérapie	Nom:Fem+SG
+kinesthésique	kinesthésique	Adj:InvGen+SG
+king	king	Nom:Mas+SG
+kinkajou	kinkajou	Nom:Mas+SG
+kiosque	kiosque	Nom:Mas+SG
+kiosques	kiosque	Nom:Mas+PL
+kipper	kipper	Nom:Mas+SG
+kirghize	kirghiz	Adj:Fem+SG
+kirghize	kirghize	Nom:Mas+SG
+kirghize	kirghiz	Nom:Fem+SG
+kirghiz	kirghiz	Adj:Mas+InvPL
+kiri	kiri	Nom:Mas+SG
+kir	kir	Nom:Mas+SG
+kirsch	kirsch	Nom:Mas+InvPL
+kitchenette	kitchenette	Nom:Fem+SG
+kitchenettes	kitchenette	Nom:Fem+PL
+kit	kit	Nom:Mas+SG
+kitsch	kitsch	Adj:InvGen+SG:InvGen+PL
+kitsch	kitsch	Nom:Mas+InvPL
+kits	kit	Nom:Mas+PL
+kiwi	kiwi	Nom:Mas+SG
+kiwis	kiwi	Nom:Mas+PL
+k	k	Nom:Mas+InvPL
+klaxon	klaxon	Nom:Mas+SG
+klaxonnant	klaxonner	Ver:PPre
+klaxonné	klaxonner	Ver:PPas+Mas+SG
+klaxonner	klaxonner	Ver:Inf
+kleenex	kleenex	Nom:Mas+InvPL
+klephte	klephte	Nom:InvGen+SG
+kleptomane	kleptomane	Adj:InvGen+SG
+kleptomane	kleptomane	Nom:InvGen+SG
+kleptomanes	kleptomane	Adj:InvGen+PL
+kleptomanes	kleptomane	Nom:InvGen+PL
+kleptomanie	kleptomanie	Nom:Fem+SG
+klippe	klippe	Nom:Fem+SG
+klystron	klystron	Nom:Mas+SG
+km	km	Abr
+knickerbockers	knickerbockers	Nom:Mas+PL
+knicker	knicker	Nom:Mas+SG
+knickers	knicker	Nom:Mas+PL
+knickers	knickers	Nom:Mas+PL
+knock-out	knock-out	Nom:Mas+SG
+knout	knout	Nom:Mas+SG
+koala	koala	Nom:Mas+SG
+koalas	koala	Nom:Mas+PL
+kob	kob	Nom:Mas+SG
+kobold	kobold	Nom:Mas+SG
+koheul	koheul	Nom:Mas+SG
+koheuls	koheul	Nom:Mas+PL
+kohol	kohol	Nom:Mas+SG
+kohols	kohol	Nom:Mas+PL
+koinè	koinè	Nom:Fem+SG
+kola	kola	Nom:Mas+SG
+kolas	kola	Nom:Mas+PL
+kolatier	kolatier	Nom:Mas+SG
+kolinski	kolinski	Nom:Mas+SG
+kolkhoze	kolkhoze	Nom:Mas+SG
+kolkhozes	kolkhoze	Nom:Mas+PL
+kolkhozien	kolkhozien	Adj:Mas+SG
+kolkhozien	kolkhozien	Nom:Mas+SG
+kolkhozienne	kolkhozien	Adj:Fem+SG
+kolkhozienne	kolkhozien	Nom:Fem+SG
+kolkhoziennes	kolkhozien	Adj:Fem+PL
+kolkhoziennes	kolkhozien	Nom:Fem+PL
+kolkhoziens	kolkhozien	Adj:Mas+PL
+kolkhoziens	kolkhozien	Nom:Mas+PL
+kolkhoz	kolkhoz	Nom:Mas+InvPL
+kommandantur	kommandantur	Nom:Fem+SG
+kondo	kondo	Nom:Mas+SG
+konzern	konzern	Nom:Mas+SG
+kopeck	kopeck	Nom:Mas+SG
+korê	korê	Nom:Fem+SG
+korrigane	korrigan	Nom:Fem+SG
+korriganes	korrigan	Nom:Fem+PL
+korrigan	korrigan	Nom:Mas+SG
+korrigans	korrigan	Nom:Mas+PL
+koto	koto	Nom:Mas+SG
+koubba	koubba	Nom:Fem+SG
+kouglof	kouglof	Nom:Mas+SG
+kouglofs	kouglof	Nom:Mas+PL
+koulak	koulak	Nom:Mas+SG
+koulaks	koulak	Nom:Mas+PL
+koulibiac	koulibiac	Nom:Mas+SG
+koumis	koumis	Nom:Mas+InvPL
+koumys	koumys	Nom:Mas+InvPL
+kourgane	kourgane	Nom:Mas+SG
+kourganes	kourgane	Nom:Mas+PL
+kouros	kouros	Nom:Mas+InvPL
+koweïtien	koweïtien	Adj:Mas+SG
+kraal	kraal	Nom:Mas+SG
+kraals	kraal	Nom:Mas+PL
+krach	krach	Nom:Mas+SG
+krachs	krach	Nom:Mas+PL
+kraft	kraft	Adj:InvGen+SG:InvGen+PL
+kraft	kraft	Nom:Mas+SG
+kraken	kraken	Nom:Mas+SG
+krak	krak	Nom:Mas+SG
+kraks	krak	Nom:Mas+PL
+kremlin	kremlin	Nom:Mas+SG
+kremlinologie	kremlinologie	Nom:Fem+SG
+kreuzer	kreuzer	Nom:Mas+SG
+krill	krill	Nom:Mas+SG
+kriss	kriss	Nom:Mas+InvPL
+kronprinz	kronprinz	Nom:Mas+InvPL
+kroumir	kroumir	Nom:Mas+SG
+krypton	krypton	Nom:Mas+SG
+ksar	ksar	Nom:Mas+SG
+ksi	ksi	Nom:Mas+InvPL
+ksour	ksar	Nom:Mas+PL
+kufique	kufique	Adj:InvGen+SG
+kufique	kufique	Nom:Mas+SG
+kummel	kummel	Nom:Mas+SG
+kumquat	kumquat	Nom:Mas+SG
+kurde	kurde	Adj:InvGen+SG
+kurde	kurde	Nom:InvGen+SG
+kurde	kurde	Nom:Mas+SG
+kvas	kvas	Nom:Mas+InvPL
+kwashiorkor	kwashiorkor	Nom:Mas+SG
+kwas	kwas	Nom:Mas+InvPL
+kyat	kyat	Nom:Mas+SG
+kymographe	kymographe	Nom:Mas+SG
+kymographie	kymographie	Nom:Fem+SG
+kymrique	kymrique	Adj:InvGen+SG
+kyrie	kyrie	Nom:Mas+InvPL
+kyrielle	kyrielle	Nom:Fem+SG
+kyrielles	kyrielle	Nom:Fem+PL
+kyste	kyste	Nom:Mas+SG
+kystes	kyste	Nom:Mas+PL
+kystique	kystique	Adj:InvGen+SG
+kystiques	kystique	Adj:InvGen+PL
+
+------------------------- FIN DU FICHIER --------------------------------

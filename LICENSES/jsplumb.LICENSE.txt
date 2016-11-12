@@ -1,0 +1,4 @@
+License
+
+Google Code only allows me to select one license type, but jsPlumb is actually dual-licensed under both MIT and GPL version 2. In fact, it's triple-licensed: you can treat it as free-as-in-beer if you like, too. 
+

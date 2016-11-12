@@ -1,0 +1,23 @@
+.ob_dojo_editor_hover_gold_1 {
+      border: 0.25em solid rgb(221, 221, 221);
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em;
+  border-bottom-right-radius: 1em;
+  border-bottom-left-radius: 1em;
+    background: transparent url(gif/fadeGoldThin.jpg) repeat scroll 0% 50%;
+    overflow: hidden;
+    position: absolute;
+    opacity: 1;
+}
+
+.ob_dojo_editor_hover_gold_1:hover {
+      border: 0.25em solid rgb(221, 221, 221);
+  border-top-left-radius: 1em;
+  border-top-right-radius: 1em;
+  border-bottom-right-radius: 1em;
+  border-bottom-left-radius: 1em;
+    background: #ffb34b;
+    overflow: hidden;
+    position: absolute;
+    opacity: 1;
+}

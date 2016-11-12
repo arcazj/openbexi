@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data wiki-url="http://www.openbexi.com" wiki-section="Simile openbexi Timeline">
+   <event 
+       start="Oct 24 2012 10:07:42"
+       end="Oct 24 2012 10:07:42"
+       isDuration="false"
+       title="Type1"
+   >
+    __start=Oct 24 2012 10:07:42
+    __end=Oct 24 2012 10:07:42
+    __isDuration="false"
+    __title="Type1"
+   </event>
+   <event 
+       start="Oct 24 2012 10:11:02"
+       end="Oct 24 2012 10:14:22"
+       isDuration="true"
+       title="Type2"
+   >
+    __start=Oct 24 2012 10:11:02
+    __end=Oct 24 2012 10:14:22
+    __isDuration=true
+    __title="Type2"
+   </event>
+   <event 
+       start="Oct 24 2012 10:14:22"
+       end="Oct 24 2012 10:19:22"
+       isDuration="true"
+       title="Type3"
+       color="#A2FAA4"
+   >
+    __start=Oct 24 2012 10:14:22
+    __end=Oct 24 2012 10:19:22
+    __isDuration="true"
+    __title="Type3"
+    __color="#A2FAA4"
+   </event>
+   <event 
+       start="Oct 24 2012 10:36:02"
+       end="Oct 24 2012 10:56:02"
+       isDuration="false"
+       title="Type4"
+       color="#929692"
+       icon="gif/warning_x22.png"
+   >
+    __start=Oct 24 2012 10:36:02
+    __end=Oct 24 2012 10:56:02
+    __isDuration="false"
+    __title="Type4"
+    __color="#929692"
+    __icon="gif/warning_x22.png"
+   </event>
+   <event 
+       start="Oct 24 2012 10:41:02"
+       end="Oct 24 2012 10:56:02"
+       isDuration="true"
+       title="Type5"
+       color="#509492"
+       icon="gif/bug_x22.png"
+   >
+    __start=Oct 24 2012 10:41:02
+    __end=Oct 24 2012 10:56:02
+    __isDuration="true"
+    __title="Type5"
+    __color="#509492"
+    __icon="gif/bug_x22.png"
+   </event>
+   <event 
+       start="Oct 24 2012 10:41:02"
+       end="Oct 24 2012 10:56:02"
+       isDuration="false"
+       title="Type6_link"
+       color="#144092"
+       icon="gif/satellite_x24.png"
+       link="http://www.google.com/"
+   >
+    __start=Oct 24 2012 10:41:02
+    __end=Oct 24 2012 10:56:02
+    __isDuration="false"
+    __title="Type6_link"
+    __color="#144092"
+    __icon="gif/satellite_x24.png"
+    __link="http://www.google.com/"
+   </event>
+   <event 
+       start="Oct 24 2012 11:14:22"
+       end="Oct 24 2012 11:22:42"
+       isDuration="true"
+       title="Type7_link"
+       color="green"
+       textColor="red"
+       icon="gif/warning_x22.png"
+       link="http://www.google.com/"
+   >
+    __start=Oct 24 2012 11:14:22
+    __end=Oct 24 2012 11:22:42
+    __isDuration="true"
+    __title="Type7_link"
+    __color="green"
+    __textColor="red"
+    __icon="gif/warning_x22.png"
+    __link="http://www.google.com/"
+   </event>
+   <event 
+       start="Oct 24 2012 11:47:42"
+       end="Oct 25 2012 12:46:02"
+       isDuration="true"
+       title="Type8_link"
+       color="green"
+       textColor="red"
+       icon="gif/error_x22.png"
+       link="http://www.google.com/"
+   >
+    __start=Oct 24 2012 11:47:42
+    __end=Oct 25 2012 12:46:02
+    __isDuration="true"
+    __title="Type8_link"
+    __color="green"
+    __textColor="red"
+    __icon="gif/error_x22.png"
+    __link="http://www.google.com/"
+   </event>
+   <event 
+       start="Oct 25 2012 12:21:02"
+       end="Oct 25 2012 12:29:22"
+       isDuration="false"
+       title="Type9_link"
+       color="green"
+       textColor="red"
+       icon="gif/error_x22.png"
+       link="http://www.google.com/"
+   >
+    __start=Oct 25 2012 12:21:02
+    __end=Oct 25 2012 12:29:22
+    __isDuration="false"
+    __title="Type9_link"
+    __color="green"
+    __textColor="red"
+    __icon="gif/error_x22.png"
+    __link="http://www.google.com/"
+   </event>
+   <event 
+       start="Oct 24 2012 11:06:02"
+       end="Oct 24 2012 11:06:02"
+       isDuration="false"
+       title="Type9_bis_link"
+       color="green"
+       textColor="red"
+       icon="gif/info_x24.png"
+       link="http://www.google.com/"
+   >
+    __start=Oct 24 2012 11:06:02
+    __end=Oct 24 2012 11:06:02
+    __isDuration="false"
+    __title="....Type9_bis_link"
+    __color="green"
+    __textColor="red"
+    __icon="gif/info_x24.png"
+    __link="http://www.google.com/"
+   </event>
+   <event 
+       start="Oct 25 2012 12:54:22"
+       end="Oct 25 2012 01:19:22"
+       isDuration="false"
+       title="Type10_link_image"
+       color="red"
+       textColor="green"
+       icon="gif/warning_x22.png"
+       link="http://www.google.com/"
+       image="gif/bexi_no_transparency.png"
+   >
+    __start=Oct 25 2012 12:54:22
+    __end=Oct 25 2012 01:19:22
+    __isDuration="false"
+    __title="Type10_link_image"
+    __color="red"
+    __textColor="green"
+    __icon="gif/warning_x22.png"
+    __link="http://www.google.com/"
+    __image="gif/bexi_no_transparency.png"
+   </event>
+   <event 
+       start="Oct 25 2012 01:36:02"
+       end="Oct 25 2012 01:52:42"
+       isDuration="false"
+       title="Type11_link_image_repeat"
+       color="red"
+       tapeImage="gif/next_small.png"
+       tapeRepeat="repeat-x"
+       textColor="green"
+       icon="gif/warning_x22.png"
+       link="http://www.google.com/"
+       image="gif/bexi_no_transparency.png"
+       caption="http://www.google.com"
+   >
+    __start=Oct 25 2012 01:36:02
+    __end=Oct 25 2012 01:52:42
+    __isDuration="false"
+    __title="Type11_link_image_repeat"
+    __color="red"
+    __tapeImage="gif/next_small.png"
+    __tapeRepeat="repeat-x"
+    __textColor="green"
+    __icon="gif/warning_x22.png"
+    __link="http://www.google.com/"
+    __image="gif/bexi_no_transparency.png"
+    __caption="http://www.google.com"
+   </event>
+   <event 
+       start="Oct 25 2012 01:36:02"
+       end="Oct 25 2012 01:52:42"
+       isDuration="true"
+       title="Type11_2_link_image_repeat"
+       color="red"
+       tapeImage="gif/next_small.png"
+       tapeRepeat="repeat-x"
+       textColor="green"
+       icon="gif/warning_x22.png"
+       link="http://www.google.com/"
+       image="gif/bexi_no_transparency.png"
+       caption="http://www.google.com"
+   >
+    __start=Oct 25 2012 01:36:02
+    __end=Oct 25 2012 01:52:42
+    __isDuration="true"
+    __title="Type11_2_link_image_repeat"
+    __color="red"
+    __tapeImage="gif/next_small.png"
+    __tapeRepeat="repeat-x"
+    __textColor="green"
+    __icon="gif/warning_x22.png"
+    __link="http://www.google.com/"
+    __image="gif/bexi_no_transparency.png"
+    __caption="http://www.google.com"
+   </event>
+   <event 
+       start="Oct 25 2012 01:36:02"
+       end="Oct 25 2012 03:32:42"
+       isDuration="false"
+       title="Type11_3_link_image_repeat"
+       color="white"
+       tapeImage="gif/maneuver.png"
+       tapeRepeat="no-repeat"
+       textColor="green"
+       link="http://www.google.com/"
+       image="gif/bexi_no_transparency.png"
+       caption="http://www.google.com"
+   >
+    __start=Oct 25 2012 01:36:02
+    __end=Oct 25 2012 03:32:42
+    __isDuration="false"
+    __title="Type11_3_link_image_repeat"
+    __color="white"
+    __tapeImage="gif/maneuver.png"
+    __tapeRepeat="no-repeat"
+    __textColor="green"
+    __link="http://www.google.com/"
+    __image="gif/bexi_no_transparency.png"
+    __caption="http://www.google.com"
+   </event>
+</data>

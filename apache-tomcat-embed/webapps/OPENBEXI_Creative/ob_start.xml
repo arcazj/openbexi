@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openbexiCreative>
+    <classe name="bexicontext">
+        <object name="language">
+            <attribute name="en"/>
+        </object>
+        <object name="path">
+            <attribute home="..\webapps\OPENBEXI_Creative"
+                       name="home"/>
+            <attribute class="..\webapps\OPENBEXI_Creative\classes"
+                       name="class"/>
+            <attribute images="..\webapps\OPENBEXI_Creative\gifPlus"
+                       name="images"/>
+            <attribute name="webpages"
+                       webpages="..\webapps\OPENBEXI_Creative"/>
+            <attribute
+                    metarules="..\webapps\OPENBEXI_Creative\data\metaRules"
+                    name="metarules"/>
+            <attribute name="xml"
+                       xml="..\webapps\OPENBEXI_Creative\data\XML"/>
+            <attribute imagesClient="..\webapps\OPENBEXI_Creative\gifPlus"
+                       name="imagesClient"/>
+            <attribute name="webpagesClient"
+                       webpagesClient="..\webapps\OPENBEXI_Creative"/>
+        </object>
+    </classe>
+    <classe name="ob_ssh">
+        <object name="connection_0">
+            <attribute name="host" host="new SFTP connection"/>
+            <attribute name="user" user=""/>
+            <attribute name="passwd" passwd=""/>
+            <attribute name="PublicKey" PublicKey="ssh-dss"/>
+            <attribute name="SocketTimeout" SocketTimeout="30000"/>
+            <attribute name="connected" connected="false"/>
+        </object>
+        <object name="connection_1">
+            <attribute name="host" host="host1"/>
+            <attribute name="user" user=""/>
+            <attribute name="passwd" passwd=""/>
+            <attribute name="PublicKey" PublicKey="ssh-dss"/>
+            <attribute name="SocketTimeout" SocketTimeout="30000"/>
+            <attribute name="connected" connected="false"/>
+        </object>
+        <object name="connection">
+            <attribute name="count" count="2"/>
+        </object>
+    </classe>
+    <classe name="ob_database">
+        <object name="databaseAdmin">
+            <attribute driver="com.mysql.jdbc.Driver" name="driver"/>
+            <attribute name="url" url="jdbc:mysql:///bexi_admin"/>
+            <attribute name="user" user="root"/>
+            <attribute name="password" password=""/>
+            <attribute name="connected" connected="false"/>
+        </object>
+        <object name="database_0">
+            <attribute driver="com.mysql.jdbc.Driver" name="driver"/>
+            <attribute name="url" url="jdbc:mysql:///bexi_en"/>
+            <attribute name="user" user="root"/>
+            <attribute name="password" password=""/>
+            <attribute name="connected" connected="false"/>
+        </object>
+        <object name="database_1">
+            <attribute driver="com.mysql.jdbc.Driver" name="driver"/>
+            <attribute name="url" url="jdbc:mysql:///bexi_fr"/>
+            <attribute name="user" user="root"/>
+            <attribute name="password" password=""/>
+            <attribute name="connected" connected="false"/>
+        </object>
+        <object name="databaseCurrent">
+            <attribute driver="com.mysql.jdbc.Driver" name="driver"/>
+            <attribute name="url" url="jdbc:mysql:///bexi_en"/>
+            <attribute name="user" user="root"/>
+            <attribute name="password" password=""/>
+            <attribute name="connected" connected="false"/>
+        </object>
+        <object name="database">
+            <attribute name="count" count="2"/>
+        </object>
+    </classe>
+    <classe name="ob_server">
+        <object name="connection_0">
+            <attribute port="8080" name="port"/>
+            <attribute name="url" url="new OPENBEXI server"/>
+            <attribute name="user" user=""/>
+            <attribute name="password" password=""/>
+            <attribute name="path" path=""/>
+            <attribute name="protocole" protocole="http"/>
+            <attribute name="connected" connected="false"/>
+        </object>
+        <object name="connection">
+            <attribute name="connected" connected="false"/>
+            <attribute name="count" count="2"/>
+        </object>
+        <object name="connection_1">
+            <attribute port="8080" name="port"/>
+            <attribute name="url" url="http://localhost:8080/OPENBEXI_Creative/openbexi.do"/>
+            <attribute name="password" password=""/>
+            <attribute name="connected" connected="true"/>
+            <attribute name="host" host="http//localhost8080/OPENBEXI_Creative/openbexi.do"/>
+            <attribute name="user" user=""/>
+            <attribute name="passwd" passwd=""/>
+            <attribute name="path" path=""/>
+            <attribute name="protocole" protocole="http"/>
+        </object>
+    </classe>
+</openbexiCreative>

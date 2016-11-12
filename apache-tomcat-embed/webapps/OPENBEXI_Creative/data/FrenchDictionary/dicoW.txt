@@ -1,0 +1,211 @@
+--- ATTENTION : CONSERVEZ CETTE LICENCE SI VOUS REDISTRIBUEZ CE FICHIER ---
+License ABU
+-=-=-=-=-=-
+Version 1.1, Aout 1999
+
+Copyright (C) 1999 Association de Bibliophiles Universels
+   http://abu.cnam.fr/
+   abu@cnam.fr
+
+La base de textes de l'Association des Bibliophiles Universels (ABU)
+est une oeuvre de compilation, elle peut être copiée, diffusée et
+modifiée dans les conditions suivantes :
+
+1.  Toute copie à des fins privées, à des fins d'illustration de l'enseignement
+    ou de recherche scientifique est autorisée.
+
+2.  Toute diffusion ou inclusion dans une autre oeuvre doit
+
+     a) soit inclure la presente licence s'appliquant a l'ensemble de la
+        diffusion ou de l'oeuvre dérivee.
+
+     b) soit permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement une version
+        numérisée de chaque texte inclu, muni de la présente licence.  Cette
+        possibilité doit être mentionnée explicitement et de façon claire,
+        ainsi que le fait que la présente notice s'applique aux documents
+        extraits.
+
+     c) permettre aux bénéficiaires de cette diffusion ou de cette
+        oeuvre dérivée d'en extraire facilement et gratuitement la version
+        numérisée originale, munie le cas échéant des améliorations visées au
+        paragraphe 6, si elles sont présentent dans la diffusion ou la nouvelle
+        oeuvre. Cette possibilité doit être mentionnée explicitement et de
+        façon claire, ainsi que le fait que la présente notice s'applique aux
+        documents extraits.
+
+   Dans tous les autres cas, la présente licence sera réputée s'appliquer
+   à l'ensemble de la diffusion ou de l'oeuvre dérivée.
+
+
+3. L'en-tête qui accompagne chaque fichier doit être intégralement 
+   conservée au sein de la copie.
+
+4. La mention du producteur original doit être conservée, ainsi
+   que celle des contributeurs ultérieurs.
+
+5. Toute modification ultérieure, par correction d'erreurs,
+   additions de variantes, mise en forme dans un autre format, ou autre,
+   doit être indiquée.  L'indication des diverses contributions devra être
+   aussi précise que possible, et datée.
+
+6. Ce copyright s'applique obligatoirement à toute amélioration
+   par simple correction d'erreurs ou d'oublis mineurs (orthographe,
+   phrase manquante, ...), c'est-à-dire ne correspondant pas à
+   l'adjonction d'une autre variante connue du texte, qui devra donc
+   comporter la présente notice.
+
+----------------------- FIN DE LA LICENCE ABU --------------------------------
+
+wading	wading	Nom:Mas+SG
+wagage	wagage	Nom:Mas+SG
+wagnériennes	wagnérien	Adj:Fem+PL
+wagnériennes	wagnérien	Nom:Fem+PL
+wagnérienne	wagnérien	Adj:Fem+SG
+wagnérienne	wagnérien	Nom:Fem+SG
+wagnérien	wagnérien	Adj:Mas+SG
+wagnérien	wagnérien	Nom:Mas+SG
+wagnérisme	wagnérisme	Nom:Mas+SG
+wagonnée	wagonnée	Nom:Fem+SG
+wagonnets	wagonnet	Nom:Mas+PL
+wagonnet	wagonnet	Nom:Mas+SG
+wagonnier	wagonnier	Nom:Mas+SG
+wagons	wagon	Nom:Mas+PL
+wagons-bars	wagon-bar	Nom:Mas+PL
+wagons-citernes	wagon-citerne	Nom:Mas+PL
+wagons-foudres	wagon-foudre	Nom:Mas+PL
+wagons-lits	wagon-lit	Nom:Mas+PL
+wagons-poste	wagon-poste	Nom:Mas+PL
+wagons-réservoirs	wagon-réservoir	Nom:Mas+PL
+wagons-restaurants	wagon-restaurant	Nom:Mas+PL
+wagons-salons	wagon-salon	Nom:Mas+PL
+wagons-tombereaux	wagon-tombereau	Nom:Mas+PL
+wagons-trémies	wagon-trémie	Nom:Mas+PL
+wagons-vannes	wagon-vanne	Nom:Mas+PL
+wagon	wagon	Nom:Mas+SG
+wagon-bar	wagon-bar	Nom:Mas+SG
+wagon-citerne	wagon-citerne	Nom:Mas+SG
+wagon-foudre	wagon-foudre	Nom:Mas+SG
+wagon-lit	wagon-lit	Nom:Mas+SG
+wagon-poste	wagon-poste	Nom:Mas+SG
+wagon-réservoir	wagon-réservoir	Nom:Mas+SG
+wagon-restaurant	wagon-restaurant	Nom:Mas+SG
+wagon-salon	wagon-salon	Nom:Mas+SG
+wagon-tombereau	wagon-tombereau	Nom:Mas+SG
+wagon-trémie	wagon-trémie	Nom:Mas+SG
+wagon-vanne	wagon-vanne	Nom:Mas+SG
+wahhabisme	wahhabisme	Nom:Mas+SG
+wahhabite	wahhabite	Adj:InvGen+SG
+wahhabite	wahhabite	Nom:InvGen+SG
+walkies	walkie	Nom:Mas+PL
+walkie	walkie	Nom:Mas+SG
+walkie-talkie	walkie-talkie	Nom:Mas+SG
+walkman	walkman	Nom:Mas+SG
+walk	walk	Nom:Mas+SG
+walkyrie	walkyrie	Nom:Fem+SG
+walk-over	walk-over	Nom:Mas+InvPL
+walk-over	walk-over	Nom:Mas+SG
+wallabies	wallaby	Nom:Mas+PL
+wallaby	wallaby	Nom:Mas+SG
+wallingant	wallingant	Adj:Mas+SG
+wallonisme	wallonisme	Nom:Mas+SG
+wallonnes	wallon	Adj:Fem+PL
+wallonne	wallon	Adj:Fem+SG
+wallons	wallon	Adj:Mas+PL
+wallons	wallon	Nom:Mas+PL
+wallon	wallon	Adj:Mas+SG
+wapitis	wapiti	Nom:Mas+PL
+wapiti	wapiti	Nom:Mas+SG
+wargame	wargame	Nom:Mas+SG
+warrantages	warrantage	Nom:Mas+PL
+warrantage	warrantage	Nom:Mas+SG
+warrantant	warranter	Ver:PPre
+warrantées	warranter	Ver:PPas+Fem+PL
+warrantée	warranter	Ver:PPas+Fem+SG
+warranter	warranter	Ver:Inf
+warranté	warranter	Ver:PPas+Mas+SG
+warrant	warrant	Nom:Mas+SG
+washingtonia	washingtonia	Nom:Mas+SG
+wassingue	wassingue	Nom:Fem+SG
+watergang	watergang	Nom:Mas+SG
+wateringue	wateringue	Nom:Fem+SG
+waterproof	waterproof	Adj:InvGen+SG:InvGen+PL
+waterproof	waterproof	Nom:Mas+SG
+waters	waters	Nom:Mas+PL
+water-ballasts	water-ballast	Nom:Mas+PL
+water-ballast	water-ballast	Nom:Mas+SG
+water-closets	water-closet	Nom:Mas+PL
+water-closets	water-closets	Nom:Mas+InvPL
+water-closet	water-closet	Nom:Mas+SG
+water-polos	water-polo	Nom:Mas+PL
+water-polo	water-polo	Nom:Mas+SG
+wattheure	wattheure	Nom:Mas+SG
+wattmans	wattman	Nom:Mas+PL
+wattman	wattman	Nom:Mas+SG
+wattmen	wattman	Nom:Mas+PL
+wattmètre	wattmètre	Nom:Mas+SG
+watts	watt	Nom:Mas+PL
+watt	watt	Nom:Mas+SG
+watt-heure	watt-heure	Nom:Mas+SG
+webers	weber	Nom:Mas+PL
+weber	weber	Nom:Mas+SG
+week-ends	week-end	Nom:Mas+PL
+week-end	week-end	Nom:Mas+SG
+wehnelt	wehnelt	Nom:Mas+SG
+welche	welche	Nom:InvGen+SG
+wellingtonia	wellingtonia	Nom:Mas+SG
+weltanschauung	weltanschauung	Nom:Fem+SG
+welter	welter	Adj:InvGen+SG
+welter	welter	Nom:Mas+SG
+wergeld	wergeld	Nom:Mas+SG
+western	western	Nom:Mas+SG
+wharf	wharf	Nom:Mas+SG
+whig	whig	Adj:InvGen+SG
+whipcord	whipcord	Nom:Mas+SG
+whippet	whippet	Nom:Mas+SG
+whiskies	whisky	Nom:Mas+PL
+whisky	whisky	Nom:Mas+SG
+whist	whist	Nom:Mas+SG
+white-spirit	white-spirit	Nom:Mas+InvPL
+white-spirit	white-spirit	Nom:Mas+SG
+wigwam	wigwam	Nom:Mas+SG
+wilaya	wilaya	Nom:Fem+SG
+williams	williams	Nom:Fem+InvPL
+winchester	winchester	Nom:Mas+SG
+winch	winch	Nom:Mas+SG
+window	window	Nom:Fem+SG
+windsurf	windsurf	Nom:Mas+SG
+wintergreen	wintergreen	Nom:Mas+SG
+wishbone	wishbone	Nom:Mas+SG
+wisigothes	wisigoth	Adj:Fem+PL
+wisigothes	wisigoth	Nom:Fem+PL
+wisigothe	wisigoth	Adj:Fem+SG
+wisigothe	wisigoth	Nom:Fem+SG
+wisigothiques	wisigothique	Adj:InvGen+PL
+wisigothique	wisigothique	Adj:InvGen+SG
+wisigoths	wisigoth	Adj:Mas+PL
+wisigoth	wisigoth	Adj:Mas+SG
+witloof	witloof	Nom:Fem+SG
+wolframs	wolfram	Nom:Mas+PL
+wolfram	wolfram	Nom:Mas+SG
+wombat	wombat	Nom:Mas+SG
+won	won	Nom:Mas+InvPL
+woofer	woofer	Nom:Mas+SG
+woogie	woogie	Nom:Mas+SG
+wormien	wormien	Adj:Mas+SG
+wurmiennes	wurmien	Adj:Fem+PL
+wurmienne	wurmien	Adj:Fem+SG
+wurmiens	wurmien	Adj:Mas+PL
+wurmien	wurmien	Adj:Mas+SG
+würmien	würmien	Adj:Mas+SG
+würm	würm	Nom:Mas+SG
+wurtembergeoise	wurtembergeois	Adj:Fem+SG
+wurtembergeoise	wurtembergeois	Nom:Fem+SG
+wurtembergeois	wurtembergeois	Adj:Mas+InvPL
+wurtembergeois	wurtembergeois	Nom:Mas+InvPL
+wu	wu	Nom:Mas+SG
+w	w	Nom:Mas+InvPL
+wyandotte	wyandotte	Adj:InvGen+SG
+wyandotte	wyandotte	Nom:Fem+SG
+
+------------------------- FIN DU FICHIER --------------------------------
