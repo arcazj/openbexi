@@ -1,4 +1,4 @@
-# openbexi
+# OpenBEXI
 OpenBEXI is a WYSIWYG HTML builder. By resizing, dragging and dropping various HTML widgets it is easy to build a web page.
 
 Description:
@@ -35,6 +35,11 @@ www.openbexi.com
 
 Others locations:
 https://sourceforge.net/projects/ob-htmlbuilder/
+
+License
+-------
+GNU General Public License version 2.0 (GPLv2)
+
 
 
 
