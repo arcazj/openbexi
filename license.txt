@@ -2,7 +2,7 @@
 
 /* This notice must be untouched at all times.
 
-Copyright (c) 2005-2016 JC Arcaz. All rights reserved.
+Copyright (c) 2005-2019 JC Arcaz. All rights reserved.
 OPENBEXI Creative 5.0
 The open source OPENBEXI Creative is the server side of the OPENBEXI project for generating dynanic HTML page and html code source from the client side: OPENBEXI HTML Builder.
 
