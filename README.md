@@ -8,7 +8,7 @@ All texts using the DOJO editor, pictures, charts, chart-flows, Dygraphs, timeli
 OpenBEXI provides a powerful CSS and JavaScript editor to change on the fly the presentation and the behavior of your web pages.
 Tools allow you to create, manage and publish web projects and HTML pages for Internet.
 
-Starting and using OpenBEXI from Window 7,8 or 10:
+Starting and using OpenBEXI from Windows:
 --------------------------------------------------
 Download the project from https://github.com/arcazj/openbexi : click on "Clone or download".
 If you choose "Open in desktop" an "openbexi" folder will show up in your desktop environment.
