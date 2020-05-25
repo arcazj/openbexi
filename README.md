@@ -1,7 +1,7 @@
 # OpenBEXI
 OpenBEXI is a WYSIWYG HTML builder. By resizing, dragging and dropping various HTML widgets it is easy to build a web page.
 
-And see the last project: openbexi Timeline.
+And see the last openbexi project:
 https://github.com/arcazj/openbexi_timeline
 
 
